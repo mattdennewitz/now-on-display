@@ -1,0 +1,5341 @@
+[
+  {
+    "name": "062",
+    "url": "https://www.062official.com/",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "56 Henry",
+    "url": "https://56henry.nyc/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "65GRAND",
+    "url": "http://www.65grand.com/",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "A.I.R. Gallery",
+    "url": "https://www.airgallery.org",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Abattoir",
+    "url": "https://abattoirgallery.com/",
+    "locations": "Cleveland, OH",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "ABRI MARS",
+    "url": "https://abrimars.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Ackerman Clarke",
+    "url": "https://ackermanclarke.com/",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Adams and Ollman",
+    "url": "https://adamsandollman.com/",
+    "location_raw": [
+      "418 Northwest 8th AvenuePortland, OR 97209(503) 724-0684"
+    ],
+    "profile": "https://artdealers.org/gallery/adams-and-ollman",
+    "dates": [
+      "November 8, 2025 - December 20, 2025",
+      "September 13, 2025 - October 25, 2025",
+      "September 13, 2025 - October 25, 2025"
+    ]
+  },
+  {
+    "name": "ALA Projects",
+    "url": "https://alaprojects.com/",
+    "locations": "Miami, FL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Pietro Alexander",
+    "url": "https://www.pietroalexander.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Anat Ebgi",
+    "url": "http://www.anatebgi.com",
+    "location_raw": [
+      "6150 Wilshire BoulevardLos Angeles, CA 90048323 272 3418Also at:372 BroadwayNew York, NY 10013+1 (646) 927 3513"
+    ],
+    "profile": "https://artdealers.org/gallery/anat-ebgi",
+    "dates": [
+      "September 13, 2025 - November 1, 2025",
+      "September 13, 2025 - November 1, 2025",
+      "September 5, 2025 - October 18, 2025",
+      "September 5, 2025 - October 18, 2025"
+    ]
+  },
+  {
+    "name": "april april",
+    "url": "https://aprilapril.gallery/",
+    "locations": "Pittsburgh, PA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Bill Arning Exhibitions",
+    "url": "https://www.billarning.com/",
+    "locations": "Kinderhook, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Arsenal Contemporary Art",
+    "url": "https://www.arsenalcontemporary.com/ny/home",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Arts of Life – Circle Contemporary",
+    "url": "https://artsoflife.org/circlecontemporary/",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "as-is.la",
+    "url": "https://www.as-is.la/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Baert Gallery",
+    "url": "http://baertgallery.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Baker—Hall",
+    "url": "https://bakerhall.art/",
+    "locations": "Miami, FL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Jack Barrett",
+    "url": "http://jackbarrettgallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Nicelle Beauchene Gallery",
+    "url": "http://www.nicellebeauchene.com",
+    "location_raw": [
+      "7 Franklin PlaceNew York, NY 10013212 375 8043"
+    ],
+    "profile": "https://artdealers.org/gallery/nicelle-beauchene-gallery",
+    "dates": [
+      "October 16, 2025 - November 15, 2025",
+      "October 16, 2025 - November 15, 2025"
+    ]
+  },
+  {
+    "name": "Bienvenu Steinberg & C",
+    "url": "http://www.bsandj.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "bitforms gallery",
+    "url": "https://bitforms.art/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Blade Study",
+    "url": "https://www.bladestudy.net/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Blah Blah Gallery",
+    "url": "https://blahblahgallery.com/",
+    "locations": "Philadelphia, PA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Gallery Bogart",
+    "url": "https://gallerybogart.com/",
+    "locations": "Kansas City, MO",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Broadway Gallery",
+    "url": "http://www.broadwaygallery.nyc",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Spencer Brownstone Gallery",
+    "url": "https://spencerbrownstonegallery.com/main",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "BUREAU",
+    "url": "http://www.bureau-inc.com",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Rebecca Camacho Presents",
+    "url": "http://www.rebeccacamacho.com",
+    "location_raw": [
+      "526 Washington StreetSan Francisco, CA 94111415 800 7228"
+    ],
+    "profile": "https://artdealers.org/gallery/rebecca-camacho-presents",
+    "dates": []
+  },
+  {
+    "name": "CANADA",
+    "url": "http://www.canadanewyork.com",
+    "location_raw": [
+      "60-61 Lispenard StreetNew York, NY 10013212 925 4631"
+    ],
+    "profile": "https://artdealers.org/gallery/canada",
+    "dates": [
+      "October 29, 2024 - November 2, 2024",
+      "October 11, 2024 - November 16, 2024"
+    ]
+  },
+  {
+    "name": "Candice Madey",
+    "url": "https://www.candicemadey.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "CARVALHO",
+    "url": "https://www.carvalhopark.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Cevera Yoon",
+    "url": "https://www.ceverayoon.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Chapter NY",
+    "url": "http://www.chapter-ny.com",
+    "location_raw": [
+      "60 Walker StreetNew York, NY 10013646 850 7486"
+    ],
+    "profile": "https://artdealers.org/gallery/chapter-ny",
+    "dates": [
+      "October 31, 2025 - December 13, 2025",
+      "October 31, 2025 - December 13, 2025",
+      "September 5, 2025 - October 18, 2025",
+      "September 5, 2025 - October 18, 2025",
+      "June 27, 2025 - August 8, 2025",
+      "June 27, 2025 - August 8, 2025",
+      "April 18, 2025 - June 14, 2025",
+      "April 18, 2025 - May 24, 2025",
+      "February 28, 2025 - April 12, 2025",
+      "February 28, 2025 - April 12, 2025",
+      "January 10, 2025 - February 15, 2025",
+      "September 6, 2024 - October 12, 2024",
+      "September 6, 2024 - October 12, 2024",
+      "May 10, 2024 - June 15, 2024",
+      "May 10, 2024 - June 15, 2024",
+      "April 5, 2024 - May 4, 2024",
+      "April 5, 2024 - May 4, 2024",
+      "March 1, 2024 - March 30, 2024",
+      "March 1, 2024 - March 30, 2024",
+      "January 5, 2024 - February 17, 2024",
+      "January 5, 2024 - February 17, 2024"
+    ]
+  },
+  {
+    "name": "CHART",
+    "url": "http://chart-gallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Cheremoya",
+    "url": "https://www.cheremoya.la",
+    "locations": "Santa Fe, NM",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Chozick Family Art Gallery",
+    "url": "https://www.chozickfamilyartgallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Cleo the Project Space",
+    "url": "https://www.cleotheprojectspace.org",
+    "locations": "Savannah, GA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Creative Growth",
+    "url": "https://creativegrowth.org/",
+    "locations": "Oakland, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Creativity Explored",
+    "url": "https://www.creativityexplored.org/",
+    "locations": "San Francisco, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "CUE Art Foundation",
+    "url": "https://cueartfoundation.org/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "D. D. D. D.",
+    "url": "https://dddd.pictures",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "David Peter Francis",
+    "url": "https://davidpeterfrancis.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "de boer",
+    "url": "https://deboergallery.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Luis De Jesus Los Angeles",
+    "url": "http://www.luisdejesus.com",
+    "location_raw": [
+      "1110 Mateo StreetLos Angeles, CA 90021213 395 0762"
+    ],
+    "profile": "https://artdealers.org/gallery/luis-de-jesus-los-angeles",
+    "dates": [
+      "September 13, 2025 - October 25, 2025",
+      "September 13, 2025 - October 25, 2025"
+    ]
+  },
+  {
+    "name": "Derosia",
+    "url": "https://www.derosia.nyc",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Dimensions Variable",
+    "url": "https://dimensionsvariable.net/",
+    "locations": "Miami, FL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "DIMIN",
+    "url": "https://www.dimin.nyc/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Dinner Gallery",
+    "url": "https://dinnergallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "DOCUMENT",
+    "url": "http://documentspace.com",
+    "location_raw": [
+      "1709 West Chicago AvenueChicago, IL 60622312 535 4555"
+    ],
+    "profile": "https://artdealers.org/gallery/document",
+    "dates": [
+      "September 17, 2026 - November 7, 2026",
+      "June 12, 2026 - August 15, 2026",
+      "March 27, 2026 - June 6, 2026",
+      "January 9, 2026 - March 21, 2026",
+      "November 7, 2025 - December 20, 2025",
+      "September 12, 2025 - November 1, 2025",
+      "June 13, 2025 - August 2, 2025",
+      "April 18, 2025 - June 7, 2025",
+      "February 28, 2025 - April 12, 2025",
+      "January 10, 2025 - February 22, 2025",
+      "November 1, 2024 - December 21, 2024",
+      "September 6, 2024 - October 26, 2024",
+      "June 7, 2024 - August 3, 2024",
+      "April 12, 2024 - June 1, 2024",
+      "February 23, 2024 - April 6, 2024",
+      "January 5, 2024 - February 17, 2024"
+    ]
+  },
+  {
+    "name": "Dreamsong",
+    "url": "https://dreamsong.art/",
+    "locations": "Minneapolis, MN",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Duane Thomas Gallery",
+    "url": "https://www.duanethomasgallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Dunes",
+    "url": "https://www.dunes.fyi/",
+    "locations": "Portland, ME",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Dutton",
+    "url": "http://www.soniadutton.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Ed. Varie",
+    "url": "http://edvarie.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "El Kilometro",
+    "url": "https://www.elkilometro.org/",
+    "locations": "San Juan, PR",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Derek Eller Gallery",
+    "url": "http://www.derekeller.com",
+    "location_raw": [
+      "38 Walker Street, Ground FloorNew York, NY 10013212 206 6411"
+    ],
+    "profile": "https://artdealers.org/gallery/derek-eller-gallery",
+    "dates": [
+      "May 1, 2026 - May 30, 2026",
+      "March 27, 2026 - April 25, 2026",
+      "February 20, 2026 - March 21, 2026",
+      "February 20, 2026 - March 21, 2026",
+      "January 16, 2026 - February 14, 2026",
+      "January 16, 2026 - February 14, 2026",
+      "September 5, 2025 - October 11, 2025",
+      "July 16, 2025 - August 22, 2025",
+      "July 16, 2025 - August 22, 2025",
+      "May 30, 2025 - July 11, 2025",
+      "May 30, 2025 - July 11, 2025",
+      "April 18, 2025 - May 24, 2025",
+      "April 18, 2025 - May 24, 2025",
+      "February 28, 2025 - April 12, 2025",
+      "February 28, 2025 - April 12, 2025",
+      "January 10, 2025 - February 22, 2025",
+      "October 25, 2024 - December 21, 2024",
+      "October 25, 2024 - December 21, 2024",
+      "September 6, 2024 - October 19, 2024",
+      "May 30, 2024 - June 29, 2024",
+      "May 30, 2024 - June 29, 2024",
+      "April 25, 2024 - May 25, 2024",
+      "March 16, 2024 - April 20, 2024",
+      "February 8, 2024 - March 9, 2024",
+      "January 5, 2024 - February 3, 2024"
+    ]
+  },
+  {
+    "name": "EMBAJADA",
+    "url": "https://embajadada.com",
+    "locations": "San Juan, PR",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "ENGAGE Projects",
+    "url": "https://www.engage-projects.com/",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Entrance",
+    "url": "https://www.entrance.nyc/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Essex Flowers",
+    "url": "https://essexflowers.us/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Et al.",
+    "url": "https://etaletc.com/",
+    "locations": "San Francisco, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "EUROPA",
+    "url": "https://europa.nyc/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Deanna Evans Projects",
+    "url": "https://www.deannaevansprojects.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Everybody",
+    "url": "https://www.everybody.gallery/",
+    "locations": "Tucson, AZ",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Feia",
+    "url": "https://feia.studio",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Foreign & Domestic",
+    "url": "https://foreigndomestic.io/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Fountain House Gallery",
+    "url": "https://www.fountainhousegallery.org/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Fragment",
+    "url": "http://www.fragmentgallery.com",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Gaa, Cologne",
+    "url": "http://www.gaa-gallery.com/",
+    "locations": "Provincetown, MA; New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Garvey|Simon",
+    "url": "https://www.garveysimon.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Gattopardo",
+    "url": "https://gattopardo.la/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Geary",
+    "url": "https://www.geary.nyc/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Asya Geisberg Gallery",
+    "url": "https://www.asyageisberggallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Gene's Dispensary",
+    "url": "https://www.genesdispensary.ca/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Gern en Regalia",
+    "url": "https://gernenregalia.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Gisela Projects",
+    "url": "https://www.giselaprojects.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Laurel Gitlen",
+    "url": "https://www.laurelgitlen.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Sebastian Gladstone",
+    "url": "https://sebastiangladstone.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Good Mother Gallery",
+    "url": "https://goodmothergallery.com/",
+    "locations": "Los Angeles, CA; Oakland, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Good Naked Gallery",
+    "url": "https://www.goodnakedgallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Good Weather",
+    "url": "https://goodweather.llc",
+    "locations": "North Little Rock, AR; Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Gordon Robichaux",
+    "url": "http://www.gordonrobichaux.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Kavi Gupta",
+    "url": "http://kavigupta.com/",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "HAIR+NAILS",
+    "url": "http://www.hairandnailsart.com",
+    "locations": "Minneapolis, MN; New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Halsey McKay Gallery",
+    "url": "http://halseymckay.com",
+    "locations": "East Hampton, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Harkawik",
+    "url": "https://www.harkawik.com/",
+    "locations": "Los Angeles, CA; New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Timothy Hawkinson Gallery",
+    "url": "https://www.timothyhawkinsongallery.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "HESSE FLATOW",
+    "url": "https://hesseflatow.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "HeyThereProjects",
+    "url": "https://www.heythereprojects.com",
+    "locations": "Joshua Tree, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "The Hole",
+    "url": "http://theholenyc.com/",
+    "locations": "Los Angeles, CA; New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Hunter College Art Galleries",
+    "url": "https://huntercollegeartgalleries.org/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "IRL Gallery",
+    "url": "https://www.irl-nyc.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Ivester Contemporary",
+    "url": "https://ivestercontemporary.com/",
+    "locations": "Austin, TX",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "JDJ",
+    "url": "https://jdj.world/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Jeni Abramson Gallery",
+    "url": "https://jeniabramson.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Jennifer Terzian Gallery",
+    "url": "https://jenniferterziangallery.com/",
+    "locations": "Litchfield, CT",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "JJ Murphy Gallery",
+    "url": "https://www.jjmurphygallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Nina Johnson",
+    "url": "http://www.ninajohnson.com",
+    "location_raw": [
+      "6315 Northwest 2nd AvenueMiami, FL 33150305 571 2288"
+    ],
+    "profile": "https://artdealers.org/gallery/nina-johnson",
+    "dates": []
+  },
+  {
+    "name": "KATES-FERRI PROJECTS",
+    "url": "https://www.katesferriprojects.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "KDR",
+    "url": "https://www.kdr305.com/",
+    "locations": "Miami, FL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "KIPNZ",
+    "url": "https://www.kipnz.com/",
+    "locations": "Walton, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Klaus von Nichtssagend Gallery",
+    "url": "http://www.klausgallery.com",
+    "location_raw": [
+      "87 Franklin StreetNew York, NY 10013212 777 7756"
+    ],
+    "profile": "https://artdealers.org/gallery/klaus-von-nichtssagend-gallery",
+    "dates": [
+      "September 5, 2025 - October 18, 2025",
+      "September 5, 2025 - October 18, 2025",
+      "July 16, 2025 - August 15, 2025",
+      "May 29, 2025 - July 11, 2025",
+      "May 29, 2025 - July 11, 2025",
+      "September 6, 2024 - October 19, 2024",
+      "September 6, 2024 - October 19, 2024",
+      "May 17, 2024 - June 22, 2024",
+      "May 17, 2024 - June 22, 2024"
+    ]
+  },
+  {
+    "name": "la BEAST gallery",
+    "url": "https://labeastgallery.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "La Loma",
+    "url": "https://www.lalomaprojects.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "LaMontagne Gallery",
+    "url": "https://www.lamontagnegallery.com/",
+    "locations": "Boston, MA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "the Landing",
+    "url": "http://thelandinggallery.com",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Laney Contemporary",
+    "url": "https://www.laneycontemporary.com/",
+    "locations": "Savannah, GA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Laura (the gallery)",
+    "url": "https://laurathegallery.com",
+    "locations": "Houston, TX",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "M. LeBlanc",
+    "url": "https://mleblancchicago.com/",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "LIC Artists",
+    "url": "https://www.licartists.org/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Long Story Short",
+    "url": "https://www.lss.gallery",
+    "locations": "Los Angeles, CA; New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Kristen Lorello",
+    "url": "http://www.kristenlorello.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Louis Buhl & Co.",
+    "url": "https://www.louisbuhl.com/",
+    "locations": "Detroit, MI",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "LVL3",
+    "url": "https://lvl3official.com/",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Magenta Plains",
+    "url": "http://www.magentaplains.com",
+    "location_raw": [
+      "149 Canal StreetNew York, NY 10002917 388 2464"
+    ],
+    "profile": "https://artdealers.org/gallery/magenta-plains",
+    "dates": [
+      "September 12, 2025 - October 25, 2025",
+      "July 3, 2025 - August 15, 2025",
+      "May 7, 2025 - June 21, 2025",
+      "May 6, 2025 - June 21, 2025",
+      "March 13, 2025 - April 26, 2025",
+      "March 13, 2025 - April 26, 2025",
+      "January 16, 2025 - March 1, 2025",
+      "January 16, 2025 - March 1, 2025",
+      "January 16, 2025 - March 1, 2025",
+      "November 2, 2024 - December 21, 2024",
+      "September 17, 2024 - October 26, 2024",
+      "July 11, 2024 - August 16, 2024",
+      "July 11, 2024 - August 16, 2024",
+      "May 16, 2024 - June 29, 2024",
+      "May 16, 2024 - June 29, 2024",
+      "May 16, 2024 - June 29, 2024",
+      "March 7, 2024 - May 4, 2024",
+      "January 11, 2024 - February 24, 2024",
+      "January 11, 2024 - February 24, 2024",
+      "January 11, 2024 - February 24, 2024"
+    ]
+  },
+  {
+    "name": "Mahara+Co",
+    "url": "https://mahara-co.com/",
+    "locations": "Miami, FL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Mama Projects",
+    "url": "https://mamaprojects.co/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Management",
+    "url": "https://management.nyc/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Marinaro",
+    "url": "https://www.marinaro.biz/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Kathryn Markel Fine Arts",
+    "url": "https://www.markelfinearts.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Marta",
+    "url": "https://marta.la/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Martha's",
+    "url": "http://www.marthas.gallery",
+    "locations": "Austin, TX",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Philip Martin Gallery",
+    "url": "https://philipmartingallery.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Massey Klein",
+    "url": "https://www.masseyklein.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Kai Matsumiya",
+    "url": "http://kaimatsumiya.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "M+B",
+    "url": "https://www.mbart.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "McLennon Pen Co.",
+    "url": "https://mclennonpenco.com",
+    "locations": "Austin, TX",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Medium Tings",
+    "url": "https://www.mediumtingsbk.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "MICKEY",
+    "url": "https://www.mickey.online/",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Microscope Gallery",
+    "url": "http://www.microscopegallery.com",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Midway Contemporary Art",
+    "url": "https://www.midwayart.org/",
+    "locations": "Minneapolis, MN",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Miriam",
+    "url": "https://miriamgallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Charles Moffett",
+    "url": "http://charlesmoffett.com",
+    "location_raw": [
+      "394 Broadway, Second FloorNew York, NY 10013212 226 2646"
+    ],
+    "profile": "https://artdealers.org/gallery/charles-moffett",
+    "dates": [
+      "September 5, 2025 - October 11, 2025"
+    ]
+  },
+  {
+    "name": "Morgan Lehman Gallery",
+    "url": "https://www.morganlehmangallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Moskowitz Bayse",
+    "url": "http://www.moskowitzbayse.com",
+    "location_raw": [
+      "743 North La Brea AvenueLos Angeles, CA 90038323 790 4882"
+    ],
+    "profile": "https://artdealers.org/gallery/moskowitz-bayse",
+    "dates": []
+  },
+  {
+    "name": "Mrs.",
+    "url": "http://www.mrsgallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Nationale",
+    "url": "https://www.nationale.us/",
+    "locations": "Portland, OR",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Nazarian / Curcio",
+    "url": "http://www.nazariancurcio.com",
+    "location_raw": [
+      "616 North La Brea AvenueLos Angeles, CA 90036Appointment Recommended310 281 0961"
+    ],
+    "profile": "https://artdealers.org/gallery/nazarian-curcio",
+    "dates": [
+      "February 15, 2025 - March 22, 2025",
+      "January 11, 2025 - February 8, 2025",
+      "November 16, 2024 - December 21, 2024",
+      "November 16, 2024 - December 21, 2024",
+      "September 21, 2024 - November 2, 2024",
+      "September 21, 2024 - November 2, 2024",
+      "July 27, 2024 - August 31, 2024",
+      "July 27, 2024 - August 31, 2024",
+      "June 8, 2024 - July 13, 2024",
+      "June 8, 2024 - July 13, 2024",
+      "January 6, 2024 - February 10, 2024",
+      "January 6, 2024 - February 10, 2024",
+      "January 6, 2024 - February 10, 2024",
+      "November 11, 2023 - December 20, 2023",
+      "September 16, 2023 - October 28, 2023",
+      "September 16, 2023 - October 28, 2023",
+      "July 15, 2023 - August 19, 2023",
+      "July 15, 2023 - August 19, 2023",
+      "May 27, 2023 - July 1, 2023",
+      "May 27, 2023 - July 1, 2023",
+      "April 8, 2023 - May 13, 2023",
+      "April 8, 2023 - May 13, 2023",
+      "February 15, 2023 - March 25, 2023",
+      "February 15, 2023 - March 25, 2023",
+      "January 7, 2023 - February 10, 2023",
+      "November 12, 2022 - December 17, 2022",
+      "September 17, 2022 - October 29, 2022",
+      "September 17, 2022 - October 29, 2022",
+      "July 9, 2022 - August 27, 2022"
+    ]
+  },
+  {
+    "name": "New Discretions",
+    "url": "http://www.newdiscretions.com",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "New Release",
+    "url": "http://www.newreleasegallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "New York Life Gallery",
+    "url": "https://www.newyorklifegallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "New Image Art",
+    "url": "https://www.newimageartgallery.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Night Gallery",
+    "url": "http://www.nightgallery.ca",
+    "location_raw": [
+      "Night Gallery South2276 East 16th StreetLos Angeles, CA 90021323 589 1135Also at:2050 Imperial StreetLos Angeles, CA 90021info@nightgallery.ca"
+    ],
+    "profile": "https://artdealers.org/gallery/night-gallery",
+    "dates": []
+  },
+  {
+    "name": "NOON Projects",
+    "url": "https://noon-projects.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "OCHI",
+    "url": "http://www.ochigallery.com",
+    "locations": "Los Angeles, CA; Sun Valley, ID",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Oolong Gallery",
+    "url": "http://www.oolongallery.com",
+    "locations": "Rancho Santa Fe, CA; New York, NY; Santa Fe, NM",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Ortega y Gasset Projects",
+    "url": "https://www.oygprojects.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Outer Space",
+    "url": "https://outerspacearts.xyz/",
+    "locations": "Concord, NH",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Paradigm Gallery + Studio",
+    "url": "https://www.artsy.net/partner/paradigm-gallery-plus-studio",
+    "locations": "Philadelphia, PA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Parent Company",
+    "url": "https://www.parentcompany.net/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Tyler Park Presents",
+    "url": "https://www.tylerparkpresents.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "PATRON",
+    "url": "http://www.patrongallery.com",
+    "location_raw": [
+      "1612 West Chicago AvenueChicago, IL 60622By Appointment312 846 1500"
+    ],
+    "profile": "https://artdealers.org/gallery/patron",
+    "dates": [
+      "June 20, 2026 - August 22, 2026",
+      "May 2, 2026 - June 6, 2026",
+      "May 2, 2026 - June 13, 2026",
+      "March 20, 2026 - April 25, 2026",
+      "March 20, 2026 - April 25, 2026",
+      "January 24, 2026 - March 7, 2026",
+      "November 1, 2025 - January 17, 2026",
+      "September 11, 2025 - October 25, 2025",
+      "June 21, 2025 - August 16, 2025",
+      "June 21, 2025 - August 16, 2025",
+      "April 10, 2025 - June 14, 2025",
+      "April 10, 2025 - June 14, 2025",
+      "January 11, 2025 - March 29, 2025",
+      "June 7, 2024 - August 17, 2024",
+      "June 7, 2024 - August 17, 2024",
+      "April 10, 2024 - June 1, 2024",
+      "February 3, 2024 - March 30, 2024",
+      "February 3, 2024 - March 30, 2024",
+      "November 11, 2023 - January 27, 2024",
+      "September 9, 2023 - November 4, 2023",
+      "June 3, 2023 - August 19, 2023",
+      "June 3, 2023 - August 19, 2023",
+      "April 12, 2023 - May 27, 2023",
+      "April 12, 2023 - May 27, 2023",
+      "February 4, 2023 - March 25, 2023",
+      "February 4, 2023 - March 25, 2023",
+      "November 12, 2022 - January 28, 2023",
+      "November 12, 2022 - January 28, 2023",
+      "September 10, 2022 - October 10, 2022",
+      "July 23, 2022 - August 27, 2022",
+      "June 4, 2022 - July 16, 2022",
+      "April 30, 2022 - May 28, 2022",
+      "March 5, 2022 - April 16, 2022",
+      "March 5, 2022 - April 16, 2022",
+      "December 11, 2021 - February 26, 2022",
+      "September 18, 2021 - November 27, 2021",
+      "September 18, 2021 - November 27, 2021",
+      "July 17, 2021 - August 21, 2021",
+      "July 17, 2021 - August 28, 2021",
+      "June 5, 2021 - July 10, 2021",
+      "June 5, 2021 - July 10, 2021",
+      "April 22, 2021 - May 29, 2021"
+    ]
+  },
+  {
+    "name": "PENTIMENTI",
+    "url": "https://www.pentimenti.com/",
+    "locations": "Philadelphia, PA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Pioneer Works",
+    "url": "https://pioneerworks.org/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "The Pit",
+    "url": "http://www.the-pit.la",
+    "location_raw": [
+      "3015 Dolores StreetLos Angeles, CA 90065747 273 8240"
+    ],
+    "profile": "https://artdealers.org/gallery/the-pit",
+    "dates": [
+      "August 23, 2025 - October 11, 2025"
+    ]
+  },
+  {
+    "name": "PRIMARY",
+    "url": "https://www.thisisprimary.com/",
+    "locations": "Miami, FL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Printed Matter, Inc.",
+    "url": "https://www.printedmatter.org/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Proxyco Gallery",
+    "url": "http://www.proxycogallery.com",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "ANDREW RAFACZ",
+    "url": "https://andrewrafacz.com/",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Ricco/Maresca",
+    "url": "http://www.riccomaresca.com",
+    "location_raw": [
+      "529 West 20th Street, 3rd FloorNew York, NY 10011212 627 4819"
+    ],
+    "profile": "https://artdealers.org/gallery/ricco-maresca",
+    "dates": [
+      "September 17, 2026 - October 31, 2026",
+      "September 17, 2026 - October 31, 2026",
+      "May 28, 2026 - August 21, 2026",
+      "May 28, 2026 - August 21, 2026",
+      "March 20, 2026 - May 2, 2026",
+      "March 20, 2026 - May 2, 2026",
+      "January 15, 2026 - March 7, 2026",
+      "January 15, 2026 - March 7, 2026",
+      "November 20, 2025 - January 10, 2026",
+      "November 20, 2025 - January 10, 2026",
+      "September 18, 2025 - November 8, 2025",
+      "September 18, 2025 - November 8, 2025",
+      "September 12, 2025 - September 13, 2025",
+      "June 12, 2025 - September 13, 2025",
+      "April 10, 2025 - May 17, 2025",
+      "April 10, 2025 - May 17, 2025",
+      "February 28, 2025 - April 5, 2025",
+      "February 28, 2025 - April 5, 2025",
+      "December 12, 2024 - February 1, 2025",
+      "December 12, 2024 - February 15, 2025",
+      "November 1, 2024 - December 7, 2024",
+      "November 1, 2024 - December 7, 2024",
+      "September 19, 2024 - October 26, 2024",
+      "September 19, 2024 - October 26, 2024",
+      "July 17, 2024 - September 12, 2024",
+      "July 17, 2024 - September 12, 2024",
+      "May 23, 2024 - July 12, 2024",
+      "May 23, 2024 - July 12, 2024",
+      "April 18, 2024 - May 18, 2024",
+      "April 18, 2024 - May 18, 2024",
+      "March 1, 2024 - April 13, 2024",
+      "March 1, 2024 - April 13, 2024",
+      "December 14, 2023 - February 17, 2024",
+      "December 14, 2023 - February 17, 2024",
+      "October 26, 2023 - December 2, 2023",
+      "September 14, 2023 - October 21, 2023",
+      "September 14, 2023 - October 21, 2023",
+      "April 27, 2023 - June 3, 2023",
+      "April 27, 2023 - June 3, 2023",
+      "March 3, 2023 - April 22, 2023",
+      "December 8, 2022 - February 18, 2023",
+      "October 20, 2022 - December 3, 2022",
+      "September 15, 2022 - October 15, 2022",
+      "May 6, 2022 - June 18, 2022",
+      "March 4, 2022 - April 30, 2022",
+      "December 11, 2021 - February 26, 2022",
+      "October 28, 2021 - December 4, 2021",
+      "September 18, 2021 - October 23, 2021",
+      "June 3, 2021 - September 11, 2021",
+      "March 18, 2021 - May 20, 2021",
+      "January 28, 2021 - March 13, 2021",
+      "October 29, 2020 - January 23, 2021",
+      "September 17, 2020 - October 24, 2020",
+      "June 11, 2020 - September 4, 2020",
+      "January 17, 2020 - March 21, 2020",
+      "October 24, 2019 - November 27, 2019",
+      "September 12, 2019 - October 19, 2019",
+      "July 11, 2019 - September 7, 2019",
+      "May 9, 2019 - July 3, 2019"
+    ]
+  },
+  {
+    "name": "Rivalry Projects",
+    "url": "https://www.rivalryprojects.com/",
+    "locations": "Buffalo, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Romance",
+    "url": "http://www.romance-gal.com",
+    "locations": "Pittsburgh, PA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Romer Young Gallery",
+    "url": "https://www.romeryounggallery.com/",
+    "locations": "San Francisco, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Diane Rosenstein Gallery",
+    "url": "https://dianerosenstein.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Cindy Rucker Gallery",
+    "url": "https://www.cindyruckergallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Nick Ryan Gallery",
+    "url": "https://www.nickryangallery.com",
+    "locations": "Boulder, CO",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Samson Projects",
+    "url": "https://samsonprojects.com/",
+    "locations": "Boston, MA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "SARAHCROWN",
+    "url": "https://www.sarahcrown.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "SARA’S",
+    "url": "https://saras.world/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "secret project robot",
+    "url": "https://www.secretprojectrobot.org/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "SEPTEMBER",
+    "url": "http://septembergallery.com/",
+    "locations": "Kinderhook, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Sheet Cake Gallery",
+    "url": "https://sheetcakegallery.com/",
+    "locations": "Memphis, TN",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Shelter",
+    "url": "https://www.shelternyc.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "SHRINE",
+    "url": "http://www.shrine.nyc",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Sibyl Gallery",
+    "url": "http://www.sibylgallery.com",
+    "locations": "New Orleans, LA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "signs and symbols",
+    "url": "https://www.signsandsymbols.art/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Jessica Silverman",
+    "url": "http://www.jessicasilvermangallery.com",
+    "location_raw": [
+      "621 Grant AvenueSan Francisco, CA 94108Appointment Recommended415 255 9508"
+    ],
+    "profile": "https://artdealers.org/gallery/jessica-silverman",
+    "dates": [
+      "September 10, 2026 - October 24, 2026",
+      "September 10, 2026 - October 24, 2026",
+      "June 5, 2026 - July 11, 2026",
+      "June 5, 2026 - July 11, 2026",
+      "April 24, 2026 - May 30, 2026",
+      "April 24, 2026 - May 30, 2026",
+      "March 5, 2026 - April 18, 2026",
+      "March 5, 2026 - April 18, 2026",
+      "January 8, 2026 - February 28, 2026",
+      "January 8, 2026 - February 28, 2026",
+      "October 30, 2025 - December 20, 2025",
+      "October 30, 2025 - December 20, 2025",
+      "September 11, 2025 - October 25, 2025",
+      "September 11, 2025 - October 25, 2025",
+      "July 24, 2025 - September 3, 2025",
+      "July 24, 2025 - September 3, 2025",
+      "February 27, 2025 - April 5, 2025",
+      "February 27, 2025 - April 5, 2025",
+      "January 9, 2025 - February 22, 2025",
+      "January 9, 2025 - February 22, 2025",
+      "January 13, 2023 - February 25, 2023",
+      "January 13, 2023 - February 25, 2023",
+      "November 10, 2022 - December 23, 2022",
+      "November 10, 2022 - December 23, 2022",
+      "September 16, 2022 - October 29, 2022",
+      "September 16, 2022 - October 29, 2022",
+      "July 23, 2022 - September 1, 2022",
+      "July 9, 2022 - August 6, 2022",
+      "June 10, 2022 - July 16, 2022",
+      "June 10, 2022 - July 16, 2022",
+      "April 29, 2022 - May 28, 2022",
+      "April 29, 2022 - May 28, 2022",
+      "March 11, 2022 - April 23, 2022",
+      "March 11, 2022 - April 23, 2022",
+      "January 15, 2022 - February 26, 2022",
+      "January 15, 2022 - February 26, 2022",
+      "November 20, 2021 - January 8, 2022",
+      "October 2, 2021 - November 13, 2021",
+      "August 27, 2021 - September 25, 2021",
+      "May 28, 2021 - July 2, 2021",
+      "March 13, 2020 - June 12, 2020",
+      "October 29, 2019 - December 21, 2019",
+      "September 12, 2019 - October 19, 2019",
+      "July 11, 2019 - August 24, 2019",
+      "May 9, 2019 - June 22, 2019",
+      "March 14, 2019 - May 4, 2019",
+      "January 10, 2019 - March 2, 2019",
+      "September 13, 2018 - October 27, 2018",
+      "July 19, 2018 - August 31, 2018",
+      "June 7, 2018 - July 14, 2018",
+      "June 7, 2018 - July 14, 2018",
+      "April 26, 2018 - June 2, 2018",
+      "April 26, 2018 - June 2, 2018"
+    ]
+  },
+  {
+    "name": "SITUATIONS",
+    "url": "https://www.situations.us",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "David B. Smith Gallery",
+    "url": "https://www.davidbsmithgallery.com/",
+    "locations": "Denver, CO",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "SoMad",
+    "url": "https://somad.nyc/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Southside Contemporary",
+    "url": "https://www.southsidecontemporary.com",
+    "locations": "Richmond, VA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "The Sphinx",
+    "url": "https://www.thesphinxnyc.com/",
+    "locations": "Boston, MA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Spinello Projects",
+    "url": "https://spinelloprojects.com/",
+    "locations": "Miami, FL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Springsteen",
+    "url": "https://www.springsteengallery.com/",
+    "locations": "Baltimore, MD",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Stellarhighway",
+    "url": "http://www.stellarhighway.com",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Stroll Garden",
+    "url": "https://stroll-garden.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Superhouse",
+    "url": "https://www.superhouse.us/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Superposition Gallery",
+    "url": "http://superpositiongallery.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Tappeto Volante Gallery",
+    "url": "https://tappetovolantegallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "THE MISSION PROJECTS",
+    "url": "https://themissionprojects.com",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Tierra del Sol Gallery",
+    "url": "https://tierradelsolgallery.org/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Tinsel",
+    "url": "https://www.realtinsel.com",
+    "locations": "Milwaukee, WI",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Hannah Traore Gallery",
+    "url": "https://hannahtraoregallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Turley Gallery",
+    "url": "https://www.turley.gallery/",
+    "locations": "Hudson, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Twelve Gates Arts",
+    "url": "http://www.twelvegatesarts.org/",
+    "locations": "Philadelphia, PA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Twelve Ten Gallery",
+    "url": "https://twelvetengallery.com/",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Uffner & Liu",
+    "url": "https://www.racheluffnergallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Ulterior Gallery",
+    "url": "http://www.ulteriorgallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Uprise Art",
+    "url": "https://www.upriseart.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Galleri Urbane",
+    "url": "http://www.galleriurbane.com",
+    "locations": "Dallas, TX",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "The Valley",
+    "url": "https://www.thevalleytaos.com/",
+    "locations": "Santa Fe, NM",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Volume Gallery",
+    "url": "http://wvvolumes.com/",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "VSG Contemporary",
+    "url": "https://vsgcontemporary.com/",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Wassaic Project",
+    "url": "https://www.wassaicproject.org/",
+    "locations": "Wassaic, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Weatherproof",
+    "url": "https://www.weatherproof.zone",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Kate Werble Gallery",
+    "url": "http://www.katewerblegallery.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Western Exhibitions",
+    "url": "https://westernexhibitions.com/",
+    "locations": "Chicago, IL",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "White Columns",
+    "url": "https://whitecolumns.org/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Whitespace",
+    "url": "https://whitespace814.com/",
+    "locations": "Atlanta, GA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Wilding Cran Gallery",
+    "url": "https://wildingcran.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Yeh Art Gallery",
+    "url": "https://sjuartgallery.org",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "Yiwei Gallery",
+    "url": "https://yiweigallery.com/",
+    "locations": "Los Angeles, CA",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "YveYANG Gallery",
+    "url": "https://www.yveyang.com/",
+    "locations": "New York, NY",
+    "source": "https://www.newartdealers.org/members"
+  },
+  {
+    "name": "AH Arts",
+    "url": "http://www.ahartsllc.com",
+    "location_raw": [
+      "242 West 22nd Street, No. 1New York, NY 10011Appointment Recommended602 692 6842"
+    ],
+    "profile": "https://artdealers.org/gallery/ah-arts",
+    "dates": []
+  },
+  {
+    "name": "ACA Galleries",
+    "url": "http://www.acagalleries.com",
+    "location_raw": [
+      "173 10th AvenueNew York, NY 10011212 206 8080"
+    ],
+    "profile": "https://artdealers.org/gallery/aca-galleries",
+    "dates": [
+      "October 31, 2026 - December 23, 2026",
+      "September 10, 2026 - October 24, 2026",
+      "June 27, 2026 - August 21, 2026",
+      "April 25, 2026 - June 20, 2026",
+      "March 17, 2026 - April 18, 2026",
+      "January 31, 2026 - March 7, 2026",
+      "November 1, 2025 - January 10, 2026",
+      "September 5, 2025 - October 25, 2025",
+      "June 7, 2025 - August 1, 2025",
+      "April 8, 2025 - May 31, 2025",
+      "February 25, 2025 - March 29, 2025",
+      "January 21, 2025 - February 15, 2025",
+      "November 21, 2024 - January 11, 2025",
+      "September 3, 2024 - November 9, 2024",
+      "May 11, 2024 - July 26, 2024",
+      "March 9, 2024 - May 4, 2024",
+      "January 27, 2024 - March 2, 2024"
+    ]
+  },
+  {
+    "name": "Adler Beatty",
+    "url": "http://www.adlerbeatty.com",
+    "location_raw": [
+      "34 East 69th StreetNew York, NY 10021Appointment Recommended212 628 0470"
+    ],
+    "profile": "https://artdealers.org/gallery/adler-beatty",
+    "dates": [
+      "May 8, 2024 - June 1, 2024"
+    ]
+  },
+  {
+    "name": "Acquavella Galleries, Inc.",
+    "url": "http://www.acquavellagalleries.com",
+    "location_raw": [
+      "18 East 79th StreetNew York, NY 10075212 734 6300Also at:340 Royal Poinciana Way, Suite 309Palm Beach, FL 33480561 283 3415"
+    ],
+    "profile": "https://artdealers.org/gallery/acquavella-galleries-inc",
+    "dates": [
+      "October 16, 2025 - December 5, 2025",
+      "October 15, 2025 - December 8, 2025",
+      "January 21, 2025 - March 21, 2025"
+    ]
+  },
+  {
+    "name": "Peg Alston Fine Arts",
+    "url": "http://www.pegalstonfinearts.com/",
+    "location_raw": [
+      "407 Central Park WestNew York, NY 10025212 663 8333"
+    ],
+    "profile": "https://artdealers.org/gallery/peg-alston-fine-arts",
+    "dates": []
+  },
+  {
+    "name": "Piero Atchugarry Gallery",
+    "url": "http://www.pieroatchugarry.com",
+    "location_raw": [
+      "5520 Northeast 4th AveMiami, FL 33137305 639 8247"
+    ],
+    "profile": "https://artdealers.org/gallery/piero-atchugarry-gallery",
+    "dates": []
+  },
+  {
+    "name": "Avery Galleries",
+    "url": "http://www.averygalleries.com",
+    "location_raw": [
+      "100 Chetwynd DriveBryn Mawr, PA 19010610 896 0680Also at:14 East 60th Street, Suite 807New York, NY 10022By Appointment(929) 625–1008"
+    ],
+    "profile": "https://artdealers.org/gallery/avery-galleries",
+    "dates": [
+      "October 13, 2023 - November 12, 2023",
+      "March 24, 2023 - May 14, 2023"
+    ]
+  },
+  {
+    "name": "Baldwin Gallery",
+    "url": "http://www.baldwingallery.com",
+    "location_raw": [
+      "209 South Galena StreetAspen, CO 81611970 920 9797"
+    ],
+    "profile": "https://artdealers.org/gallery/baldwin-gallery",
+    "dates": [
+      "February 12, 2021 - March 14, 2021"
+    ]
+  },
+  {
+    "name": "James Barron Art",
+    "url": "http://www.jamesbarronart.com",
+    "location_raw": [
+      "PO Box 97South Kent, CT 06785By Appointment917 270 8044"
+    ],
+    "profile": "https://artdealers.org/gallery/james-barron-art",
+    "dates": [
+      "October 21, 2026 - December 31, 2026",
+      "July 11, 2026 - September 12, 2026",
+      "April 20, 2026 - June 29, 2026",
+      "January 29, 2026 - March 15, 2026",
+      "November 23, 2025 - January 24, 2026",
+      "October 9, 2025 - November 1, 2025",
+      "September 19, 2025 - November 1, 2025",
+      "June 29, 2025 - August 23, 2025",
+      "June 23, 2025 - July 31, 2025",
+      "March 22, 2025 - May 31, 2025",
+      "January 14, 2025 - February 28, 2025",
+      "October 4, 2024 - December 31, 2024",
+      "October 4, 2024 - December 31, 2024",
+      "July 25, 2024 - August 25, 2024",
+      "July 2, 2024 - August 29, 2024",
+      "March 28, 2024 - April 30, 2024",
+      "March 14, 2024 - April 30, 2024"
+    ]
+  },
+  {
+    "name": "Alexander Berggruen",
+    "url": "http://www.alexanderberggruen.com",
+    "location_raw": [
+      "1018 Madison Avenue, Floor 3New York, NY 10075646 838 6070"
+    ],
+    "profile": "https://artdealers.org/gallery/alexander-berggruen",
+    "dates": [
+      "October 14, 2026 - November 18, 2026",
+      "December 9, 2026 - January 13, 2027",
+      "September 9, 2026 - October 7, 2026",
+      "July 8, 2026 - August 20, 2026",
+      "May 19, 2026 - June 24, 2026",
+      "April 8, 2026 - May 13, 2026",
+      "March 5, 2026 - April 1, 2026",
+      "March 5, 2026 - April 1, 2026",
+      "January 21, 2026 - February 25, 2026",
+      "October 22, 2025 - October 19, 2025",
+      "September 10, 2025 - October 15, 2025",
+      "July 9, 2025 - August 21, 2025",
+      "May 21, 2025 - June 25, 2025",
+      "April 16, 2025 - May 14, 2025"
+    ]
+  },
+  {
+    "name": "Berry Campbell",
+    "url": "http://www.berrycampbell.com",
+    "location_raw": [
+      "524 West 26th StreetNew York, NY 10001212 924 2178"
+    ],
+    "profile": "https://artdealers.org/gallery/berry-campbell",
+    "dates": [
+      "October 29, 2026 - December 19, 2026",
+      "September 10, 2026 - October 24, 2026",
+      "July 16, 2026 - August 14, 2026",
+      "June 4, 2026 - July 10, 2026",
+      "April 23, 2026 - May 30, 2026",
+      "March 19, 2026 - April 18, 2026",
+      "February 12, 2026 - March 14, 2026",
+      "January 8, 2026 - February 7, 2026",
+      "November 20, 2025 - December 20, 2025",
+      "October 9, 2025 - November 15, 2025",
+      "September 5, 2025 - October 4, 2025",
+      "July 3, 2025 - August 15, 2025",
+      "May 22, 2025 - June 28, 2025",
+      "April 17, 2025 - May 17, 2025",
+      "March 13, 2025 - April 12, 2025",
+      "February 6, 2025 - March 8, 2025",
+      "February 6, 2025 - February 8, 2025",
+      "January 4, 2025 - February 1, 2025",
+      "January 4, 2025 - February 1, 2025",
+      "November 21, 2024 - December 20, 2024",
+      "October 17, 2024 - November 16, 2024",
+      "September 12, 2024 - October 12, 2024",
+      "June 27, 2024 - August 16, 2024",
+      "May 23, 2024 - July 23, 2024",
+      "May 23, 2024 - June 22, 2024"
+    ]
+  },
+  {
+    "name": "Tanya Bonakdar Gallery",
+    "url": "http://www.tanyabonakdargallery.com",
+    "location_raw": [
+      "521 West 21st StreetNew York, NY 10011212 414 4144"
+    ],
+    "profile": "https://artdealers.org/gallery/tanya-bonakdar-gallery",
+    "dates": [
+      "September 3, 2025 - October 23, 2025",
+      "September 3, 2025 - October 23, 2025"
+    ]
+  },
+  {
+    "name": "Boesky Gallery",
+    "url": "http://www.boeskygallery.com",
+    "location_raw": [
+      "509 West 24th StreetNew York, NY 10011212 680 9889Also at:507 West 24th StreetNew York, NY 10011212 680 9889"
+    ],
+    "profile": "https://artdealers.org/gallery/boesky-gallery",
+    "dates": [
+      "October 29, 2026 - December 19, 2026",
+      "October 29, 2026 - December 12, 2026",
+      "September 10, 2026 - October 17, 2026",
+      "September 10, 2026 - October 17, 2026",
+      "June 25, 2026 - July 24, 2026",
+      "June 25, 2026 - July 24, 2026",
+      "May 7, 2026 - June 13, 2026",
+      "April 30, 2026 - June 13, 2026",
+      "March 5, 2026 - April 18, 2026",
+      "March 5, 2026 - April 18, 2026",
+      "January 15, 2026 - February 28, 2026",
+      "January 15, 2026 - February 28, 2026",
+      "October 30, 2025 - December 20, 2025",
+      "October 30, 2025 - December 20, 2025",
+      "September 4, 2025 - October 18, 2025",
+      "September 4, 2025 - October 18, 2025",
+      "June 26, 2025 - August 15, 2025",
+      "June 26, 2025 - August 1, 2025",
+      "May 1, 2025 - June 14, 2025",
+      "May 1, 2025 - June 14, 2025",
+      "March 20, 2025 - April 19, 2025",
+      "March 20, 2025 - April 19, 2025",
+      "January 30, 2025 - March 8, 2025",
+      "January 30, 2025 - March 8, 2025",
+      "January 7, 2025 - January 24, 2025",
+      "November 22, 2024 - January 24, 2025",
+      "October 10, 2024 - December 21, 2024",
+      "October 10, 2024 - November 16, 2024",
+      "September 5, 2024 - October 5, 2024",
+      "September 5, 2024 - October 5, 2024",
+      "June 20, 2024 - July 26, 2024",
+      "June 20, 2024 - July 26, 2024",
+      "May 9, 2024 - June 8, 2024",
+      "May 9, 2024 - June 8, 2024",
+      "May 2, 2024 - June 8, 2024",
+      "May 2, 2024 - June 8, 2024",
+      "April 4, 2024 - April 27, 2024",
+      "March 15, 2024 - May 4, 2024",
+      "January 24, 2024 - March 2, 2024"
+    ]
+  },
+  {
+    "name": "Jonathan Boos",
+    "url": "http://www.jonathanboos.com",
+    "location_raw": [
+      "New York, NY By Appointment212 535 5096Also at:New York, NY By Appointment"
+    ],
+    "profile": "https://artdealers.org/gallery/jonathan-boos",
+    "dates": []
+  },
+  {
+    "name": "Berggruen Gallery",
+    "url": "http://www.berggruen.com",
+    "location_raw": [
+      "10 Hawthorne StreetSan Francisco, CA 94105415 781 4629"
+    ],
+    "profile": "https://artdealers.org/gallery/berggruen-gallery",
+    "dates": [
+      "August 21, 2025 - October 16, 2025",
+      "August 21, 2025 - October 16, 2025",
+      "March 6, 2025 - April 24, 2025",
+      "March 6, 2025 - April 24, 2025",
+      "January 16, 2025 - February 27, 2025",
+      "January 16, 2025 - February 27, 2025",
+      "August 1, 2024 - September 19, 2024",
+      "August 1, 2024 - September 19, 2024",
+      "June 20, 2024 - July 25, 2024",
+      "May 2, 2024 - June 13, 2024",
+      "May 2, 2024 - June 13, 2024",
+      "March 7, 2024 - April 25, 2024",
+      "January 11, 2024 - February 29, 2024",
+      "January 11, 2024 - February 29, 2024",
+      "January 11, 2024 - February 29, 2024"
+    ]
+  },
+  {
+    "name": "Peter Blum Gallery",
+    "url": "http://www.peterblumgallery.com",
+    "location_raw": [
+      "176 Grand StreetNew York, NY 10013212 244 6055"
+    ],
+    "profile": "https://artdealers.org/gallery/peter-blum-gallery",
+    "dates": [
+      "June 5, 2025 - July 25, 2025",
+      "November 8, 2024 - January 18, 2025",
+      "September 3, 2024 - November 2, 2024",
+      "May 29, 2024 - July 19, 2024",
+      "March 28, 2024 - May 18, 2024",
+      "January 31, 2024 - March 16, 2024"
+    ]
+  },
+  {
+    "name": "Cavin-Morris Gallery",
+    "url": "http://www.cavinmorris.com",
+    "location_raw": [
+      "529 West 20th Street, 3rd FloorNew York, NY 10011212 226 3768"
+    ],
+    "profile": "https://artdealers.org/gallery/cavin-morris-gallery",
+    "dates": [
+      "January 11, 2025 - February 15, 2025"
+    ]
+  },
+  {
+    "name": "Castelli Gallery",
+    "url": "http://www.castelligallery.com",
+    "location_raw": [
+      "18 East 77th Street, 3rd FloorNew York, NY 10075212 249 4470Also at:24 West 40th StreetNew York, NY 10018212 249 4470"
+    ],
+    "profile": "https://artdealers.org/gallery/castelli-gallery",
+    "dates": [
+      "September 24, 2026 - December 18, 2026",
+      "May 15, 2026 - July 30, 2026",
+      "January 27, 2026 - May 8, 2026",
+      "September 2, 2025 - October 31, 2025",
+      "April 3, 2025 - June 27, 2025",
+      "November 12, 2024 - January 17, 2025",
+      "September 17, 2024 - October 25, 2024",
+      "June 10, 2024 - July 18, 2024",
+      "January 16, 2024 - May 24, 2024"
+    ]
+  },
+  {
+    "name": "Thomas Colville Fine Art",
+    "url": "http://www.thomascolville.com",
+    "location_raw": [
+      "111 Old Quarry RoadGuilford, CT 06437By Appointment203 453 2449Also at:New York, NY By Appointment212 879 9259"
+    ],
+    "profile": "https://artdealers.org/gallery/thomas-colville-fine-art",
+    "dates": [
+      "May 10, 2025 - May 13, 2025",
+      "January 24, 2025 - January 2, 2025"
+    ]
+  },
+  {
+    "name": "Catharine Clark Gallery",
+    "url": "http://www.cclarkgallery.com",
+    "location_raw": [
+      "248 Utah StreetSan Francisco, CA 94103415 399 1439"
+    ],
+    "profile": "https://artdealers.org/gallery/catharine-clark-gallery",
+    "dates": [
+      "May 31, 2025 - July 19, 2025",
+      "March 22, 2025 - May 24, 2025",
+      "January 18, 2025 - March 15, 2025",
+      "November 23, 2024 - January 11, 2025",
+      "November 23, 2024 - January 11, 2025",
+      "September 21, 2024 - November 16, 2024",
+      "July 13, 2024 - September 14, 2024",
+      "July 13, 2024 - September 14, 2024",
+      "May 11, 2024 - July 6, 2024",
+      "May 11, 2024 - July 6, 2024",
+      "March 9, 2024 - May 4, 2024",
+      "February 16, 2024 - February 16, 2024",
+      "January 6, 2024 - March 2, 2024",
+      "January 6, 2024 - March 2, 2024"
+    ]
+  },
+  {
+    "name": "Paula Cooper Gallery",
+    "url": "http://www.paulacoopergallery.com",
+    "location_raw": [
+      "534 West 21st StreetNew York, NY 10011212 255 1105Also at:529 West 21st StreetNew York, NY 10011212 255 1105521 West 21st StreetNew York, NY 10011212 255 1105"
+    ],
+    "profile": "https://artdealers.org/gallery/paula-cooper-gallery",
+    "dates": [
+      "May 8, 2025 - June 14, 2025",
+      "April 17, 2025 - June 14, 2025",
+      "February 20, 2025 - April 12, 2025",
+      "February 15, 2025 - March 22, 2025",
+      "January 11, 2024 - February 17, 2024",
+      "January 6, 2024 - February 10, 2024"
+    ]
+  },
+  {
+    "name": "Corbett vs. Dempsey",
+    "url": "http://www.corbettvsdempsey.com",
+    "location_raw": [
+      "2156 West Fulton StreetChicago, IL 60612773 278 1664"
+    ],
+    "profile": "https://artdealers.org/gallery/corbett-vs-dempsey",
+    "dates": []
+  },
+  {
+    "name": "Betty Cuningham Gallery",
+    "url": "http://www.bettycuninghamgallery.com",
+    "location_raw": [
+      "41 Union Square West, #923New York, NY 10003By Appointment212 242 2772"
+    ],
+    "profile": "https://artdealers.org/gallery/betty-cuningham-gallery",
+    "dates": [
+      "November 16, 2023 - January 27, 2024"
+    ]
+  },
+  {
+    "name": "Crown Point Press",
+    "url": "http://www.crownpoint.com",
+    "location_raw": [
+      "657 Howard StreetSan Francisco, CA 94105415 974 6273"
+    ],
+    "profile": "https://artdealers.org/gallery/crown-point-press",
+    "dates": [
+      "August 17, 2026 - October 30, 2026",
+      "May 21, 2026 - July 10, 2026",
+      "February 6, 2026 - March 27, 2026",
+      "November 7, 2025 - January 7, 2026",
+      "November 7, 2025 - January 7, 2026",
+      "September 4, 2025 - November 4, 2025",
+      "July 7, 2025 - September 3, 2025",
+      "May 23, 2025 - June 30, 2025",
+      "March 11, 2025 - May 2, 2025",
+      "January 7, 2025 - February 28, 2025",
+      "November 12, 2024 - January 3, 2025",
+      "September 5, 2024 - November 5, 2024",
+      "July 23, 2024 - August 30, 2024",
+      "June 4, 2024 - September 3, 2024",
+      "April 4, 2024 - May 31, 2024",
+      "January 12, 2024 - February 22, 2024"
+    ]
+  },
+  {
+    "name": "DC Moore Gallery",
+    "url": "http://www.dcmooregallery.com",
+    "location_raw": [
+      "535 West 22nd StreetNew York, NY 10011212 247 2111"
+    ],
+    "profile": "https://artdealers.org/gallery/dc-moore-gallery",
+    "dates": [
+      "September 3, 2026 - October 3, 2026",
+      "May 7, 2026 - June 26, 2026",
+      "May 7, 2026 - June 26, 2026",
+      "March 19, 2026 - May 2, 2026",
+      "February 12, 2026 - March 14, 2026",
+      "January 15, 2026 - February 7, 2026",
+      "December 4, 2025 - January 10, 2026",
+      "October 17, 2025 - November 22, 2025",
+      "October 17, 2025 - November 22, 2025",
+      "September 4, 2025 - October 11, 2025",
+      "May 8, 2025 - August 6, 2025",
+      "April 3, 2025 - May 3, 2025",
+      "February 27, 2025 - March 29, 2025",
+      "February 27, 2025 - March 29, 2025",
+      "January 23, 2025 - February 22, 2025",
+      "January 23, 2025 - February 22, 2025",
+      "November 14, 2024 - January 18, 2025",
+      "October 4, 2024 - November 9, 2024",
+      "September 5, 2024 - September 28, 2024",
+      "September 5, 2024 - September 28, 2024",
+      "June 20, 2024 - August 9, 2024",
+      "May 2, 2024 - June 15, 2024",
+      "May 2, 2024 - June 15, 2024",
+      "March 21, 2024 - April 27, 2024",
+      "March 21, 2024 - April 27, 2024",
+      "February 8, 2024 - March 16, 2024",
+      "January 6, 2024 - February 3, 2024"
+    ]
+  },
+  {
+    "name": "Davis & Langdale Company, Inc.",
+    "url": "http://www.davisandlangdale.com",
+    "location_raw": [
+      "New York, NY By Appointment212 838 0333"
+    ],
+    "profile": "https://artdealers.org/gallery/davis-langdale-company-inc",
+    "dates": []
+  },
+  {
+    "name": "Tibor de Nagy",
+    "url": "http://www.tibordenagy.com",
+    "location_raw": [
+      "11 Rivington StreetNew York, NY 10002212 262 5050"
+    ],
+    "profile": "https://artdealers.org/gallery/tibor-de-nagy",
+    "dates": [
+      "December 14, 2024 - January 25, 2025"
+    ]
+  },
+  {
+    "name": "Talley Dunn Gallery",
+    "url": "http://www.talleydunn.com",
+    "location_raw": [
+      "5020 Tracy StreetDallas, TX 75205Appointment Recommended214 521 9898"
+    ],
+    "profile": "https://artdealers.org/gallery/talley-dunn-gallery",
+    "dates": [
+      "October 10, 2026 - December 19, 2026",
+      "September 12, 2026 - November 21, 2026",
+      "February 20, 2026 - May 9, 2026"
+    ]
+  },
+  {
+    "name": "Eykyn Maclean, LP",
+    "url": "http://www.eykynmaclean.com",
+    "location_raw": [
+      "23 East 67th StreetNew York, NY 10065By Appointment212 772 9425"
+    ],
+    "profile": "https://artdealers.org/gallery/eykyn-maclean-lp",
+    "dates": []
+  },
+  {
+    "name": "Andrew Edlin Gallery",
+    "url": "http://www.edlingallery.com",
+    "location_raw": [
+      "392 Broadway, 2nd FloorNew York, NY 100132122069723"
+    ],
+    "profile": "https://artdealers.org/gallery/andrew-edlin-gallery",
+    "dates": [
+      "July 1, 2026 - August 14, 2026",
+      "May 2, 2026 - June 13, 2026",
+      "March 13, 2026 - April 25, 2026",
+      "January 9, 2026 - February 28, 2026",
+      "January 9, 2026 - February 28, 2026",
+      "November 7, 2025 - December 20, 2025",
+      "November 7, 2025 - December 20, 2025",
+      "September 26, 2025 - November 1, 2025",
+      "June 18, 2025 - August 1, 2025",
+      "April 17, 2025 - May 31, 2025",
+      "February 22, 2025 - April 5, 2025",
+      "January 9, 2025 - February 15, 2025",
+      "October 25, 2024 - December 20, 2024",
+      "September 6, 2024 - October 19, 2024",
+      "May 31, 2024 - July 19, 2024",
+      "April 13, 2024 - May 25, 2024",
+      "February 24, 2024 - April 6, 2024",
+      "February 24, 2024 - April 6, 2024",
+      "January 13, 2024 - February 17, 2024",
+      "January 13, 2024 - February 17, 2024"
+    ]
+  },
+  {
+    "name": "The Elkon Gallery, Inc.",
+    "url": "http://www.elkongallery.com",
+    "location_raw": [
+      "18 East 81st StreetNew York, NY 10028212 535 3940"
+    ],
+    "profile": "https://artdealers.org/gallery/the-elkon-gallery-inc",
+    "dates": [
+      "May 11, 2026 - July 24, 2026"
+    ]
+  },
+  {
+    "name": "Ronald Feldman Gallery",
+    "url": "http://www.feldmangallery.com",
+    "location_raw": [
+      "31 Mercer StreetNew York, NY 10013By Appointment212 226 3232"
+    ],
+    "profile": "https://artdealers.org/gallery/ronald-feldman-gallery",
+    "dates": [
+      "September 8, 2026 - January 14, 2027",
+      "June 16, 2026 - July 30, 2026",
+      "March 5, 2026 - May 21, 2026",
+      "September 2, 2025 - November 20, 2025",
+      "April 9, 2024 - June 27, 2024"
+    ]
+  },
+  {
+    "name": "Eric Firestone Gallery",
+    "url": "http://www.ericfirestonegallery.com",
+    "location_raw": [
+      "Eric Firestone Loft4 Great Jones Street, Floors 3 + 4New York, NY 10012By Appointment917 324 3386Also at:Eric Fireston Gallery2412 Florida AvenueWest Palm Beach, FL 33401917.604.2386Eric Firestone Gallery, The Garage62 Newtown LaneEast Hampton, NY 11937By Appointment6316042386Eric Firestone Gallery40 Great Jones StreetNew York, NY 10012646 998 3727Eric Firestone Gallery4 Newtown LaneEast Hampton, NY 11937631 604 2386"
+    ],
+    "profile": "https://artdealers.org/gallery/eric-firestone-gallery",
+    "dates": [
+      "July 3, 2026 - August 9, 2026",
+      "May 23, 2026 - June 28, 2026",
+      "May 12, 2026 - July 11, 2026",
+      "March 28, 2026 - May 2, 2026",
+      "February 4, 2026 - March 21, 2026",
+      "February 4, 2026 - March 21, 2026",
+      "January 31, 2026 - April 30, 2026",
+      "November 5, 2025 - January 24, 2026",
+      "September 5, 2025 - October 18, 2025",
+      "August 6, 2025 - September 21, 2025",
+      "June 28, 2025 - August 3, 2025",
+      "May 23, 2025 - June 24, 2025",
+      "May 7, 2025 - June 28, 2025",
+      "March 13, 2025 - April 26, 2025",
+      "January 15, 2025 - March 1, 2025",
+      "November 1, 2024 - January 10, 2025",
+      "September 21, 2024 - December 1, 2024",
+      "September 13, 2024 - October 23, 2024",
+      "September 6, 2024 - October 19, 2024",
+      "August 2, 2024 - September 22, 2024",
+      "July 18, 2024 - August 30, 2024",
+      "June 28, 2024 - July 28, 2024",
+      "May 25, 2024 - June 23, 2024",
+      "May 25, 2024 - September 8, 2024",
+      "May 2, 2024 - May 5, 2024",
+      "May 1, 2024 - June 29, 2024",
+      "May 1, 2024 - June 29, 2024",
+      "January 17, 2024 - March 16, 2024",
+      "January 17, 2024 - March 16, 2024"
+    ]
+  },
+  {
+    "name": "Debra Force Fine Art, Inc.",
+    "url": "http://www.debraforce.com",
+    "location_raw": [
+      "13 East 69th Street, Suite 4FNew York, NY 10021212 734 3636"
+    ],
+    "profile": "https://artdealers.org/gallery/debra-force-fine-art-inc",
+    "dates": [
+      "September 23, 2026 - November 30, 2026",
+      "July 10, 2026 - September 11, 2026",
+      "April 7, 2026 - June 26, 2026",
+      "January 15, 2026 - February 27, 2026",
+      "October 15, 2025 - December 12, 2025",
+      "July 14, 2025 - September 30, 2025",
+      "March 10, 2025 - May 2, 2025",
+      "January 6, 2025 - February 28, 2025",
+      "July 18, 2024 - September 13, 2024",
+      "May 8, 2024 - July 2, 2024",
+      "March 14, 2024 - April 30, 2024",
+      "January 5, 2024 - March 1, 2024"
+    ]
+  },
+  {
+    "name": "Forum Gallery",
+    "url": "http://www.forumgallery.com",
+    "location_raw": [
+      "41 East 57th Street, 7th FloorNew York, NY 10022212 355 4545"
+    ],
+    "profile": "https://artdealers.org/gallery/forum-gallery",
+    "dates": []
+  },
+  {
+    "name": "Fraenkel Gallery",
+    "url": "http://fraenkelgallery.com",
+    "location_raw": [
+      "49 Geary Street, 4th FloorSan Francisco, CA 94108415 981 2661"
+    ],
+    "profile": "https://artdealers.org/gallery/fraenkel-gallery",
+    "dates": [
+      "October 29, 2026 - December 19, 2026",
+      "September 10, 2026 - October 24, 2026",
+      "March 12, 2026 - May 22, 2026",
+      "January 15, 2026 - February 28, 2026",
+      "October 30, 2025 - December 20, 2025",
+      "September 4, 2025 - October 25, 2025",
+      "September 4, 2025 - October 25, 2025",
+      "May 29, 2025 - August 9, 2025",
+      "April 17, 2025 - May 23, 2025",
+      "February 27, 2025 - April 12, 2025",
+      "January 9, 2025 - February 22, 2025",
+      "October 23, 2024 - December 21, 2024",
+      "September 5, 2024 - October 19, 2024",
+      "May 30, 2024 - August 10, 2024",
+      "March 21, 2024 - May 24, 2024",
+      "January 11, 2024 - March 9, 2024"
+    ]
+  },
+  {
+    "name": "Gemini G.E.L.",
+    "url": "http://www.geminigel.com",
+    "location_raw": [
+      "8365 Melrose AvenueLos Angeles, CA 90046-3227323 651 0513"
+    ],
+    "profile": "https://artdealers.org/gallery/gemini-g-e-l",
+    "dates": []
+  },
+  {
+    "name": "Peter Freeman, Inc.",
+    "url": "http://www.peterfreemaninc.com",
+    "location_raw": [
+      "140 Grand StreetNew York, NY 10013212 966 5154"
+    ],
+    "profile": "https://artdealers.org/gallery/peter-freeman-inc",
+    "dates": [
+      "January 9, 2026 - February 14, 2026",
+      "October 30, 2025 - December 20, 2025",
+      "September 13, 2025 - September 25, 2025",
+      "September 9, 2025 - October 25, 2025",
+      "June 12, 2025 - August 1, 2025",
+      "June 12, 2025 - August 1, 2025",
+      "April 24, 2025 - June 7, 2025",
+      "March 6, 2025 - April 19, 2025",
+      "January 6, 2025 - March 1, 2025",
+      "November 19, 2024 - January 11, 2025",
+      "September 10, 2024 - November 9, 2024",
+      "May 22, 2024 - July 18, 2024",
+      "March 14, 2024 - May 16, 2024",
+      "January 11, 2024 - March 9, 2024"
+    ]
+  },
+  {
+    "name": "GAVLAK",
+    "url": "http://www.gavlakgallery.com",
+    "location_raw": [
+      "2406 Florida AveWest Palm Beach 33401Appointment Recommended561 833 0583"
+    ],
+    "profile": "https://artdealers.org/gallery/gavlak",
+    "dates": [
+      "March 30, 2024 - May 31, 2024",
+      "February 24, 2024 - March 24, 2024",
+      "January 20, 2024 - February 19, 2024"
+    ]
+  },
+  {
+    "name": "Gemini G.E.L. at Joni Moisant Weyl",
+    "url": "http://www.joniweyl.com",
+    "location_raw": [
+      "535 West 24th Street, Third FloorNew York, NY 10011212 249 3324"
+    ],
+    "profile": "https://artdealers.org/gallery/gemini-g-e-l-at-joni-moisant-weyl",
+    "dates": []
+  },
+  {
+    "name": "Graham Shay 1857",
+    "url": "http://www.grahamshay.com",
+    "location_raw": [
+      "17 East 67th Street, No. 1ANew York, NY 10065212 535 5767 | 917 742 7813"
+    ],
+    "profile": "https://artdealers.org/gallery/graham-shay-1857",
+    "dates": [
+      "November 5, 2025 - November 22, 2025",
+      "June 4, 2025 - July 11, 2025",
+      "May 10, 2025 - May 13, 2025",
+      "April 25, 2025 - April 27, 2025",
+      "January 16, 2025 - February 28, 2025",
+      "March 28, 2024 - May 31, 2024",
+      "January 17, 2024 - February 23, 2024"
+    ]
+  },
+  {
+    "name": "Goya Contemporary",
+    "url": "http://www.goyacontemporary.com",
+    "location_raw": [
+      "Mill Centre Studio 214, 3000 Chestnut AvenueBaltimore, MD 21211410 366 2001"
+    ],
+    "profile": "https://artdealers.org/gallery/goya-contemporary",
+    "dates": [
+      "November 12, 2026 - November 16, 2026",
+      "October 9, 2026 - November 20, 2026",
+      "September 24, 2026 - September 27, 2026",
+      "August 18, 2026 - September 26, 2026",
+      "May 20, 2026 - July 3, 2026",
+      "April 25, 2026 - October 4, 2026",
+      "March 3, 2026 - May 5, 2026",
+      "February 1, 2026 - February 28, 2026",
+      "November 23, 2025 - January 31, 2026",
+      "September 4, 2025 - September 7, 2025",
+      "September 1, 2025 - November 1, 2025",
+      "September 1, 2025 - November 1, 2025",
+      "April 17, 2025 - March 7, 2026"
+    ]
+  },
+  {
+    "name": "Alexander Gray Associates",
+    "url": "http://www.alexandergray.com",
+    "location_raw": [
+      "384 BroadwayNew York, NY 10013212 399 2636"
+    ],
+    "profile": "https://artdealers.org/gallery/alexander-gray-associates",
+    "dates": [
+      "October 30, 2026 - December 12, 2026",
+      "September 9, 2026 - October 24, 2026",
+      "April 17, 2026 - May 30, 2026",
+      "February 20, 2026 - April 11, 2026",
+      "January 9, 2026 - February 14, 2026",
+      "November 7, 2025 - December 20, 2025",
+      "September 12, 2025 - October 25, 2025",
+      "June 13, 2025 - July 26, 2025",
+      "April 26, 2025 - May 31, 2025",
+      "March 21, 2025 - April 19, 2025",
+      "February 14, 2025 - March 15, 2025",
+      "January 11, 2025 - February 8, 2025",
+      "November 8, 2024 - December 21, 2024",
+      "September 12, 2024 - October 26, 2024",
+      "June 20, 2024 - July 27, 2024",
+      "April 27, 2024 - June 15, 2024",
+      "March 7, 2024 - April 20, 2024"
+    ]
+  },
+  {
+    "name": "Gitterman Gallery",
+    "url": "http://www.gittermangallery.com",
+    "location_raw": [
+      "3 East 66th Street, 1BNew York, NY 10065212 734 0868"
+    ],
+    "profile": "https://artdealers.org/gallery/gitterman-gallery",
+    "dates": [
+      "September 8, 2026 - October 31, 2026",
+      "April 6, 2026 - June 6, 2026",
+      "February 7, 2026 - March 28, 2026",
+      "September 9, 2025 - November 1, 2025",
+      "August 29, 2025 - September 7, 2025",
+      "November 16, 2024 - January 11, 2025",
+      "September 7, 2024 - November 2, 2024",
+      "April 15, 2024 - May 24, 2024"
+    ]
+  },
+  {
+    "name": "Marian Goodman Gallery",
+    "url": "http://www.mariangoodman.com",
+    "location_raw": [
+      "385 BroadwayNew York, NY 10013212 977 7160"
+    ],
+    "profile": "https://artdealers.org/gallery/marian-goodman-gallery",
+    "dates": [
+      "April 14, 2026 - June 6, 2026",
+      "February 6, 2026 - March 21, 2026",
+      "February 6, 2026 - March 21, 2026",
+      "November 7, 2025 - January 17, 2026",
+      "September 13, 2025 - October 25, 2025",
+      "July 11, 2025 - August 22, 2025",
+      "July 11, 2025 - August 22, 2025",
+      "July 11, 2025 - August 22, 2025",
+      "May 6, 2025 - May 21, 2025",
+      "March 7, 2025 - April 19, 2025",
+      "January 10, 2025 - February 22, 2025",
+      "January 10, 2025 - February 22, 2025",
+      "October 26, 2024 - December 21, 2024",
+      "May 3, 2024 - June 29, 2024",
+      "March 13, 2024 - April 20, 2024",
+      "January 12, 2024 - February 24, 2024",
+      "January 12, 2024 - February 24, 2024",
+      "January 12, 2024 - February 24, 2024"
+    ]
+  },
+  {
+    "name": "Gladstone",
+    "url": "http://www.gladstonegallery.com",
+    "location_raw": [
+      "515 West 24th StreetNew York, NY 10011212 206 9300Also at:530 West 21st StreetNew York, NY 10011212 206 7606130 East 64th StreetNew York, NY 10065212 753 2200"
+    ],
+    "profile": "https://artdealers.org/gallery/gladstone",
+    "dates": [
+      "May 6, 2021 - June 25, 2021"
+    ]
+  },
+  {
+    "name": "Gray",
+    "url": "http://www.richardgraygallery.com",
+    "location_raw": [
+      "2044 West Carroll AvenueChicago, IL 60612By Appointment312 883 8277Also at:875 North Michigan Avenue, Suite 3800Chicago, IL 60611312 642 88771018 Madison Avenue, 2nd FloorNew York, NY 10075212 472 8787"
+    ],
+    "profile": "https://artdealers.org/gallery/gray",
+    "dates": [
+      "October 16, 2025 - February 7, 2026",
+      "September 10, 2025 - November 1, 2025",
+      "July 11, 2025 - September 20, 2025",
+      "April 30, 2025 - July 3, 2025",
+      "November 8, 2024 - January 25, 2025",
+      "April 18, 2024 - August 2, 2024",
+      "April 12, 2024 - May 31, 2024"
+    ]
+  },
+  {
+    "name": "Garth Greenan Gallery",
+    "url": "http://www.garthgreenan.com",
+    "location_raw": [
+      "10 Greene StreetNew York, NY 10013212 929 1351Also at:25 Greene StreetNew York, NY 10013212 929 1351"
+    ],
+    "profile": "https://artdealers.org/gallery/garth-greenan-gallery",
+    "dates": []
+  },
+  {
+    "name": "The Greenberg Gallery",
+    "url": "http://www.thegreenberggallery.com",
+    "location_raw": [
+      ""
+    ],
+    "profile": "https://artdealers.org/gallery/the-greenberg-gallery",
+    "dates": []
+  },
+  {
+    "name": "Nohra Haime Gallery",
+    "url": "http://www.nohrahaimegallery.com",
+    "location_raw": [
+      "500A West 21st StreetNew York, NY 10011212 888 3550"
+    ],
+    "profile": "https://artdealers.org/gallery/nohra-haime-gallery",
+    "dates": [
+      "May 7, 2026 - June 27, 2026",
+      "September 4, 2025 - October 11, 2025"
+    ]
+  },
+  {
+    "name": "Howard Greenberg Gallery",
+    "url": "http://www.howardgreenberg.com",
+    "location_raw": [
+      "The Fuller Building41 East 57th Street, Suite 801New York, NY 10022212 334 0010"
+    ],
+    "profile": "https://artdealers.org/gallery/howard-greenberg-gallery",
+    "dates": []
+  },
+  {
+    "name": "Haines Gallery",
+    "url": "http://www.hainesgallery.com",
+    "location_raw": [
+      "2 Marina Boulevard, Building CSan Francisco, CA 94123415 397 8114"
+    ],
+    "profile": "https://artdealers.org/gallery/haines-gallery",
+    "dates": [
+      "November 13, 2026 - January 9, 2027",
+      "September 15, 2026 - November 7, 2026",
+      "July 10, 2026 - September 5, 2026",
+      "May 8, 2026 - July 3, 2026",
+      "May 8, 2026 - July 3, 2026",
+      "March 13, 2026 - April 25, 2026",
+      "January 21, 2026 - March 7, 2026",
+      "November 8, 2025 - January 10, 2026",
+      "September 11, 2025 - October 25, 2025",
+      "July 11, 2025 - September 5, 2025",
+      "May 2, 2025 - July 5, 2025",
+      "March 22, 2025 - April 26, 2025",
+      "January 22, 2025 - March 15, 2025",
+      "November 16, 2024 - January 11, 2025",
+      "November 16, 2024 - January 11, 2025",
+      "September 6, 2024 - November 9, 2024",
+      "July 19, 2024 - August 31, 2024",
+      "May 17, 2024 - July 13, 2024",
+      "March 15, 2024 - May 11, 2024",
+      "March 15, 2024 - May 11, 2024",
+      "January 16, 2024 - March 9, 2024"
+    ]
+  },
+  {
+    "name": "Hales Gallery",
+    "url": "http://www.halesgallery.com",
+    "location_raw": [
+      "547 West 20th StreetNew York, NY 10011646 590 0776"
+    ],
+    "profile": "https://artdealers.org/gallery/hales-gallery",
+    "dates": [
+      "September 4, 2025 - October 15, 2025",
+      "June 26, 2025 - August 1, 2025"
+    ]
+  },
+  {
+    "name": "Hirschl & Adler Modern",
+    "url": "http://www.hirschlandadler.com",
+    "location_raw": [
+      "The Fuller Building41 East 57th Street, 9th FloorNew York, NY 10022New York, NY 10022212 535 8810"
+    ],
+    "profile": "https://artdealers.org/gallery/hirschl-adler-modern",
+    "dates": [
+      "October 14, 2026 - November 20, 2026",
+      "June 25, 2026 - August 14, 2026",
+      "April 30, 2026 - June 5, 2026",
+      "March 19, 2026 - April 24, 2026",
+      "January 8, 2026 - February 27, 2026",
+      "October 16, 2025 - November 21, 2025",
+      "April 24, 2025 - May 30, 2025",
+      "March 13, 2025 - April 18, 2025",
+      "January 9, 2025 - March 7, 2025"
+    ]
+  },
+  {
+    "name": "Hauser & Wirth",
+    "url": "http://www.hauserwirth.com",
+    "location_raw": [
+      "8980 Santa Monica BoulevardWest Hollywood, CA 90069424 404 1200Also at:443 West 18th StreetNew York, NY 10011212 542 5662134 Wooster StreetNew York, NY 10012212 542 5660542 West 22nd StreetNew York, NY 10011212 790 3900901 East 3rd StreetLos Angeles, CA 90013213 943 1620"
+    ],
+    "profile": "https://artdealers.org/gallery/hauser-wirth",
+    "dates": [
+      "May 12, 2026 - July 31, 2026",
+      "May 12, 2026 - July 31, 2026",
+      "April 21, 2026 - July 10, 2026"
+    ]
+  },
+  {
+    "name": "Mariane Ibrahim Gallery",
+    "url": "http://www.marianeibrahim.com",
+    "location_raw": [
+      "437 N Paulina StreetChicago, IL 60622312 877 5436"
+    ],
+    "profile": "https://artdealers.org/gallery/mariane-ibrahim-gallery",
+    "dates": [
+      "September 16, 2026 - October 31, 2026",
+      "July 25, 2026 - September 5, 2026",
+      "June 6, 2026 - July 18, 2026",
+      "April 8, 2026 - May 23, 2026",
+      "February 13, 2026 - March 28, 2026",
+      "November 14, 2025 - January 17, 2026",
+      "August 30, 2025 - October 25, 2025",
+      "June 5, 2025 - August 23, 2025",
+      "April 22, 2025 - May 31, 2025",
+      "March 4, 2025 - April 16, 2025",
+      "November 15, 2024 - January 25, 2025",
+      "August 30, 2024 - October 26, 2024",
+      "July 30, 2024 - August 24, 2024",
+      "May 29, 2024 - July 6, 2024",
+      "February 2, 2024 - April 3, 2024"
+    ]
+  },
+  {
+    "name": "Nancy Hoffman Gallery",
+    "url": "http://www.nancyhoffmangallery.com",
+    "location_raw": [
+      "520 West 27th StreetNew York, NY 10001212 966 6676"
+    ],
+    "profile": "https://artdealers.org/gallery/nancy-hoffman-gallery",
+    "dates": [
+      "November 5, 2026 - February 3, 2027",
+      "September 10, 2026 - October 28, 2026",
+      "May 21, 2026 - June 27, 2026",
+      "March 26, 2026 - May 9, 2026",
+      "February 5, 2026 - March 21, 2026",
+      "December 11, 2025 - January 31, 2026",
+      "December 11, 2025 - January 31, 2026",
+      "October 23, 2025 - December 6, 2025",
+      "September 4, 2025 - October 18, 2025",
+      "July 10, 2025 - August 29, 2025",
+      "May 15, 2025 - June 28, 2025",
+      "March 27, 2025 - May 10, 2025",
+      "January 30, 2025 - March 22, 2025",
+      "December 12, 2024 - January 25, 2025",
+      "October 24, 2024 - December 7, 2024",
+      "September 5, 2024 - October 19, 2024",
+      "May 30, 2024 - July 19, 2024",
+      "March 21, 2024 - May 25, 2024",
+      "February 1, 2024 - March 16, 2024"
+    ]
+  },
+  {
+    "name": "Rhona Hoffman Gallery",
+    "url": "http://www.rhoffmangallery.com",
+    "location_raw": [
+      "1711 West Chicago AvenueChicago, IL 60622By Appointment312 455 1990"
+    ],
+    "profile": "https://artdealers.org/gallery/rhona-hoffman-gallery",
+    "dates": []
+  },
+  {
+    "name": "Hosfelt Gallery",
+    "url": "http://www.hosfeltgallery.com",
+    "location_raw": [
+      "260 Utah StreetSan Francisco, CA 94103415 495 5454"
+    ],
+    "profile": "https://artdealers.org/gallery/hosfelt-gallery",
+    "dates": [
+      "July 11, 2026 - August 15, 2026",
+      "July 11, 2026 - August 15, 2026",
+      "March 28, 2026 - May 9, 2026",
+      "December 6, 2025 - February 7, 2026",
+      "December 6, 2025 - February 7, 2026",
+      "October 18, 2025 - November 26, 2025",
+      "September 2, 2025 - October 11, 2025",
+      "July 12, 2025 - August 16, 2025",
+      "May 22, 2025 - July 3, 2025",
+      "March 29, 2025 - May 10, 2025",
+      "February 1, 2025 - March 15, 2025",
+      "December 14, 2024 - January 25, 2025",
+      "December 14, 2024 - January 25, 2025",
+      "October 18, 2024 - November 23, 2024",
+      "May 11, 2024 - June 29, 2024",
+      "March 30, 2024 - May 4, 2024",
+      "March 30, 2024 - May 4, 2024"
+    ]
+  },
+  {
+    "name": "Edwynn Houk Gallery",
+    "url": "http://www.houkgallery.com",
+    "location_raw": [
+      "693 Fifth Ave, 6th FloorNew York, NY 10022212-750-7070"
+    ],
+    "profile": "https://artdealers.org/gallery/edwynn-houk-gallery",
+    "dates": [
+      "November 14, 2025 - January 17, 2026",
+      "September 2, 2025 - November 1, 2025"
+    ]
+  },
+  {
+    "name": "Susan Inglett Gallery",
+    "url": "http://www.inglettgallery.com",
+    "location_raw": [
+      "522 West 24th StreetNew York, NY 10011212 647 9111"
+    ],
+    "profile": "https://artdealers.org/gallery/susan-inglett-gallery",
+    "dates": [
+      "October 22, 2026 - November 25, 2026",
+      "September 12, 2026 - October 17, 2026",
+      "June 11, 2026 - September 4, 2026",
+      "April 30, 2026 - June 6, 2026",
+      "March 19, 2026 - April 25, 2026",
+      "February 5, 2026 - March 14, 2026",
+      "December 4, 2025 - January 10, 2026",
+      "October 16, 2025 - November 26, 2025",
+      "September 4, 2025 - October 11, 2025",
+      "June 13, 2025 - July 25, 2025",
+      "May 1, 2025 - June 7, 2025",
+      "March 20, 2025 - April 26, 2025",
+      "January 31, 2025 - March 15, 2025",
+      "December 5, 2024 - January 25, 2025",
+      "October 17, 2024 - November 30, 2024",
+      "September 3, 2024 - October 12, 2024",
+      "June 6, 2024 - July 19, 2024",
+      "April 25, 2024 - June 1, 2024",
+      "March 14, 2024 - April 20, 2024",
+      "February 1, 2024 - March 9, 2024"
+    ]
+  },
+  {
+    "name": "Inman Gallery",
+    "url": "http://www.inmangallery.com",
+    "location_raw": [
+      "1502 Alabama StreetHouston, TX 77002Appointment Recommended713 526 7800"
+    ],
+    "profile": "https://artdealers.org/gallery/inman-gallery",
+    "dates": [
+      "February 7, 2026 - February 21, 2026",
+      "December 6, 2025 - January 24, 2026",
+      "February 22, 2025 - April 12, 2025",
+      "September 13, 2024 - November 16, 2024",
+      "July 19, 2024 - August 30, 2024",
+      "July 19, 2024 - August 30, 2024",
+      "May 3, 2024 - July 6, 2024",
+      "May 3, 2024 - July 6, 2024",
+      "March 8, 2024 - April 27, 2024",
+      "March 8, 2024 - April 27, 2024",
+      "January 20, 2024 - March 2, 2024"
+    ]
+  },
+  {
+    "name": "Jenkins Johnson Gallery",
+    "url": "http://www.jenkinsjohnsongallery.com",
+    "location_raw": [
+      "385 Broadway, Floor 3New York, NY 10013Also at:1275 Minnesota Street, #200San Francisco, CA 94107415 677 0770207 Ocean AvenueBrooklyn, NY 11225Appointment Recommended212 629 0707"
+    ],
+    "profile": "https://artdealers.org/gallery/jenkins-johnson-gallery",
+    "dates": []
+  },
+  {
+    "name": "Casey Kaplan",
+    "url": "http://www.caseykaplangallery.com",
+    "location_raw": [
+      "121 West 27th StreetNew York, NY 10001212 645 7335"
+    ],
+    "profile": "https://artdealers.org/gallery/casey-kaplan",
+    "dates": [
+      "January 9, 2025 - February 15, 2025",
+      "November 7, 2024 - December 21, 2024",
+      "April 29, 2024 - July 26, 2024",
+      "April 29, 2024 - July 26, 2024",
+      "March 7, 2024 - April 13, 2024",
+      "March 7, 2024 - April 13, 2024",
+      "January 12, 2024 - February 17, 2024",
+      "January 12, 2024 - February 17, 2024"
+    ]
+  },
+  {
+    "name": "Sebastian Izzard LLC Asian Art",
+    "url": "http://www.izzardasianart.com",
+    "location_raw": [
+      "17 East 76th Street, 3rd FloorNew York, NY 10021By Appointment212 794 1522"
+    ],
+    "profile": "https://artdealers.org/gallery/sebastian-izzard-llc-asian-art",
+    "dates": [
+      "September 15, 2025 - September 20, 2025",
+      "March 14, 2025 - March 21, 2025",
+      "March 15, 2024 - March 22, 2024"
+    ]
+  },
+  {
+    "name": "Tina Kim Gallery",
+    "url": "http://www.tinakimgallery.com",
+    "location_raw": [
+      "525 West 21st StreetNew York, NY 10011212 716 1100"
+    ],
+    "profile": "https://artdealers.org/gallery/tina-kim-gallery",
+    "dates": [
+      "November 5, 2026 - December 19, 2026",
+      "September 10, 2026 - October 24, 2026",
+      "July 9, 2026 - July 24, 2026",
+      "April 30, 2026 - June 20, 2026",
+      "March 12, 2026 - April 25, 2026",
+      "February 5, 2026 - March 7, 2026",
+      "November 20, 2025 - January 24, 2026",
+      "September 18, 2025 - November 8, 2025",
+      "July 2, 2025 - September 6, 2025",
+      "May 5, 2025 - June 21, 2025",
+      "March 4, 2025 - April 19, 2025",
+      "November 7, 2024 - December 21, 2024",
+      "October 3, 2024 - November 2, 2024",
+      "August 22, 2024 - September 28, 2024",
+      "June 27, 2024 - August 16, 2024",
+      "June 27, 2024 - August 16, 2024",
+      "May 2, 2024 - June 15, 2024",
+      "March 21, 2024 - April 20, 2024",
+      "February 15, 2024 - March 16, 2024"
+    ]
+  },
+  {
+    "name": "Karma",
+    "url": "http://www.karmakarma.org",
+    "location_raw": [
+      "549 West 26th StreetNew York, NY 10001212 717 1671Also at:188 East 2nd StreetNew York, NY 10009 212 390 829022 East 2nd StreetNew York, NY 10003212 390 82907351 Santa Monica BoulevardLos Angeles, CA 90046310 736 1367Karma Bookstore136 East 3rd StreetNew York, NY 10009212 390 9279"
+    ],
+    "profile": "https://artdealers.org/gallery/karma",
+    "dates": [
+      "January 19, 2024 - March 16, 2024",
+      "January 19, 2024 - March 16, 2024",
+      "January 6, 2024 - March 2, 2024",
+      "January 5, 2024 - March 2, 2024"
+    ]
+  },
+  {
+    "name": "David Klein Gallery",
+    "url": "http://www.dkgallery.com",
+    "location_raw": [
+      "678 Livernois StFerndale, MI 48220248-433-3700"
+    ],
+    "profile": "https://artdealers.org/gallery/david-klein-gallery",
+    "dates": [
+      "October 24, 2026 - December 5, 2026",
+      "June 5, 2026 - July 18, 2026",
+      "April 17, 2026 - May 30, 2026",
+      "March 14, 2026 - April 11, 2026",
+      "January 31, 2026 - March 7, 2026",
+      "December 13, 2025 - January 24, 2026",
+      "October 17, 2025 - December 6, 2025",
+      "September 5, 2025 - October 11, 2025",
+      "July 11, 2025 - August 23, 2025",
+      "July 11, 2025 - August 23, 2025"
+    ]
+  },
+  {
+    "name": "Nathalie Karg Gallery",
+    "url": "http://nathaliekarg.com",
+    "location_raw": [
+      "127 Elizabeth StreetNew York, NY 10013212 563 7821"
+    ],
+    "profile": "https://artdealers.org/gallery/nathalie-karg-gallery",
+    "dates": [
+      "January 10, 2025 - March 1, 2025",
+      "October 24, 2024 - December 20, 2024",
+      "September 4, 2024 - October 12, 2024",
+      "September 4, 2024 - October 12, 2024",
+      "June 26, 2024 - August 9, 2024",
+      "May 2, 2024 - June 15, 2024",
+      "May 2, 2024 - June 15, 2024",
+      "March 7, 2024 - April 20, 2024",
+      "January 10, 2024 - February 24, 2024"
+    ]
+  },
+  {
+    "name": "June Kelly Gallery",
+    "url": "http://www.junekellygallery.com",
+    "location_raw": [
+      "166 Mercer StreetNew York, NY 10012212 226 1660"
+    ],
+    "profile": "https://artdealers.org/gallery/june-kelly-gallery",
+    "dates": [
+      "June 26, 2026 - July 31, 2026",
+      "April 3, 2026 - May 12, 2026",
+      "February 6, 2026 - March 31, 2026",
+      "November 14, 2025 - January 6, 2026",
+      "September 4, 2025 - November 4, 2025",
+      "April 3, 2025 - May 13, 2025",
+      "January 17, 2025 - February 25, 2025",
+      "October 18, 2024 - January 14, 2025",
+      "September 6, 2024 - October 15, 2024",
+      "June 6, 2024 - July 31, 2024",
+      "April 18, 2024 - June 4, 2024",
+      "January 18, 2024 - February 27, 2024",
+      "November 30, 2023 - January 16, 2024",
+      "September 8, 2023 - November 28, 2023",
+      "June 29, 2023 - July 28, 2023",
+      "April 20, 2023 - June 20, 2023",
+      "January 12, 2023 - March 7, 2023",
+      "September 8, 2022 - October 18, 2022",
+      "June 16, 2022 - July 29, 2022",
+      "May 13, 2022 - June 14, 2022",
+      "April 8, 2022 - May 10, 2022",
+      "March 4, 2022 - April 5, 2022",
+      "January 7, 2022 - February 26, 2022",
+      "November 19, 2021 - January 4, 2022",
+      "October 15, 2021 - November 16, 2021",
+      "September 9, 2021 - October 12, 2021",
+      "July 1, 2021 - July 30, 2021",
+      "May 7, 2021 - June 29, 2021"
+    ]
+  },
+  {
+    "name": "Sean Kelly",
+    "url": "http://www.skny.com",
+    "location_raw": [
+      "475 Tenth AvenueNew York, NY 10018212 239 1181Also at:Sean Kelly, Los Angeles1357 North HighlandLos Angeles, CA 90028310 499 0843"
+    ],
+    "profile": "https://artdealers.org/gallery/sean-kelly",
+    "dates": [
+      "November 6, 2026 - December 23, 2026",
+      "September 11, 2026 - October 31, 2026",
+      "September 11, 2026 - October 31, 2026",
+      "June 13, 2026 - July 30, 2026",
+      "June 13, 2026 - July 30, 2026",
+      "April 17, 2026 - June 6, 2026",
+      "April 17, 2026 - June 6, 2026",
+      "February 27, 2026 - April 11, 2026",
+      "February 27, 2026 - April 11, 2026",
+      "January 9, 2026 - February 21, 2026",
+      "January 9, 2026 - February 21, 2026",
+      "October 31, 2025 - December 20, 2025",
+      "September 13, 2025 - November 1, 2025",
+      "September 5, 2025 - October 18, 2025",
+      "September 5, 2025 - October 18, 2025",
+      "July 17, 2025 - August 30, 2025",
+      "June 27, 2025 - August 1, 2025",
+      "June 27, 2025 - August 1, 2025",
+      "May 16, 2025 - July 3, 2025",
+      "May 2, 2025 - June 14, 2025",
+      "March 15, 2025 - May 3, 2025",
+      "March 7, 2025 - April 18, 2025",
+      "March 7, 2025 - April 18, 2025",
+      "January 18, 2025 - March 8, 2025",
+      "January 18, 2025 - March 8, 2025",
+      "January 10, 2025 - February 22, 2025",
+      "January 10, 2025 - February 22, 2025",
+      "November 16, 2024 - January 11, 2025",
+      "October 25, 2024 - December 21, 2024",
+      "September 14, 2024 - November 2, 2024",
+      "September 6, 2024 - October 19, 2024",
+      "June 27, 2024 - August 2, 2024",
+      "June 27, 2024 - August 2, 2024",
+      "May 18, 2024 - July 27, 2024",
+      "May 11, 2024 - June 22, 2024",
+      "March 16, 2024 - May 4, 2024",
+      "March 15, 2024 - May 4, 2024",
+      "January 20, 2024 - March 9, 2024",
+      "January 20, 2024 - March 9, 2024",
+      "January 12, 2024 - March 2, 2024",
+      "January 12, 2024 - March 2, 2024"
+    ]
+  },
+  {
+    "name": "Michael Kohn Gallery",
+    "url": "http://www.kohngallery.com",
+    "location_raw": [
+      "1227 North HighlandLos Angeles, CA 90038323 461 3311"
+    ],
+    "profile": "https://artdealers.org/gallery/michael-kohn-gallery",
+    "dates": [
+      "June 20, 2024 - August 17, 2024"
+    ]
+  },
+  {
+    "name": "David Kordansky Gallery",
+    "url": "http://www.davidkordanskygallery.com",
+    "location_raw": [
+      "520 West 20th StreetNew York, NY 10011Appointment Recommended212 390 0079Also at:5130 West Edgewood PlaceLos Angeles, CA 90019323 935 3030"
+    ],
+    "profile": "https://artdealers.org/gallery/david-kordansky-gallery",
+    "dates": []
+  },
+  {
+    "name": "Hans P. Kraus Jr. Inc.",
+    "url": "http://www.sunpictures.com",
+    "location_raw": [
+      "962 Park AvenueNew York, NY 10028By Appointment212 794 2064"
+    ],
+    "profile": "https://artdealers.org/gallery/hans-p-kraus-jr-inc",
+    "dates": [
+      "September 21, 2026 - November 25, 2026",
+      "June 8, 2026 - August 20, 2026",
+      "January 30, 2026 - April 30, 2026",
+      "October 10, 2025 - November 26, 2025",
+      "June 9, 2025 - August 14, 2025",
+      "January 31, 2025 - April 30, 2025",
+      "September 17, 2024 - December 20, 2024",
+      "May 8, 2024 - August 15, 2024",
+      "January 26, 2024 - April 12, 2024"
+    ]
+  },
+  {
+    "name": "Kraushaar Galleries",
+    "url": "http://www.kraushaargalleries.com",
+    "location_raw": [
+      "15 East 71st Street, Suite 2BNew York, NY 10021Appointment Recommended212 288 2558"
+    ],
+    "profile": "https://artdealers.org/gallery/kraushaar-galleries",
+    "dates": [
+      "November 2, 2026 - December 18, 2026",
+      "October 2, 2025 - December 8, 2025",
+      "September 17, 2025 - October 30, 2025",
+      "June 4, 2025 - August 29, 2025",
+      "September 9, 2024 - October 18, 2024",
+      "February 1, 2024 - March 15, 2024"
+    ]
+  },
+  {
+    "name": "Krakow Witkin Gallery",
+    "url": "http://krakowwitkingallery.com",
+    "location_raw": [
+      "10 Newbury StreetBoston, MA 02116617 262 4490"
+    ],
+    "profile": "https://artdealers.org/gallery/krakow-witkin-gallery",
+    "dates": [
+      "May 30, 2026 - July 17, 2026",
+      "May 30, 2026 - July 17, 2026",
+      "May 30, 2026 - July 17, 2026",
+      "January 17, 2026 - March 7, 2026",
+      "January 17, 2026 - March 7, 2026",
+      "January 17, 2026 - March 7, 2026",
+      "September 13, 2025 - October 18, 2025",
+      "September 13, 2025 - October 18, 2025",
+      "September 13, 2025 - October 18, 2025",
+      "June 21, 2025 - July 18, 2025",
+      "June 21, 2025 - July 18, 2025",
+      "April 26, 2025 - July 18, 2025",
+      "March 1, 2025 - April 12, 2025",
+      "March 1, 2025 - April 12, 2025",
+      "January 11, 2025 - February 15, 2025",
+      "September 7, 2024 - October 5, 2024",
+      "September 7, 2024 - October 5, 2024",
+      "September 7, 2024 - October 5, 2024",
+      "June 15, 2024 - July 19, 2024",
+      "April 20, 2024 - June 1, 2024",
+      "March 2, 2024 - April 10, 2024",
+      "January 6, 2024 - February 17, 2024"
+    ]
+  },
+  {
+    "name": "Greg Kucera Gallery",
+    "url": "http://www.gregkucera.com",
+    "location_raw": [
+      "212 Third Avenue SouthSeattle, WA 98104Appointment Recommended206 624 0770"
+    ],
+    "profile": "https://artdealers.org/gallery/greg-kucera-gallery",
+    "dates": [
+      "October 29, 2026 - December 23, 2026",
+      "October 29, 2026 - December 23, 2026",
+      "September 3, 2026 - October 24, 2026",
+      "July 2, 2026 - August 22, 2026",
+      "June 4, 2026 - June 27, 2026",
+      "May 21, 2026 - June 27, 2026",
+      "April 2, 2026 - May 16, 2026",
+      "February 26, 2026 - March 28, 2026",
+      "January 8, 2026 - February 21, 2026",
+      "September 4, 2025 - November 1, 2025",
+      "September 4, 2025 - November 1, 2025",
+      "July 3, 2025 - August 23, 2025",
+      "May 22, 2025 - June 28, 2025",
+      "May 22, 2025 - June 28, 2025",
+      "April 3, 2025 - May 17, 2025",
+      "April 3, 2025 - May 17, 2025",
+      "February 20, 2025 - March 29, 2025",
+      "February 20, 2025 - March 29, 2025",
+      "January 2, 2025 - February 15, 2025",
+      "November 7, 2024 - December 21, 2024",
+      "November 7, 2024 - December 14, 2024",
+      "September 5, 2024 - November 2, 2024",
+      "July 5, 2024 - August 24, 2024",
+      "July 5, 2024 - August 24, 2024",
+      "May 16, 2024 - June 29, 2024",
+      "May 16, 2024 - June 29, 2024",
+      "April 4, 2024 - May 11, 2024",
+      "April 4, 2024 - May 11, 2024",
+      "February 15, 2024 - March 30, 2024",
+      "February 15, 2024 - March 30, 2024",
+      "January 4, 2024 - February 10, 2024",
+      "January 4, 2024 - February 10, 2024"
+    ]
+  },
+  {
+    "name": "kurimanzutto",
+    "url": "http://www.kurimanzutto.com",
+    "location_raw": [
+      "516 West 20th StreetNew York, NY 10011212 933 4470"
+    ],
+    "profile": "https://artdealers.org/gallery/kurimanzutto",
+    "dates": [
+      "November 12, 2026 - January 30, 2027",
+      "September 10, 2026 - October 17, 2026",
+      "June 25, 2026 - August 15, 2026",
+      "May 13, 2026 - June 13, 2026",
+      "March 12, 2026 - April 18, 2026",
+      "January 15, 2026 - February 28, 2026",
+      "November 6, 2025 - December 16, 2025",
+      "September 11, 2025 - October 18, 2025",
+      "June 28, 2025 - October 26, 2025",
+      "June 12, 2025 - August 1, 2025",
+      "May 1, 2025 - June 7, 2025",
+      "March 6, 2025 - April 19, 2025",
+      "January 16, 2025 - February 22, 2025",
+      "November 1, 2024 - December 20, 2024"
+    ]
+  },
+  {
+    "name": "Lehmann Maupin",
+    "url": "http://www.lehmannmaupin.com",
+    "location_raw": [
+      "501 West 24th StreetNew York, NY 10011212 255 2923"
+    ],
+    "profile": "https://artdealers.org/gallery/lehmann-maupin",
+    "dates": [
+      "April 23, 2026 - June 6, 2026",
+      "April 23, 2026 - June 6, 2026",
+      "September 4, 2025 - October 18, 2025",
+      "September 4, 2025 - October 18, 2025",
+      "June 22, 2024 - August 16, 2024",
+      "June 22, 2024 - August 16, 2024",
+      "January 4, 2024 - February 3, 2024"
+    ]
+  },
+  {
+    "name": "Elizabeth Leach Gallery",
+    "url": "http://www.elizabethleach.com",
+    "location_raw": [
+      "417 Northwest 9th AvenuePortland, OR 97209Appointment Recommended503 224 0521"
+    ],
+    "profile": "https://artdealers.org/gallery/elizabeth-leach-gallery",
+    "dates": [
+      "June 4, 2026 - June 27, 2026",
+      "June 4, 2026 - June 27, 2026",
+      "May 6, 2026 - May 30, 2026",
+      "May 6, 2026 - May 30, 2026",
+      "March 5, 2026 - April 30, 2026",
+      "January 15, 2026 - February 28, 2026",
+      "December 4, 2025 - January 10, 2026",
+      "December 4, 2025 - January 10, 2026",
+      "October 15, 2025 - November 29, 2025",
+      "September 4, 2025 - October 11, 2025",
+      "July 17, 2025 - August 30, 2025",
+      "July 17, 2025 - August 30, 2025",
+      "June 5, 2025 - July 12, 2025",
+      "June 5, 2025 - July 12, 2025",
+      "April 30, 2025 - May 31, 2025",
+      "April 30, 2025 - May 31, 2025",
+      "March 5, 2025 - April 26, 2025",
+      "February 6, 2025 - March 1, 2025",
+      "February 6, 2025 - March 1, 2025",
+      "December 11, 2024 - February 1, 2025",
+      "December 11, 2024 - February 1, 2025",
+      "November 7, 2024 - December 7, 2024",
+      "November 7, 2024 - December 7, 2024",
+      "October 3, 2024 - November 2, 2024",
+      "September 5, 2024 - November 2, 2024",
+      "August 1, 2024 - August 31, 2024",
+      "August 1, 2024 - September 28, 2024",
+      "July 11, 2024 - July 27, 2024",
+      "June 6, 2024 - July 6, 2024",
+      "June 6, 2024 - July 27, 2024",
+      "June 6, 2024 - July 6, 2024",
+      "May 2, 2024 - June 1, 2024",
+      "May 2, 2024 - June 1, 2024",
+      "March 8, 2024 - April 27, 2024",
+      "March 7, 2024 - April 27, 2024",
+      "January 4, 2024 - March 2, 2024",
+      "January 4, 2024 - March 2, 2024"
+    ]
+  },
+  {
+    "name": "Galerie Lelong",
+    "url": "http://www.galerielelong.com",
+    "location_raw": [
+      "528 West 26th StreetNew York, NY 10001212 315 0470"
+    ],
+    "profile": "https://artdealers.org/gallery/galerie-lelong",
+    "dates": [
+      "September 4, 2025 - October 25, 2025",
+      "June 26, 2025 - August 1, 2025",
+      "May 15, 2025 - June 21, 2025",
+      "April 10, 2025 - May 10, 2025",
+      "February 13, 2025 - April 5, 2025",
+      "December 12, 2024 - February 8, 2025",
+      "October 24, 2024 - December 7, 2024",
+      "September 5, 2024 - October 19, 2024",
+      "May 9, 2024 - June 29, 2024",
+      "April 4, 2024 - May 4, 2024",
+      "February 8, 2024 - March 30, 2024"
+    ]
+  },
+  {
+    "name": "Lévy Gorvy Dayan",
+    "url": "http://levygorvydayan.com",
+    "location_raw": [
+      "19 East 64th StreetNew York, NY 10065212 772 2004"
+    ],
+    "profile": "https://artdealers.org/gallery/levy-gorvy-dayan",
+    "dates": [
+      "January 16, 2025 - March 29, 2025"
+    ]
+  },
+  {
+    "name": "Lisson Gallery",
+    "url": "http://www.lissongallery.com",
+    "location_raw": [
+      "504 West 24th StreetNew York, NY 10011212 505 6431Also at:508 West 24th StreetNew York, NY 10011212 505 64311037 N. Sycamore AvenueLos Angeles, CA 90038 213 224 7550"
+    ],
+    "profile": "https://artdealers.org/gallery/lisson-gallery",
+    "dates": [
+      "May 4, 2022 - June 11, 2022"
+    ]
+  },
+  {
+    "name": "Locks Gallery",
+    "url": "http://www.locksgallery.com",
+    "location_raw": [
+      "600 Washington Square SouthPhiladelphia, PA 19106Appointment Recommended215 629 1000"
+    ],
+    "profile": "https://artdealers.org/gallery/locks-gallery",
+    "dates": [
+      "February 7, 2026 - March 28, 2026",
+      "January 3, 2026 - February 14, 2026",
+      "November 21, 2025 - January 10, 2026",
+      "October 3, 2025 - November 15, 2025",
+      "October 3, 2025 - November 15, 2025",
+      "June 3, 2025 - July 11, 2025",
+      "April 3, 2025 - May 17, 2025",
+      "February 14, 2025 - March 28, 2025",
+      "January 3, 2025 - January 31, 2025",
+      "November 7, 2024 - December 20, 2024",
+      "October 4, 2024 - November 30, 2024",
+      "September 13, 2024 - October 31, 2024",
+      "May 3, 2024 - June 14, 2024",
+      "April 5, 2024 - May 17, 2024",
+      "March 15, 2024 - April 26, 2024",
+      "February 2, 2024 - March 9, 2024"
+    ]
+  },
+  {
+    "name": "Jane Lombard Gallery",
+    "url": "http://www.janelombardgallery.com",
+    "location_raw": [
+      "58 White StreetNew York, NY 10013212 967 8040"
+    ],
+    "profile": "https://artdealers.org/gallery/jane-lombard-gallery",
+    "dates": []
+  },
+  {
+    "name": "Luxembourg + Co.",
+    "url": "http://www.luxembourgco.com",
+    "location_raw": [
+      "595 Madison Avenue, 6th FloorNew York, NY 10022212 452 4646"
+    ],
+    "profile": "https://artdealers.org/gallery/luxembourg-co",
+    "dates": [
+      "November 17, 2026 - January 29, 2027",
+      "April 28, 2026 - July 10, 2026",
+      "November 10, 2025 - February 13, 2026",
+      "May 7, 2025 - July 11, 2025",
+      "October 28, 2024 - January 25, 2025",
+      "May 11, 2024 - June 28, 2024",
+      "February 6, 2024 - March 29, 2024"
+    ]
+  },
+  {
+    "name": "Lawrence Markey",
+    "url": "http://www.lawrencemarkey.com",
+    "location_raw": [
+      "200 East Grayson Street, No.104San Antonio, TX 78215By Appointment210 228 9966"
+    ],
+    "profile": "https://artdealers.org/gallery/lawrence-markey",
+    "dates": []
+  },
+  {
+    "name": "L.A. Louver",
+    "url": "http://www.lalouver.com",
+    "location_raw": [
+      "45 North Venice BoulevardVenice, CA 90291310 822 4955"
+    ],
+    "profile": "https://artdealers.org/gallery/l-a-louver",
+    "dates": [
+      "February 24, 2026 - March 6, 2026",
+      "February 24, 2026 - March 6, 2026",
+      "May 29, 2024 - July 20, 2024",
+      "May 29, 2024 - July 20, 2024",
+      "March 27, 2024 - May 11, 2024",
+      "March 27, 2024 - May 11, 2024",
+      "January 17, 2024 - March 3, 2024"
+    ]
+  },
+  {
+    "name": "Robert Mann Gallery",
+    "url": "http://www.robertmann.com",
+    "location_raw": [
+      "508 West 26th Street, Suite 4CNew York, NY 10001Appointment Recommended212 989 7600"
+    ],
+    "profile": "https://artdealers.org/gallery/robert-mann-gallery",
+    "dates": [
+      "October 29, 2026 - December 12, 2026",
+      "September 10, 2026 - October 24, 2026",
+      "July 7, 2026 - August 15, 2026",
+      "April 18, 2026 - May 16, 2026",
+      "February 5, 2026 - March 19, 2026",
+      "October 23, 2025 - December 6, 2025",
+      "September 4, 2025 - October 18, 2025",
+      "May 15, 2025 - June 28, 2025",
+      "April 3, 2025 - May 10, 2025",
+      "February 27, 2025 - March 28, 2025"
+    ]
+  },
+  {
+    "name": "Holden Luntz Gallery",
+    "url": "http://www.holdenluntz.com",
+    "location_raw": [
+      "332 Worth AvenuePalm Beach, FL 33480561 805 9550"
+    ],
+    "profile": "https://artdealers.org/gallery/holden-luntz-gallery",
+    "dates": [
+      "February 21, 2026 - April 11, 2026",
+      "January 17, 2026 - February 17, 2026",
+      "December 13, 2025 - January 10, 2026",
+      "November 8, 2025 - December 6, 2025",
+      "August 23, 2025 - November 1, 2025",
+      "June 7, 2025 - August 9, 2025",
+      "March 29, 2025 - May 10, 2025",
+      "February 22, 2025 - March 23, 2025",
+      "January 29, 2025 - March 31, 2025",
+      "January 18, 2025 - February 15, 2025",
+      "December 21, 2024 - January 25, 2025",
+      "December 17, 2024 - January 11, 2025",
+      "November 8, 2024 - December 14, 2024",
+      "September 21, 2024 - November 8, 2024",
+      "June 29, 2024 - September 21, 2024",
+      "April 20, 2024 - June 22, 2024",
+      "February 24, 2024 - April 6, 2024",
+      "January 27, 2024 - February 17, 2024"
+    ]
+  },
+  {
+    "name": "David Lusk Gallery",
+    "url": "http://www.davidluskgallery.com",
+    "location_raw": [
+      "615 Hagan StreetNashville, TN 37203615 780 9990Also at:97 Tillman StreetMemphis, TN 38111901 767 3800"
+    ],
+    "profile": "https://artdealers.org/gallery/david-lusk-gallery",
+    "dates": []
+  },
+  {
+    "name": "Luhring Augustine",
+    "url": "http://www.luhringaugustine.com",
+    "location_raw": [
+      "Luhring Augustine Chelsea531 West 24th StreetNew York, NY 10011212 206 9100"
+    ],
+    "profile": "https://artdealers.org/gallery/luhring-augustine",
+    "dates": [
+      "November 14, 2025 - January 17, 2026",
+      "September 12, 2025 - October 25, 2025",
+      "May 1, 2025 - July 25, 2025",
+      "January 17, 2025 - February 22, 2025",
+      "June 21, 2024 - August 2, 2024",
+      "April 26, 2024 - June 8, 2024"
+    ]
+  },
+  {
+    "name": "Barbara Mathes Gallery",
+    "url": "http://www.barbaramathesgallery.com",
+    "location_raw": [
+      "By Appointment212 570 4190"
+    ],
+    "profile": "https://artdealers.org/gallery/barbara-mathes-gallery",
+    "dates": [
+      "April 25, 2024 - June 21, 2024"
+    ]
+  },
+  {
+    "name": "Matthew Marks Gallery",
+    "url": "http://www.matthewmarks.com",
+    "location_raw": [
+      "523 West 24th StreetNew York, NY 10011212 243 0200Also at:522 West 22nd StreetNew York, NY 10011212 243 0200526 West 22nd StreetNew York, NY 10011212 243 02001062 North Orange GroveLos Angeles, CA 90046323 654 18307818 Santa Monica BoulevardLos Angeles, CA 90046323 654 1830"
+    ],
+    "profile": "https://artdealers.org/gallery/matthew-marks-gallery",
+    "dates": []
+  },
+  {
+    "name": "Mary-Anne Martin | Fine Art",
+    "url": "http://www.mamfa.com",
+    "location_raw": [
+      "23 East 73rd StreetNew York, NY 10021212 288 2213"
+    ],
+    "profile": "https://artdealers.org/gallery/mary-anne-martin-fine-art",
+    "dates": []
+  },
+  {
+    "name": "Miles McEnery Gallery",
+    "url": "http://www.milesmcenery.com",
+    "location_raw": [
+      "525 West 22nd StreetNew York, NY 10011212 445 0051Also at:515 West 22nd StreetNew York, NY 10011212 445 0051511 West 22nd StreetNew York, NY 10011212 445 0051520 West 21st StreetNew York, NY 10011212 445 0051"
+    ],
+    "profile": "https://artdealers.org/gallery/miles-mcenery-gallery",
+    "dates": [
+      "May 16, 2024 - July 3, 2024",
+      "May 16, 2024 - June 3, 2024",
+      "May 16, 2024 - July 3, 2024",
+      "May 16, 2024 - July 3, 2024",
+      "March 28, 2024 - May 11, 2024",
+      "March 28, 2024 - May 11, 2024",
+      "March 28, 2024 - May 11, 2024",
+      "March 28, 2024 - May 11, 2024",
+      "February 8, 2024 - March 23, 2024",
+      "February 8, 2024 - March 23, 2024",
+      "February 8, 2024 - March 23, 2024",
+      "February 8, 2024 - March 23, 2024"
+    ]
+  },
+  {
+    "name": "Anthony Meier",
+    "url": "http://www.anthonymeier.com",
+    "location_raw": [
+      "21 Throckmorton AvenueMill Valley, CA 94941Appointment Recommended415 351 1400"
+    ],
+    "profile": "https://artdealers.org/gallery/anthony-meier",
+    "dates": [
+      "October 1, 2026 - December 18, 2026",
+      "July 16, 2026 - September 18, 2026",
+      "March 26, 2026 - May 28, 2026",
+      "January 21, 2026 - March 13, 2026",
+      "January 20, 2026 - March 13, 2026",
+      "November 6, 2025 - December 19, 2025",
+      "September 12, 2025 - October 24, 2025",
+      "May 29, 2025 - August 8, 2025",
+      "March 6, 2025 - May 2, 2025",
+      "January 21, 2025 - February 14, 2025",
+      "November 7, 2024 - February 14, 2025",
+      "August 29, 2024 - October 11, 2024",
+      "May 23, 2024 - July 26, 2024",
+      "February 8, 2024 - April 12, 2024"
+    ]
+  },
+  {
+    "name": "McClain Gallery",
+    "url": "http://www.mcclaingallery.com",
+    "location_raw": [
+      "2242 Richmond AvenueHouston, TX 77098Appointment Recommended713 520 9988"
+    ],
+    "profile": "https://artdealers.org/gallery/mcclain-gallery",
+    "dates": [
+      "September 19, 2026 - October 24, 2026",
+      "September 19, 2026 - October 24, 2026",
+      "May 15, 2025 - July 5, 2025",
+      "May 8, 2025 - July 5, 2025",
+      "March 15, 2025 - May 3, 2025",
+      "March 15, 2025 - May 3, 2025",
+      "March 1, 2025 - May 10, 2025",
+      "January 18, 2025 - March 8, 2025",
+      "November 16, 2024 - December 28, 2024",
+      "October 30, 2024 - November 2, 2024",
+      "September 28, 2024 - December 28, 2024",
+      "September 3, 2024 - November 2, 2024",
+      "June 29, 2024 - August 17, 2024",
+      "June 15, 2024 - July 27, 2024",
+      "May 20, 2024 - June 22, 2024",
+      "May 11, 2024 - June 22, 2024",
+      "March 16, 2024 - May 4, 2024",
+      "January 13, 2024 - February 24, 2024"
+    ]
+  },
+  {
+    "name": "moniquemeloche",
+    "url": "http://www.moniquemeloche.com",
+    "location_raw": [
+      "451 North Paulina StreetChicago, IL 60622312 243 2129"
+    ],
+    "profile": "https://artdealers.org/gallery/moniquemeloche",
+    "dates": [
+      "February 3, 2024 - March 16, 2024",
+      "November 18, 2023 - January 6, 2024",
+      "September 14, 2023 - October 28, 2023",
+      "June 9, 2023 - July 29, 2023",
+      "April 1, 2023 - May 26, 2023",
+      "February 4, 2023 - March 18, 2023",
+      "September 23, 2022 - November 5, 2022",
+      "June 11, 2022 - July 30, 2022",
+      "April 23, 2022 - June 4, 2022",
+      "February 26, 2022 - April 9, 2022",
+      "January 8, 2022 - February 19, 2022",
+      "November 6, 2021 - December 18, 2021",
+      "September 18, 2021 - October 30, 2021",
+      "June 26, 2021 - August 14, 2021",
+      "June 26, 2021 - August 14, 2021",
+      "April 24, 2021 - June 12, 2021",
+      "April 24, 2021 - June 12, 2021",
+      "March 6, 2021 - April 10, 2021",
+      "January 9, 2021 - February 13, 2021",
+      "November 7, 2020 - December 19, 2020",
+      "September 12, 2020 - October 31, 2020",
+      "July 11, 2020 - August 22, 2020",
+      "July 11, 2020 - August 22, 2020",
+      "February 1, 2020 - March 21, 2020",
+      "November 2, 2019 - January 11, 2020",
+      "September 7, 2019 - October 26, 2019",
+      "September 7, 2019 - October 26, 2019",
+      "June 6, 2019 - August 17, 2019",
+      "June 6, 2019 - August 17, 2019"
+    ]
+  },
+  {
+    "name": "Robert Miller Gallery",
+    "url": "http://www.robertmillergallery.com",
+    "location_raw": [
+      ""
+    ],
+    "profile": "https://artdealers.org/gallery/robert-miller-gallery",
+    "dates": []
+  },
+  {
+    "name": "Moeller Fine Art",
+    "url": "http://www.moellerfineart.com",
+    "location_raw": [
+      "7 East 60th Street (entrance at 1 E 60 St - The Metropolitan Club)New York, NY 10022By Appointment212 644 2133"
+    ],
+    "profile": "https://artdealers.org/gallery/moeller-fine-art",
+    "dates": [
+      "April 8, 2020 - April 16, 2020",
+      "November 7, 2019 - February 28, 2020",
+      "September 6, 2019 - October 18, 2019",
+      "May 6, 2019 - July 26, 2019",
+      "November 15, 2018 - January 31, 2019"
+    ]
+  },
+  {
+    "name": "Yossi Milo Gallery",
+    "url": "http://www.yossimilo.com",
+    "location_raw": [
+      "245 Tenth AvenueNew York, NY 10001212 414 0370"
+    ],
+    "profile": "https://artdealers.org/gallery/yossi-milo-gallery",
+    "dates": [
+      "May 13, 2026 - May 17, 2026",
+      "April 30, 2026 - June 20, 2026",
+      "March 26, 2026 - April 25, 2026",
+      "January 15, 2026 - March 21, 2026",
+      "November 13, 2025 - January 10, 2026",
+      "September 3, 2025 - November 8, 2025",
+      "June 26, 2025 - August 22, 2025",
+      "June 26, 2025 - August 22, 2025",
+      "June 26, 2025 - August 22, 2025",
+      "May 1, 2025 - June 21, 2025",
+      "March 13, 2025 - April 26, 2025",
+      "March 13, 2025 - April 26, 2025",
+      "January 16, 2025 - March 8, 2025",
+      "November 14, 2024 - January 11, 2025",
+      "September 6, 2024 - November 9, 2024",
+      "June 27, 2024 - August 16, 2024",
+      "May 2, 2024 - June 15, 2024",
+      "March 14, 2024 - April 27, 2024",
+      "February 8, 2024 - March 9, 2024",
+      "November 30, 2023 - February 3, 2024",
+      "October 26, 2023 - November 25, 2023",
+      "September 8, 2023 - October 21, 2023",
+      "September 8, 2023 - October 21, 2023",
+      "June 22, 2023 - August 18, 2023",
+      "May 11, 2023 - June 17, 2023",
+      "March 16, 2023 - May 6, 2023",
+      "February 2, 2023 - March 11, 2023",
+      "September 10, 2022 - October 22, 2022",
+      "May 14, 2022 - June 25, 2022",
+      "March 24, 2022 - May 7, 2022",
+      "February 10, 2022 - March 19, 2022",
+      "January 8, 2022 - February 5, 2022",
+      "October 29, 2021 - December 23, 2021",
+      "September 10, 2021 - October 23, 2021",
+      "March 25, 2021 - May 15, 2021",
+      "January 14, 2021 - March 13, 2021",
+      "January 12, 2021 - February 28, 2021",
+      "October 22, 2020 - January 9, 2021",
+      "March 6, 2020 - July 3, 2020",
+      "October 24, 2019 - December 7, 2019",
+      "September 5, 2019 - October 19, 2019",
+      "July 11, 2019 - August 23, 2019",
+      "May 2, 2019 - June 22, 2019",
+      "March 14, 2019 - April 27, 2019",
+      "January 17, 2019 - February 23, 2019",
+      "January 17, 2019 - March 9, 2019",
+      "November 1, 2018 - December 8, 2018",
+      "September 6, 2018 - October 27, 2018",
+      "June 28, 2018 - August 24, 2018",
+      "April 28, 2018 - June 16, 2018"
+    ]
+  },
+  {
+    "name": "Mrs.",
+    "url": "http://www.mrsgallery.com ",
+    "location_raw": [
+      "60-40 56th DriveQueens, NY 11378347 891 8112Also at:60-19 56th RoadQueens, NY 11378"
+    ],
+    "profile": "https://artdealers.org/gallery/mrs",
+    "dates": [
+      "March 21, 2026 - May 2, 2026"
+    ]
+  },
+  {
+    "name": "Modernism Inc.",
+    "url": "http://www.modernisminc.com",
+    "location_raw": [
+      "724 Ellis StreetSan Francisco, CA 94109415 541 0461Also at:Modernism West2534 Mission StreetSan Francisco, CA 94110415 541 0461"
+    ],
+    "profile": "https://artdealers.org/gallery/modernism-inc",
+    "dates": [
+      "November 12, 2026 - December 29, 2026",
+      "September 12, 2026 - October 31, 2026",
+      "July 9, 2026 - August 29, 2026",
+      "July 8, 2026 - August 29, 2026",
+      "May 14, 2026 - June 27, 2026",
+      "May 6, 2026 - July 25, 2026",
+      "March 12, 2026 - May 2, 2026",
+      "March 12, 2026 - May 2, 2026",
+      "February 12, 2026 - April 25, 2026",
+      "January 15, 2026 - March 7, 2026",
+      "January 15, 2026 - March 7, 2026",
+      "September 4, 2025 - November 1, 2025",
+      "August 22, 2025 - October 25, 2025",
+      "August 22, 2025 - January 10, 2026",
+      "July 17, 2025 - August 22, 2025",
+      "May 22, 2025 - July 31, 2025",
+      "May 8, 2025 - July 9, 2025",
+      "May 8, 2025 - June 9, 2025",
+      "March 6, 2025 - April 26, 2025",
+      "February 20, 2025 - May 20, 2025",
+      "January 18, 2025 - March 1, 2025",
+      "October 30, 2024 - October 30, 2024",
+      "September 26, 2024 - December 21, 2024",
+      "September 19, 2024 - January 10, 2025",
+      "July 5, 2024 - August 30, 2024",
+      "April 13, 2024 - May 31, 2024",
+      "April 11, 2024 - June 8, 2024",
+      "February 8, 2024 - April 4, 2024",
+      "February 8, 2024 - April 4, 2024",
+      "November 29, 2023 - January 20, 2024",
+      "October 5, 2023 - January 31, 2024",
+      "September 21, 2023 - October 28, 2023",
+      "July 12, 2023 - September 1, 2023",
+      "July 12, 2023 - September 1, 2023",
+      "May 18, 2023 - July 1, 2023",
+      "May 18, 2023 - July 1, 2023",
+      "April 26, 2023 - July 1, 2023",
+      "March 16, 2023 - May 13, 2023",
+      "January 12, 2023 - March 4, 2023",
+      "November 4, 2022 - November 22, 2022",
+      "September 8, 2022 - September 29, 2022",
+      "July 7, 2022 - September 1, 2022",
+      "July 7, 2022 - September 1, 2022",
+      "May 19, 2022 - July 1, 2022",
+      "March 24, 2022 - May 14, 2022",
+      "January 20, 2022 - March 5, 2022",
+      "September 23, 2021 - October 31, 2021",
+      "September 9, 2021 - October 23, 2021",
+      "July 15, 2021 - September 4, 2021",
+      "May 6, 2021 - July 2, 2021",
+      "March 9, 2021 - April 24, 2021",
+      "March 9, 2021 - April 24, 2021",
+      "January 21, 2021 - February 27, 2021",
+      "January 14, 2021 - February 27, 2021",
+      "November 5, 2020 - December 22, 2020",
+      "September 17, 2020 - October 31, 2020",
+      "September 5, 2020 - October 24, 2020",
+      "April 17, 2020 - May 31, 2020",
+      "March 12, 2020 - August 29, 2020",
+      "January 9, 2020 - February 29, 2020",
+      "January 9, 2020 - February 29, 2020",
+      "November 20, 2019 - January 25, 2020",
+      "September 12, 2019 - October 26, 2019",
+      "September 5, 2019 - September 5, 2019",
+      "July 10, 2019 - August 31, 2019",
+      "July 10, 2019 - August 31, 2019",
+      "May 16, 2019 - June 29, 2019",
+      "April 11, 2019 - May 10, 2019",
+      "April 11, 2019 - May 10, 2019",
+      "March 7, 2019 - April 6, 2019",
+      "March 7, 2019 - April 6, 2019",
+      "February 20, 2019 - April 1, 2019",
+      "January 10, 2019 - February 23, 2019",
+      "November 8, 2018 - December 22, 2018",
+      "November 8, 2018 - December 22, 2018",
+      "September 12, 2018 - October 27, 2018",
+      "July 11, 2018 - September 8, 2018",
+      "July 11, 2018 - September 8, 2018",
+      "June 28, 2018 - September 3, 2018",
+      "May 10, 2018 - June 30, 2018",
+      "May 10, 2018 - June 30, 2018",
+      "March 15, 2018 - April 28, 2018"
+    ]
+  },
+  {
+    "name": "Jill Newhouse Gallery",
+    "url": "http://www.jillnewhouse.com",
+    "location_raw": [
+      "4 East 81st StreetNew York, NY 10028212 249 9216"
+    ],
+    "profile": "https://artdealers.org/gallery/jill-newhouse-gallery",
+    "dates": [
+      "October 29, 2026 - November 24, 2026",
+      "May 26, 2026 - June 26, 2026",
+      "October 14, 2025 - November 18, 2025",
+      "May 7, 2025 - May 7, 2025",
+      "May 5, 2025 - April 30, 2025",
+      "May 5, 2025 - April 30, 2025",
+      "January 31, 2025 - March 7, 2025",
+      "May 8, 2024 - May 8, 2024",
+      "April 30, 2024 - June 28, 2024",
+      "November 2, 2023 - November 30, 2023",
+      "May 16, 2023 - May 16, 2023",
+      "May 4, 2023 - May 26, 2023",
+      "May 4, 2023 - May 26, 2023",
+      "January 20, 2023 - March 3, 2023",
+      "April 1, 2022 - April 29, 2022",
+      "January 21, 2022 - February 4, 2022",
+      "November 2, 2021 - December 10, 2021",
+      "July 14, 2021 - July 30, 2021",
+      "January 23, 2020 - February 1, 2020",
+      "January 20, 2020 - February 28, 2020",
+      "May 2, 2019 - May 24, 2019",
+      "October 16, 2018 - November 20, 2018",
+      "February 27, 2018 - March 16, 2018",
+      "January 26, 2018 - February 16, 2018"
+    ]
+  },
+  {
+    "name": "Nicodim",
+    "url": "http://www.nicodimgallery.com",
+    "location_raw": [
+      "15 Greene StreetNew York, NY 10013646 559 1167Also at:1700 South Santa Fe Avenue, No. 160Los Angeles, CA 90021213 265 7166"
+    ],
+    "profile": "https://artdealers.org/gallery/nicodim",
+    "dates": [
+      "November 7, 2026 - December 19, 2026",
+      "October 15, 2026 - November 25, 2026",
+      "September 19, 2026 - November 7, 2026",
+      "September 10, 2026 - October 17, 2026",
+      "June 25, 2026 - August 15, 2026",
+      "May 23, 2026 - July 25, 2026",
+      "May 12, 2026 - June 27, 2026",
+      "March 28, 2026 - May 9, 2026",
+      "March 19, 2026 - May 8, 2026",
+      "January 31, 2026 - March 21, 2026",
+      "January 22, 2026 - March 14, 2026",
+      "November 20, 2025 - January 17, 2026",
+      "November 15, 2025 - December 20, 2025",
+      "October 10, 2025 - November 8, 2025",
+      "September 27, 2025 - November 8, 2025",
+      "September 2, 2025 - October 4, 2025",
+      "July 10, 2025 - August 15, 2025",
+      "June 14, 2025 - July 26, 2025",
+      "May 5, 2025 - July 5, 2025",
+      "April 26, 2025 - June 7, 2025",
+      "March 27, 2025 - May 1, 2025",
+      "February 17, 2025 - April 19, 2025"
+    ]
+  },
+  {
+    "name": "Carolina Nitsch",
+    "url": "http://www.carolinanitsch.com",
+    "location_raw": [
+      "101 Wooster StreetNew York, NY 10012By Appointment212 463 0610"
+    ],
+    "profile": "https://artdealers.org/gallery/carolina-nitsch",
+    "dates": []
+  },
+  {
+    "name": "David Nolan Gallery",
+    "url": "http://www.davidnolangallery.com",
+    "location_raw": [
+      "David Nolan Gallery74 Leonard Street New York, NY 10013212 925 6190"
+    ],
+    "profile": "https://artdealers.org/gallery/david-nolan-gallery",
+    "dates": [
+      "November 6, 2026 - December 19, 2026",
+      "September 9, 2026 - October 24, 2026"
+    ]
+  },
+  {
+    "name": "NORR COHAN",
+    "url": "http://www.jamescohan.com",
+    "location_raw": [
+      "48 Walker StreetNew York, NY 10013212 714 9500Also at:52 Walker Street, 2nd FloorNew York, NY 10013212 714 9500"
+    ],
+    "profile": "https://artdealers.org/gallery/norr-cohan",
+    "dates": [
+      "September 5, 2025 - October 4, 2025",
+      "September 5, 2025 - October 4, 2025",
+      "September 5, 2025 - October 4, 2025",
+      "May 16, 2025 - July 25, 2025",
+      "May 16, 2025 - July 25, 2025",
+      "April 11, 2025 - May 10, 2025",
+      "April 5, 2025 - May 10, 2025",
+      "March 1, 2025 - March 22, 2025",
+      "March 1, 2025 - April 5, 2025",
+      "February 14, 2025 - March 22, 2025",
+      "January 10, 2025 - February 8, 2025",
+      "January 10, 2025 - February 8, 2025",
+      "October 25, 2024 - December 21, 2024",
+      "October 25, 2024 - December 21, 2024",
+      "October 25, 2024 - November 23, 2024",
+      "September 6, 2024 - October 19, 2024",
+      "September 6, 2024 - October 19, 2024",
+      "September 6, 2024 - October 19, 2024",
+      "June 21, 2024 - July 26, 2024",
+      "June 21, 2024 - July 26, 2024",
+      "May 11, 2024 - June 15, 2024",
+      "May 3, 2024 - June 15, 2024",
+      "March 28, 2024 - May 4, 2024",
+      "March 23, 2024 - April 14, 2024",
+      "February 15, 2024 - March 23, 2024",
+      "February 15, 2024 - March 16, 2024",
+      "January 12, 2024 - February 10, 2024",
+      "January 12, 2024 - February 10, 2024"
+    ]
+  },
+  {
+    "name": "Jonathan Novak Contemporary Art",
+    "url": "http://www.novakart.com",
+    "location_raw": [
+      "1880 Century Park East, Suite 100Los Angeles, CA 90067Appointment Recommended310 277 4997"
+    ],
+    "profile": "https://artdealers.org/gallery/jonathan-novak-contemporary-art",
+    "dates": [
+      "September 1, 2026 - October 31, 2026",
+      "March 13, 2026 - May 31, 2026",
+      "May 1, 2025 - June 27, 2025",
+      "December 2, 2024 - December 8, 2024",
+      "July 10, 2024 - September 6, 2024",
+      "September 26, 2023 - October 27, 2023",
+      "February 16, 2022 - March 31, 2022",
+      "August 10, 2021 - October 15, 2021",
+      "March 17, 2020 - January 29, 2021",
+      "February 15, 2019 - October 29, 2019"
+    ]
+  },
+  {
+    "name": "Gallery Wendi Norris",
+    "url": "http://www.gallerywendinorris.com",
+    "location_raw": [
+      "436 Jackson StreetSan Francisco, CA 94111By Appointment415 346 7812"
+    ],
+    "profile": "https://artdealers.org/gallery/gallery-wendi-norris",
+    "dates": [
+      "January 21, 2025 - March 15, 2025",
+      "September 13, 2024 - October 26, 2024",
+      "May 16, 2024 - July 13, 2024",
+      "May 8, 2024 - June 1, 2024",
+      "March 8, 2024 - May 4, 2024",
+      "January 16, 2024 - March 2, 2024",
+      "January 16, 2024 - March 24, 2024",
+      "November 9, 2023 - December 22, 2023",
+      "September 6, 2023 - October 7, 2023",
+      "July 19, 2023 - September 9, 2023",
+      "May 11, 2023 - July 1, 2023",
+      "February 23, 2023 - April 29, 2023",
+      "October 1, 2022 - November 5, 2022",
+      "January 13, 2022 - January 30, 2022",
+      "May 23, 2019 - June 29, 2019",
+      "February 21, 2019 - March 30, 2019",
+      "November 2, 2018 - December 8, 2018",
+      "October 18, 2018 - January 2, 2019",
+      "September 8, 2018 - October 6, 2018",
+      "April 10, 2018 - April 14, 2018",
+      "February 2, 2018 - February 28, 2018",
+      "January 11, 2018 - January 28, 2018",
+      "October 21, 2017 - November 15, 2017",
+      "September 21, 2017 - October 14, 2017",
+      "July 13, 2017 - September 15, 2017",
+      "May 18, 2017 - July 8, 2017"
+    ]
+  },
+  {
+    "name": "Olney Gleason",
+    "url": "http://www.olneygleason.com",
+    "location_raw": [
+      "Olney Gleason509 West 27th StreetNew York, NY 10001212 563 4474Also at:297 Tenth AvenueNew York, NY 10001212 563 4474"
+    ],
+    "profile": "https://artdealers.org/gallery/olney-gleason",
+    "dates": []
+  },
+  {
+    "name": "Ortuzar",
+    "url": "http://www.ortuzarprojects.com",
+    "location_raw": [
+      "5 White StreetNew York, NY 10013212 257 0033"
+    ],
+    "profile": "https://artdealers.org/gallery/ortuzar",
+    "dates": [
+      "January 5, 2024 - February 17, 2024",
+      "September 8, 2023 - October 21, 2023",
+      "June 23, 2023 - August 11, 2023",
+      "May 5, 2023 - June 17, 2023"
+    ]
+  },
+  {
+    "name": "Pace Di Donna Schrader Galleries",
+    "url": "http://www.pdsgalleries.com",
+    "location_raw": [
+      "744 Madison AvenueNew York, NY 10065212 259 0444"
+    ],
+    "profile": "https://artdealers.org/gallery/pace-di-donna-schrader-galleries",
+    "dates": [
+      "April 17, 2026 - June 13, 2026",
+      "October 9, 2025 - December 13, 2025",
+      "July 17, 2025 - August 21, 2025",
+      "April 25, 2025 - June 27, 2025",
+      "October 29, 2024 - December 6, 2024",
+      "April 18, 2024 - June 8, 2024"
+    ]
+  },
+  {
+    "name": "Pace Prints",
+    "url": "http://paceprints.com",
+    "location_raw": [
+      "536 West 22nd StreetNew York, NY 10011212 629 6100"
+    ],
+    "profile": "https://artdealers.org/gallery/pace-prints",
+    "dates": [
+      "April 19, 2024 - May 11, 2024",
+      "April 12, 2024 - May 11, 2024",
+      "March 14, 2024 - April 6, 2024",
+      "February 16, 2024 - March 9, 2024",
+      "February 16, 2024 - March 23, 2024",
+      "January 12, 2024 - February 10, 2024",
+      "December 1, 2023 - December 22, 2023",
+      "December 1, 2023 - December 22, 2023",
+      "October 13, 2023 - November 18, 2023",
+      "September 7, 2023 - October 7, 2023",
+      "March 24, 2023 - April 29, 2023",
+      "February 10, 2023 - March 18, 2023",
+      "January 13, 2023 - February 4, 2023",
+      "November 18, 2022 - December 23, 2022",
+      "September 30, 2022 - November 12, 2022"
+    ]
+  },
+  {
+    "name": "P•P•O•W",
+    "url": "http://www.ppowgallery.com",
+    "location_raw": [
+      "390 Broadway, 2nd FloorNew York, NY 10013212 647 1044Also at:392 BroadwayNew York, NY 10013212 647 1044"
+    ],
+    "profile": "https://artdealers.org/gallery/p-p-o-w",
+    "dates": [
+      "December 15, 2023 - January 27, 2024",
+      "November 17, 2023 - December 22, 2023",
+      "October 27, 2023 - December 9, 2023",
+      "October 13, 2023 - November 11, 2023",
+      "September 8, 2023 - October 7, 2023",
+      "June 29, 2023 - August 4, 2023",
+      "June 9, 2023 - August 4, 2023",
+      "May 18, 2023 - June 24, 2023",
+      "March 17, 2023 - April 22, 2023",
+      "February 24, 2023 - April 1, 2023",
+      "February 3, 2023 - March 11, 2023",
+      "February 3, 2023 - February 11, 2023",
+      "January 20, 2023 - February 18, 2023",
+      "December 9, 2022 - January 28, 2023",
+      "November 4, 2022 - December 10, 2022",
+      "September 9, 2022 - October 15, 2022",
+      "September 9, 2022 - October 22, 2022",
+      "July 7, 2022 - August 19, 2022",
+      "March 25, 2022 - April 23, 2022",
+      "February 18, 2022 - March 19, 2022",
+      "January 7, 2022 - February 12, 2022",
+      "November 19, 2021 - December 22, 2021",
+      "October 15, 2021 - November 13, 2021",
+      "September 10, 2021 - September 10, 2021",
+      "June 18, 2021 - July 16, 2021",
+      "May 7, 2021 - June 12, 2021",
+      "May 7, 2021 - June 12, 2021",
+      "April 2, 2021 - May 1, 2021",
+      "February 26, 2021 - March 27, 2021",
+      "January 22, 2021 - February 20, 2021"
+    ]
+  },
+  {
+    "name": "Franklin Parrasch Gallery",
+    "url": "http://www.franklinparrasch.com",
+    "location_raw": [
+      "19 East 66th StreetNew York, NY 10065Appointment Recommended212 246 5360"
+    ],
+    "profile": "https://artdealers.org/gallery/franklin-parrasch-gallery",
+    "dates": [
+      "November 2, 2026 - December 18, 2026",
+      "September 10, 2026 - October 16, 2026",
+      "July 9, 2026 - August 21, 2026",
+      "May 13, 2026 - June 18, 2026",
+      "May 12, 2026 - May 15, 2026",
+      "April 9, 2026 - May 8, 2026",
+      "March 5, 2026 - April 4, 2026",
+      "January 15, 2026 - February 27, 2026",
+      "October 30, 2025 - December 19, 2025",
+      "October 30, 2025 - December 19, 2025",
+      "June 26, 2025 - August 15, 2025",
+      "May 6, 2025 - June 20, 2025",
+      "March 20, 2025 - April 25, 2025",
+      "December 12, 2024 - January 31, 2025",
+      "November 1, 2024 - December 5, 2024",
+      "September 3, 2024 - October 4, 2024",
+      "July 11, 2024 - August 23, 2024",
+      "March 21, 2024 - April 26, 2024",
+      "February 8, 2024 - March 15, 2024",
+      "November 9, 2023 - December 15, 2023",
+      "September 8, 2023 - November 4, 2023",
+      "August 3, 2023 - August 31, 2023",
+      "April 27, 2023 - June 30, 2023",
+      "February 23, 2023 - April 14, 2023",
+      "November 3, 2022 - December 16, 2022",
+      "September 22, 2022 - October 28, 2022",
+      "May 12, 2022 - July 15, 2022",
+      "March 24, 2022 - May 6, 2022",
+      "February 3, 2022 - March 11, 2022",
+      "November 18, 2021 - December 17, 2021",
+      "October 4, 2021 - November 6, 2021",
+      "July 14, 2021 - August 20, 2021",
+      "May 10, 2021 - June 18, 2021",
+      "March 15, 2021 - April 23, 2021",
+      "February 28, 2020 - April 11, 2020",
+      "October 24, 2019 - December 21, 2019",
+      "April 18, 2019 - June 8, 2019",
+      "November 2, 2018 - December 21, 2018",
+      "September 20, 2018 - October 27, 2018",
+      "June 29, 2018 - July 27, 2018",
+      "April 27, 2018 - June 2, 2018"
+    ]
+  },
+  {
+    "name": "Petzel",
+    "url": "http://www.petzel.com",
+    "location_raw": [
+      "520 West 25th StreetNew York, NY 10001212 680 9467"
+    ],
+    "profile": "https://artdealers.org/gallery/petzel",
+    "dates": [
+      "September 4, 2025 - October 25, 2025",
+      "September 4, 2025 - October 18, 2025",
+      "June 5, 2025 - July 18, 2025",
+      "May 14, 2025 - May 23, 2025",
+      "May 3, 2025 - May 10, 2025",
+      "April 17, 2025 - May 23, 2025",
+      "April 17, 2025 - May 23, 2025",
+      "March 22, 2025 - April 5, 2025",
+      "March 7, 2025 - April 12, 2025",
+      "March 7, 2025 - April 12, 2025",
+      "February 15, 2025 - February 22, 2025",
+      "January 16, 2025 - February 22, 2025",
+      "January 16, 2025 - March 1, 2025",
+      "November 7, 2024 - December 21, 2024",
+      "November 7, 2024 - January 11, 2025",
+      "October 19, 2024 - November 9, 2024",
+      "September 5, 2024 - October 26, 2024",
+      "June 20, 2024 - August 2, 2024",
+      "May 3, 2024 - June 8, 2024",
+      "May 2, 2024 - June 8, 2024",
+      "March 14, 2024 - April 20, 2024",
+      "January 18, 2024 - March 9, 2024",
+      "January 11, 2024 - February 24, 2024",
+      "November 10, 2023 - December 22, 2023",
+      "September 14, 2023 - October 21, 2023",
+      "September 8, 2023 - October 28, 2023",
+      "June 8, 2023 - July 21, 2023",
+      "June 8, 2023 - July 21, 2023",
+      "April 21, 2023 - June 3, 2023",
+      "April 21, 2023 - June 3, 2023",
+      "March 9, 2023 - April 15, 2023",
+      "March 9, 2023 - April 15, 2023",
+      "October 8, 2022 - November 12, 2022",
+      "October 8, 2022 - November 12, 2022",
+      "May 6, 2022 - June 25, 2022",
+      "March 3, 2022 - April 30, 2022",
+      "January 14, 2022 - February 19, 2022",
+      "November 4, 2021 - December 17, 2021",
+      "September 9, 2021 - October 30, 2021",
+      "May 26, 2021 - August 6, 2021",
+      "March 18, 2021 - May 15, 2021",
+      "January 15, 2021 - March 6, 2021",
+      "November 12, 2020 - December 19, 2020",
+      "September 3, 2020 - October 31, 2020"
+    ]
+  },
+  {
+    "name": "Pace Gallery",
+    "url": "http://www.pacegallery.com",
+    "location_raw": [
+      "510 West 25th StreetNew York, NY 10001212 421 3292Also at:540 West 25th StreetNew York, NY 10001212 421 3292125 Newbury395 BroadwayNew York, NY 10013+1 212 371 52421201 South La Brea AvenueLos Angeles, CA 90019310 586 6886"
+    ],
+    "profile": "https://artdealers.org/gallery/pace-gallery",
+    "dates": [
+      "November 13, 2026 - January 9, 2027",
+      "November 6, 2026 - December 19, 2026",
+      "November 6, 2026 - January 23, 2027",
+      "November 6, 2026 - January 16, 2027",
+      "September 19, 2026 - December 22, 2026",
+      "September 18, 2026 - November 7, 2026",
+      "September 11, 2026 - October 24, 2026",
+      "September 11, 2026 - October 24, 2026",
+      "September 11, 2026 - October 24, 2026",
+      "September 11, 2026 - October 24, 2026",
+      "June 27, 2026 - August 15, 2026"
+    ]
+  },
+  {
+    "name": "Paulson Fontaine Press",
+    "url": "http://www.paulsonfontainepress.com",
+    "location_raw": [
+      "2390 C Fourth StreetBerkeley, CA 94710510 559 2088"
+    ],
+    "profile": "https://artdealers.org/gallery/paulson-fontaine-press",
+    "dates": [
+      "October 23, 2026 - January 22, 2027",
+      "May 4, 2026 - August 31, 2026",
+      "March 12, 2025 - May 2, 2025",
+      "January 1, 2025 - March 11, 2025",
+      "June 1, 2024 - August 31, 2024",
+      "January 22, 2024 - March 31, 2024",
+      "October 10, 2023 - December 31, 2023",
+      "June 1, 2023 - September 30, 2023"
+    ]
+  },
+  {
+    "name": "Josh Pazda Hiram Butler",
+    "url": "http://www.pazdabutler.com",
+    "location_raw": [
+      "4520 Blossom StreetHouston, TX 77007713 863 7097"
+    ],
+    "profile": "https://artdealers.org/gallery/josh-pazda-hiram-butler",
+    "dates": [
+      "March 7, 2026 - May 2, 2026",
+      "March 7, 2026 - May 2, 2026",
+      "November 15, 2025 - January 10, 2026",
+      "September 20, 2025 - November 8, 2025",
+      "September 20, 2025 - November 8, 2025",
+      "August 25, 2025 - September 30, 2025",
+      "May 17, 2025 - July 26, 2025",
+      "May 7, 2025 - May 11, 2025",
+      "March 1, 2025 - April 26, 2025",
+      "November 16, 2024 - January 25, 2025",
+      "October 29, 2024 - November 2, 2024",
+      "September 21, 2024 - November 2, 2024",
+      "July 20, 2024 - August 24, 2024",
+      "June 1, 2024 - July 27, 2024",
+      "June 1, 2024 - July 27, 2024",
+      "May 11, 2024 - June 29, 2024",
+      "March 9, 2024 - May 4, 2024",
+      "February 6, 2024 - March 16, 2024",
+      "November 4, 2023 - January 13, 2024",
+      "November 4, 2023 - January 13, 2024",
+      "November 4, 2023 - January 13, 2024",
+      "September 14, 2023 - October 28, 2023",
+      "September 14, 2023 - October 28, 2023",
+      "September 14, 2023 - October 28, 2023",
+      "August 10, 2023 - September 9, 2023",
+      "July 5, 2023 - August 26, 2023",
+      "June 3, 2023 - July 29, 2023",
+      "April 1, 2023 - May 27, 2023",
+      "April 1, 2023 - May 27, 2023",
+      "February 25, 2023 - March 25, 2023",
+      "September 3, 2022 - October 29, 2022",
+      "September 3, 2022 - October 29, 2022",
+      "April 23, 2022 - June 25, 2022",
+      "January 28, 2022 - March 26, 2022",
+      "December 11, 2021 - January 29, 2022",
+      "November 10, 2021 - January 8, 2022",
+      "September 18, 2021 - November 6, 2021",
+      "June 22, 2021 - August 21, 2021",
+      "March 3, 2021 - April 14, 2021",
+      "November 18, 2020 - December 23, 2020",
+      "May 26, 2020 - July 31, 2020",
+      "April 17, 2020 - June 17, 2020",
+      "February 12, 2020 - March 28, 2020",
+      "August 17, 2019 - September 28, 2019",
+      "June 1, 2019 - July 27, 2019",
+      "May 4, 2019 - June 29, 2019",
+      "April 6, 2019 - May 25, 2019",
+      "March 5, 2019 - April 27, 2019",
+      "February 2, 2019 - March 30, 2019",
+      "January 19, 2019 - February 23, 2019",
+      "December 1, 2018 - January 26, 2019",
+      "November 3, 2018 - January 12, 2019",
+      "October 6, 2018 - November 24, 2018",
+      "September 13, 2018 - October 27, 2018",
+      "August 25, 2018 - October 27, 2018",
+      "August 4, 2018 - September 28, 2018",
+      "July 7, 2018 - August 25, 2018",
+      "May 26, 2018 - July 28, 2018"
+    ]
+  },
+  {
+    "name": "Perrotin",
+    "url": "http://www.perrotin.com",
+    "location_raw": [
+      "130 Orchard StreetNew York, NY 10002212 812 2902Also at:Perrotin Los Angeles5036 West Pico BoulevardLos Angeles, CA 90019323 433 4063"
+    ],
+    "profile": "https://artdealers.org/gallery/perrotin",
+    "dates": [
+      "November 13, 2026 - January 23, 2027",
+      "October 28, 2026 - December 19, 2026",
+      "October 28, 2026 - December 19, 2026",
+      "October 28, 2026 - December 19, 2026",
+      "September 18, 2026 - November 7, 2026",
+      "September 9, 2026 - October 17, 2026",
+      "September 9, 2026 - October 17, 2026",
+      "September 9, 2026 - October 17, 2026",
+      "July 18, 2026 - August 28, 2026",
+      "June 10, 2026 - July 31, 2026",
+      "June 10, 2026 - July 31, 2026",
+      "June 10, 2026 - July 31, 2026",
+      "June 6, 2026 - July 11, 2026",
+      "June 6, 2026 - July 11, 2026",
+      "June 6, 2026 - July 11, 2026",
+      "May 1, 2026 - May 30, 2026",
+      "April 24, 2026 - May 30, 2026",
+      "April 24, 2026 - May 30, 2026",
+      "April 24, 2026 - May 30, 2026",
+      "March 21, 2026 - May 30, 2026",
+      "March 12, 2026 - April 25, 2026",
+      "March 5, 2026 - March 11, 2026",
+      "March 5, 2026 - April 11, 2026",
+      "March 5, 2026 - April 11, 2026",
+      "February 14, 2026 - March 14, 2026",
+      "January 16, 2026 - February 21, 2026",
+      "January 16, 2026 - February 18, 2026",
+      "January 16, 2026 - February 21, 2026",
+      "October 30, 2025 - December 20, 2025",
+      "October 30, 2025 - December 20, 2025",
+      "October 30, 2025 - December 20, 2025",
+      "October 30, 2025 - December 20, 2025",
+      "October 30, 2025 - December 20, 2025",
+      "September 4, 2025 - October 18, 2025",
+      "September 4, 2025 - October 18, 2025",
+      "September 4, 2025 - October 18, 2025",
+      "January 11, 2025 - February 19, 2025",
+      "January 11, 2025 - February 19, 2025",
+      "January 11, 2025 - February 19, 2025",
+      "November 16, 2024 - January 25, 2025",
+      "November 16, 2024 - January 25, 2025",
+      "October 29, 2024 - December 21, 2024",
+      "September 20, 2024 - November 9, 2024",
+      "September 6, 2024 - October 19, 2024",
+      "September 6, 2024 - October 19, 2024",
+      "June 1, 2024 - July 26, 2024",
+      "April 13, 2024 - May 23, 2024",
+      "April 6, 2024 - June 1, 2024",
+      "February 28, 2024 - March 23, 2024"
+    ]
+  },
+  {
+    "name": "Almine Rech",
+    "url": "http://alminerech.com",
+    "location_raw": [
+      "361 BroadwayNew York, NY 10013212 804 8496Also at:39 East 78th Street, 2nd FloorNew York, NY 10075212 804 8496"
+    ],
+    "profile": "https://artdealers.org/gallery/almine-rech",
+    "dates": [
+      "October 5, 2023 - October 28, 2023",
+      "September 14, 2023 - October 28, 2023",
+      "June 22, 2023 - August 4, 2023",
+      "May 2, 2023 - June 10, 2023",
+      "March 9, 2023 - April 22, 2023",
+      "March 9, 2023 - April 22, 2023",
+      "January 12, 2023 - February 25, 2023",
+      "September 14, 2022 - October 22, 2022",
+      "June 23, 2022 - August 5, 2022",
+      "May 3, 2022 - June 14, 2022"
+    ]
+  },
+  {
+    "name": "Regen Projects",
+    "url": "http://www.regenprojects.com",
+    "location_raw": [
+      "6750 Santa Monica BoulevardLos Angeles, CA 90038310 276 5424"
+    ],
+    "profile": "https://artdealers.org/gallery/regen-projects",
+    "dates": [
+      "November 6, 2026 - December 19, 2026",
+      "September 16, 2026 - October 24, 2026",
+      "September 16, 2026 - September 24, 2026",
+      "July 11, 2026 - August 15, 2026",
+      "May 28, 2026 - July 3, 2026",
+      "April 25, 2026 - May 23, 2026",
+      "March 12, 2026 - April 18, 2026",
+      "January 15, 2026 - March 1, 2026",
+      "November 6, 2025 - December 20, 2025",
+      "September 13, 2025 - October 25, 2025",
+      "July 2, 2025 - August 16, 2025",
+      "March 4, 2023 - April 15, 2023",
+      "January 14, 2023 - February 19, 2023",
+      "November 3, 2022 - December 23, 2022",
+      "September 15, 2022 - October 22, 2022",
+      "May 7, 2022 - June 25, 2022",
+      "March 5, 2022 - April 23, 2022",
+      "March 5, 2022 - April 23, 2022",
+      "January 15, 2022 - February 20, 2022",
+      "November 6, 2021 - December 23, 2021",
+      "September 11, 2021 - October 23, 2021",
+      "July 28, 2021 - August 1, 2021",
+      "June 5, 2021 - July 15, 2021",
+      "March 27, 2021 - May 22, 2021",
+      "March 27, 2021 - May 22, 2021",
+      "January 16, 2021 - March 13, 2021",
+      "November 12, 2020 - December 23, 2020",
+      "September 26, 2020 - October 31, 2020",
+      "September 12, 2020 - October 31, 2020",
+      "July 13, 2020 - August 21, 2020",
+      "February 27, 2020 - April 4, 2020",
+      "February 27, 2020 - April 4, 2020",
+      "January 11, 2020 - February 16, 2020",
+      "November 16, 2019 - December 21, 2019",
+      "September 14, 2019 - November 2, 2019",
+      "June 29, 2019 - August 17, 2019",
+      "May 17, 2019 - June 22, 2019",
+      "May 17, 2019 - June 22, 2019",
+      "April 6, 2019 - May 9, 2019",
+      "January 12, 2019 - February 17, 2019",
+      "November 2, 2018 - December 22, 2018",
+      "September 15, 2018 - October 27, 2018",
+      "July 7, 2018 - August 18, 2018",
+      "May 19, 2018 - June 23, 2018",
+      "April 14, 2018 - May 12, 2018",
+      "March 2, 2018 - April 7, 2018"
+    ]
+  },
+  {
+    "name": "Yancey Richardson",
+    "url": "http://www.yanceyrichardson.com",
+    "location_raw": [
+      "525 West 22nd StreetNew York, NY 10011646 230 9610"
+    ],
+    "profile": "https://artdealers.org/gallery/yancey-richardson",
+    "dates": [
+      "September 2, 2025 - October 18, 2025",
+      "July 16, 2025 - August 16, 2025",
+      "May 29, 2025 - July 11, 2025",
+      "May 29, 2025 - July 11, 2025",
+      "April 17, 2025 - May 23, 2025",
+      "February 27, 2025 - April 12, 2025",
+      "February 27, 2025 - April 12, 2025",
+      "January 9, 2025 - February 22, 2025",
+      "October 24, 2024 - December 21, 2024",
+      "October 24, 2024 - December 21, 2024",
+      "April 4, 2024 - May 18, 2024",
+      "April 4, 2024 - May 18, 2024",
+      "February 22, 2024 - March 30, 2024",
+      "February 22, 2024 - March 30, 2024",
+      "January 11, 2024 - February 17, 2024",
+      "January 11, 2024 - February 17, 2024",
+      "November 16, 2023 - January 6, 2024",
+      "November 16, 2023 - January 6, 2024",
+      "September 9, 2023 - November 11, 2023",
+      "July 12, 2023 - August 18, 2023",
+      "June 2, 2023 - July 7, 2023",
+      "June 1, 2023 - July 7, 2023",
+      "April 13, 2023 - May 26, 2023",
+      "February 23, 2023 - April 8, 2023",
+      "February 23, 2023 - April 8, 2023",
+      "January 5, 2023 - February 18, 2023",
+      "October 27, 2022 - December 23, 2022",
+      "October 27, 2022 - December 23, 2022",
+      "September 8, 2022 - October 22, 2022",
+      "April 16, 2022 - May 21, 2022",
+      "March 5, 2022 - April 9, 2022",
+      "January 8, 2022 - February 26, 2022",
+      "September 10, 2021 - October 16, 2021",
+      "April 15, 2021 - May 28, 2021",
+      "March 6, 2021 - April 10, 2021",
+      "January 14, 2021 - February 20, 2021",
+      "November 12, 2020 - January 9, 2021",
+      "September 10, 2020 - October 24, 2020",
+      "February 13, 2020 - April 4, 2020",
+      "February 13, 2020 - April 4, 2020",
+      "December 12, 2019 - February 8, 2020",
+      "September 12, 2019 - October 19, 2019",
+      "September 12, 2019 - October 19, 2019",
+      "July 11, 2019 - August 23, 2019",
+      "May 16, 2019 - July 3, 2019",
+      "May 16, 2019 - July 3, 2019",
+      "April 11, 2019 - May 11, 2019",
+      "April 11, 2019 - May 11, 2019",
+      "February 21, 2019 - April 6, 2019",
+      "December 13, 2018 - February 9, 2019",
+      "October 25, 2018 - December 8, 2018",
+      "October 25, 2018 - December 8, 2018",
+      "September 6, 2018 - October 20, 2018",
+      "July 11, 2018 - August 24, 2018",
+      "May 17, 2018 - July 6, 2018"
+    ]
+  },
+  {
+    "name": "Roberts Projects",
+    "url": "http://www.robertsprojectsla.com",
+    "location_raw": [
+      "442 South La Brea AvenueLos Angeles, CA 90036323 549 0223"
+    ],
+    "profile": "https://artdealers.org/gallery/roberts-projects",
+    "dates": [
+      "November 7, 2026 - December 19, 2026",
+      "November 7, 2026 - December 19, 2026",
+      "September 19, 2026 - October 24, 2026",
+      "September 19, 2026 - October 24, 2026",
+      "May 30, 2026 - August 22, 2026",
+      "April 4, 2026 - May 23, 2026",
+      "January 17, 2026 - March 21, 2026",
+      "September 27, 2025 - November 15, 2025",
+      "September 27, 2025 - November 15, 2025",
+      "June 7, 2025 - August 9, 2025",
+      "March 29, 2025 - May 10, 2025",
+      "January 25, 2025 - March 8, 2025",
+      "January 25, 2025 - March 8, 2025",
+      "November 16, 2024 - December 21, 2024",
+      "September 28, 2024 - November 2, 2024",
+      "September 14, 2024 - February 28, 2025",
+      "September 14, 2024 - November 2, 2024",
+      "July 13, 2024 - August 24, 2024",
+      "May 11, 2024 - June 29, 2024",
+      "March 23, 2024 - April 27, 2024",
+      "January 27, 2024 - March 9, 2024",
+      "September 16, 2023 - October 28, 2023",
+      "July 15, 2023 - July 26, 2023",
+      "June 10, 2023 - July 8, 2023",
+      "June 10, 2023 - July 8, 2023",
+      "April 22, 2023 - June 3, 2023",
+      "April 22, 2023 - June 3, 2023",
+      "January 21, 2023 - April 8, 2023",
+      "June 11, 2022 - July 30, 2022",
+      "June 11, 2022 - July 30, 2022",
+      "April 30, 2022 - June 4, 2022",
+      "March 19, 2022 - April 16, 2022",
+      "January 22, 2022 - March 5, 2022",
+      "January 22, 2022 - March 5, 2022",
+      "November 13, 2021 - January 8, 2022",
+      "November 13, 2021 - January 8, 2022",
+      "September 18, 2021 - November 6, 2021",
+      "September 18, 2021 - November 6, 2021",
+      "July 8, 2021 - August 14, 2021",
+      "June 5, 2021 - July 3, 2021",
+      "March 20, 2021 - May 15, 2021",
+      "January 9, 2021 - February 27, 2021",
+      "October 24, 2020 - December 12, 2020",
+      "September 19, 2020 - December 5, 2020"
+    ]
+  },
+  {
+    "name": "Nara Roesler",
+    "url": "http://www.nararoesler.art",
+    "location_raw": [
+      "511 West 21st StreetNew York, NY 10011212 794 5038"
+    ],
+    "profile": "https://artdealers.org/gallery/nara-roesler",
+    "dates": [
+      "September 10, 2026 - October 24, 2026",
+      "July 16, 2026 - August 22, 2026",
+      "May 12, 2026 - July 3, 2026",
+      "January 15, 2026 - February 28, 2026",
+      "June 12, 2025 - August 9, 2025",
+      "March 13, 2025 - April 19, 2025",
+      "January 16, 2025 - March 3, 2025",
+      "October 17, 2024 - December 21, 2024",
+      "September 4, 2024 - October 5, 2024",
+      "June 13, 2024 - August 17, 2024",
+      "May 2, 2024 - June 8, 2024",
+      "March 19, 2024 - April 20, 2024",
+      "January 18, 2024 - March 9, 2024",
+      "November 11, 2023 - December 22, 2023",
+      "September 6, 2023 - October 21, 2023",
+      "June 22, 2023 - August 25, 2023",
+      "May 9, 2023 - June 15, 2023",
+      "March 9, 2023 - April 29, 2023",
+      "January 12, 2023 - February 25, 2023",
+      "November 2, 2022 - December 23, 2022",
+      "September 7, 2022 - October 29, 2022",
+      "June 24, 2022 - August 13, 2022",
+      "May 4, 2022 - June 18, 2022",
+      "March 9, 2022 - April 23, 2022",
+      "January 13, 2022 - February 19, 2022",
+      "November 4, 2021 - December 23, 2021",
+      "September 9, 2021 - October 23, 2021",
+      "June 24, 2021 - August 20, 2021",
+      "April 27, 2021 - June 19, 2021"
+    ]
+  },
+  {
+    "name": "Andrea Rosen Gallery",
+    "url": "http://www.andrearosengallery.com",
+    "location_raw": [
+      "544 West 24th StreetNew York, NY 10011212 627 6000"
+    ],
+    "profile": "https://artdealers.org/gallery/andrea-rosen-gallery",
+    "dates": []
+  },
+  {
+    "name": "Sapar Contemporary Gallery + Incubator",
+    "url": "http://www.saparcontemporary.com",
+    "location_raw": [
+      "9 N Moore Street, 1st FloorNew York, NY 10013917 476 6428"
+    ],
+    "profile": "https://artdealers.org/gallery/sapar-contemporary-gallery-incubator",
+    "dates": [
+      "March 6, 2026 - April 17, 2026"
+    ]
+  },
+  {
+    "name": "Schoelkopf Gallery",
+    "url": "http://www.schoelkopfgallery.com",
+    "location_raw": [
+      "390 BroadwayNew York, NY 10013212 879 8815"
+    ],
+    "profile": "https://artdealers.org/gallery/schoelkopf-gallery",
+    "dates": [
+      "October 24, 2025 - December 12, 2025",
+      "September 12, 2025 - October 17, 2025",
+      "April 18, 2025 - July 11, 2025",
+      "January 17, 2025 - February 28, 2025",
+      "September 6, 2024 - October 5, 2024",
+      "January 19, 2024 - April 5, 2024",
+      "January 19, 2024 - February 23, 2024",
+      "October 13, 2023 - December 1, 2023",
+      "September 29, 2023 - December 1, 2023",
+      "May 5, 2023 - July 7, 2023",
+      "March 10, 2023 - April 21, 2023",
+      "January 17, 2023 - February 24, 2023",
+      "September 8, 2022 - October 21, 2022",
+      "May 9, 2022 - June 10, 2022",
+      "February 28, 2022 - March 25, 2022",
+      "September 7, 2021 - October 15, 2021",
+      "June 14, 2021 - July 30, 2021",
+      "April 26, 2021 - June 4, 2021",
+      "February 22, 2021 - April 16, 2021",
+      "January 14, 2021 - February 12, 2021",
+      "December 2, 2020 - December 18, 2020",
+      "December 1, 2020 - December 18, 2020",
+      "November 2, 2020 - November 20, 2020",
+      "February 24, 2020 - July 31, 2020",
+      "September 10, 2019 - October 25, 2019",
+      "May 20, 2019 - July 3, 2019",
+      "April 29, 2019 - May 17, 2019",
+      "April 1, 2019 - April 26, 2019"
+    ]
+  },
+  {
+    "name": "Rosenberg & Co.",
+    "url": "http://www.rosenbergco.com ",
+    "location_raw": [
+      "19 East 66th StreetNew York, NY 10065212 202 3270"
+    ],
+    "profile": "https://artdealers.org/gallery/rosenberg-co",
+    "dates": [
+      "October 7, 2026 - November 14, 2026",
+      "March 4, 2026 - April 25, 2026",
+      "January 14, 2026 - February 14, 2026",
+      "September 11, 2025 - October 11, 2025",
+      "May 6, 2025 - July 1, 2025",
+      "January 9, 2025 - February 15, 2025",
+      "April 3, 2024 - July 3, 2024",
+      "September 28, 2023 - December 22, 2023",
+      "August 14, 2023 - September 14, 2023",
+      "May 11, 2023 - July 11, 2023",
+      "January 10, 2023 - February 11, 2023",
+      "October 15, 2022 - December 17, 2022",
+      "April 19, 2022 - July 1, 2022"
+    ]
+  },
+  {
+    "name": "Mary Ryan Gallery",
+    "url": "http://www.maryryangallery.com",
+    "location_raw": [
+      "515 West 26th Street, 3rd FloorNew York, NY 10001212 397 0669"
+    ],
+    "profile": "https://artdealers.org/gallery/mary-ryan-gallery",
+    "dates": [
+      "November 6, 2026 - December 12, 2026",
+      "October 1, 2026 - September 30, 2026",
+      "March 26, 2026 - May 9, 2026",
+      "February 26, 2026 - March 21, 2026",
+      "September 18, 2025 - November 1, 2025",
+      "March 12, 2025 - April 12, 2025",
+      "February 20, 2025 - April 12, 2025",
+      "October 19, 2024 - November 30, 2024",
+      "October 6, 2022 - November 12, 2022",
+      "November 4, 2021 - December 24, 2021",
+      "July 9, 2019 - August 23, 2019",
+      "May 16, 2018 - June 16, 2018",
+      "April 5, 2018 - May 12, 2018",
+      "January 6, 2018 - February 10, 2018"
+    ]
+  },
+  {
+    "name": "Ryan Lee Gallery",
+    "url": "http://www.ryanleegallery.com",
+    "location_raw": [
+      "515 West 26th Street, 3rd FloorNew York, NY 10001212 397 0742"
+    ],
+    "profile": "https://artdealers.org/gallery/ryan-lee-gallery",
+    "dates": [
+      "October 29, 2026 - December 23, 2026",
+      "September 10, 2026 - October 24, 2026",
+      "June 25, 2026 - August 21, 2026",
+      "May 14, 2026 - June 20, 2026",
+      "April 9, 2026 - May 9, 2026",
+      "February 26, 2026 - April 4, 2026",
+      "January 8, 2026 - February 14, 2026",
+      "November 13, 2025 - December 23, 2025",
+      "October 9, 2025 - November 8, 2025",
+      "September 4, 2025 - October 4, 2025",
+      "June 26, 2025 - August 15, 2025",
+      "April 17, 2025 - June 21, 2025",
+      "January 9, 2025 - February 15, 2025",
+      "January 9, 2025 - February 15, 2025",
+      "September 5, 2024 - October 19, 2024",
+      "September 5, 2024 - October 19, 2024",
+      "April 30, 2024 - June 22, 2024",
+      "March 14, 2024 - April 27, 2024",
+      "January 25, 2024 - March 9, 2024",
+      "November 30, 2023 - January 20, 2024",
+      "October 25, 2023 - November 25, 2023",
+      "October 25, 2023 - November 25, 2023",
+      "September 14, 2023 - October 21, 2023",
+      "July 10, 2023 - September 9, 2023",
+      "May 18, 2023 - June 30, 2023",
+      "May 18, 2023 - June 30, 2023"
+    ]
+  },
+  {
+    "name": "Sargent's Daughters",
+    "url": "http://www.sargentsdaughters.com",
+    "location_raw": [
+      "370 BroadwayNew York, NY 10013212 233 0846"
+    ],
+    "profile": "https://artdealers.org/gallery/sargent-s-daughters",
+    "dates": [
+      "February 28, 2025 - April 5, 2025",
+      "February 28, 2025 - March 29, 2025",
+      "January 10, 2025 - February 15, 2025"
+    ]
+  },
+  {
+    "name": "Michael Rosenfeld Gallery",
+    "url": "http://www.michaelrosenfeld.com",
+    "location_raw": [
+      "100 11th AvenueNew York, NY 10011212 247 0082"
+    ],
+    "profile": "https://artdealers.org/gallery/michael-rosenfeld-gallery",
+    "dates": [
+      "November 12, 2026 - November 16, 2026",
+      "October 21, 2026 - October 23, 2026",
+      "September 24, 2026 - September 27, 2026",
+      "September 10, 2026 - November 14, 2026",
+      "April 18, 2026 - August 7, 2026",
+      "February 7, 2026 - April 4, 2026",
+      "February 7, 2026 - April 4, 2026",
+      "November 14, 2025 - January 31, 2026",
+      "September 4, 2025 - November 8, 2025"
+    ]
+  },
+  {
+    "name": "William Shearburn Gallery",
+    "url": "http://www.shearburngallery.com",
+    "location_raw": [
+      "336 Selma AvenueSt. Louis, MO 63119Appointment Recommended 314 367 8020"
+    ],
+    "profile": "https://artdealers.org/gallery/william-shearburn-gallery",
+    "dates": [
+      "September 20, 2024 - October 25, 2024"
+    ]
+  },
+  {
+    "name": "Jack Shainman Gallery",
+    "url": "http://www.jackshainman.com",
+    "location_raw": [
+      "46 Lafayette StreetNew York, NY 10013Also at:513 West 20th StreetNew York, NY 10011212 645 1701The School25 Broad StreetKinderhook, NY 12106212 645 1701"
+    ],
+    "profile": "https://artdealers.org/gallery/jack-shainman-gallery",
+    "dates": [
+      "June 4, 2024 - August 2, 2024",
+      "May 18, 2024 - November 30, 2024",
+      "April 25, 2024 - June 1, 2024",
+      "March 7, 2024 - April 20, 2024",
+      "January 12, 2024 - March 16, 2024",
+      "January 11, 2024 - March 2, 2024",
+      "May 21, 2023 - December 16, 2023",
+      "June 5, 2022 - December 3, 2022",
+      "October 26, 2019 - April 1, 2020",
+      "June 1, 2019 - September 7, 2019",
+      "November 17, 2018 - March 2, 2019"
+    ]
+  },
+  {
+    "name": "Susan Sheehan Gallery",
+    "url": "http://www.susansheehangallery.com",
+    "location_raw": [
+      "146 Greene StreetNew York, NY 10012Appointment Recommended212 489 3331"
+    ],
+    "profile": "https://artdealers.org/gallery/susan-sheehan-gallery",
+    "dates": [
+      "July 16, 2026 - September 10, 2026",
+      "May 19, 2026 - July 7, 2026",
+      "March 10, 2026 - April 28, 2026",
+      "January 13, 2026 - March 3, 2026",
+      "October 2, 2025 - November 14, 2025",
+      "July 21, 2025 - September 5, 2025",
+      "May 14, 2025 - June 27, 2025",
+      "March 21, 2025 - May 2, 2025",
+      "January 16, 2025 - March 7, 2025",
+      "October 29, 2024 - November 2, 2024",
+      "October 24, 2024 - December 20, 2024",
+      "September 5, 2024 - October 19, 2024",
+      "June 6, 2024 - August 2, 2024",
+      "April 25, 2024 - May 31, 2024"
+    ]
+  },
+  {
+    "name": "Marc Selwyn Fine Art",
+    "url": "http://www.marcselwynfineart.com",
+    "location_raw": [
+      "9953 South Santa Monica BoulevardBeverly Hills, CA 90212310 277 9953Also at:427 Camden427 N Camden DriveBeverly Hills, CA 90210Marc Selwyn Fine Art | Camden Annex427 N Camden DriveBeverly Hills, CA 90210Appointment Recommended310-277-9953"
+    ],
+    "profile": "https://artdealers.org/gallery/marc-selwyn-fine-art",
+    "dates": [
+      "May 23, 2026 - July 2, 2026",
+      "May 23, 2026 - July 2, 2026",
+      "May 22, 2026 - July 2, 2026",
+      "March 28, 2026 - May 9, 2026",
+      "November 14, 2025 - December 23, 2025",
+      "November 14, 2025 - December 20, 2025",
+      "November 8, 2025 - December 23, 2025",
+      "September 30, 2025 - November 8, 2025",
+      "September 14, 2025 - October 25, 2025",
+      "June 26, 2025 - August 9, 2025",
+      "June 8, 2025 - August 2, 2025",
+      "April 17, 2025 - May 31, 2025",
+      "February 15, 2025 - March 29, 2025",
+      "February 15, 2025 - March 29, 2025",
+      "February 8, 2025 - March 29, 2025",
+      "December 12, 2024 - January 25, 2025",
+      "December 12, 2024 - January 25, 2025",
+      "October 27, 2024 - December 3, 2024",
+      "September 13, 2024 - October 26, 2024",
+      "September 7, 2024 - October 19, 2024",
+      "July 13, 2024 - August 24, 2024",
+      "June 22, 2024 - August 3, 2024",
+      "April 27, 2024 - June 1, 2024",
+      "April 27, 2024 - June 1, 2024",
+      "March 16, 2024 - April 20, 2024",
+      "January 13, 2024 - March 3, 2024",
+      "November 11, 2023 - December 23, 2023",
+      "September 22, 2023 - October 28, 2023",
+      "July 22, 2023 - August 26, 2023",
+      "June 3, 2023 - July 15, 2023",
+      "June 3, 2023 - July 15, 2023",
+      "April 16, 2023 - May 27, 2023",
+      "April 16, 2023 - May 27, 2023",
+      "January 28, 2023 - March 25, 2023",
+      "January 28, 2023 - March 25, 2023",
+      "November 11, 2022 - December 23, 2022",
+      "November 11, 2022 - December 23, 2022",
+      "September 17, 2022 - October 29, 2022",
+      "July 9, 2022 - August 27, 2022",
+      "July 9, 2022 - August 27, 2022",
+      "April 21, 2022 - June 18, 2022",
+      "March 12, 2022 - April 16, 2022",
+      "March 12, 2022 - April 16, 2022",
+      "January 15, 2022 - February 26, 2022",
+      "October 23, 2021 - November 13, 2021",
+      "July 24, 2021 - September 18, 2021",
+      "July 24, 2021 - September 18, 2021",
+      "September 26, 2020 - October 31, 2020",
+      "August 15, 2020 - August 19, 2020",
+      "August 15, 2020 - September 19, 2020",
+      "September 21, 2019 - November 2, 2019",
+      "July 13, 2019 - September 14, 2019",
+      "July 13, 2019 - September 14, 2019",
+      "May 23, 2019 - July 6, 2019",
+      "March 30, 2019 - May 18, 2019",
+      "February 16, 2019 - March 23, 2019",
+      "November 17, 2018 - February 2, 2019",
+      "September 15, 2018 - November 10, 2018",
+      "July 14, 2018 - August 31, 2018",
+      "May 26, 2018 - July 7, 2018",
+      "April 7, 2018 - May 19, 2018",
+      "February 17, 2018 - March 31, 2018",
+      "January 13, 2018 - February 10, 2018"
+    ]
+  },
+  {
+    "name": "Shoshana Wayne Gallery",
+    "url": "http://www.shoshanawayne.com",
+    "location_raw": [
+      "5247 West Adams BoulevardLos Angeles, CA 90016323 452 9067"
+    ],
+    "profile": "https://artdealers.org/gallery/shoshana-wayne-gallery",
+    "dates": [
+      "November 14, 2026 - January 16, 2027",
+      "September 10, 2026 - November 7, 2026",
+      "July 25, 2026 - September 3, 2026",
+      "May 30, 2026 - July 18, 2026",
+      "April 4, 2026 - May 23, 2026",
+      "April 4, 2026 - May 23, 2026",
+      "January 24, 2026 - March 21, 2026",
+      "May 24, 2025 - August 23, 2025",
+      "March 29, 2025 - May 17, 2025",
+      "January 11, 2025 - March 1, 2025",
+      "October 19, 2024 - December 14, 2024",
+      "June 29, 2024 - August 17, 2024",
+      "May 18, 2024 - June 29, 2024",
+      "May 18, 2024 - June 29, 2024",
+      "April 6, 2024 - May 11, 2024",
+      "February 3, 2024 - March 29, 2024"
+    ]
+  },
+  {
+    "name": "Sikkema Malloy Jenkins",
+    "url": "http://www.smjny.com",
+    "location_raw": [
+      "530 West 22nd StreetNew York, NY 10011212 929 2262"
+    ],
+    "profile": "https://artdealers.org/gallery/sikkema-malloy-jenkins",
+    "dates": [
+      "October 30, 2026 - December 19, 2026",
+      "September 10, 2026 - October 24, 2026",
+      "June 25, 2026 - August 7, 2026",
+      "May 14, 2026 - June 20, 2026",
+      "May 14, 2026 - June 20, 2026",
+      "March 27, 2026 - May 2, 2026",
+      "March 27, 2026 - May 2, 2026",
+      "January 9, 2026 - February 7, 2026",
+      "September 2, 2025 - October 11, 2025",
+      "September 2, 2025 - October 11, 2025",
+      "April 12, 2025 - May 17, 2025",
+      "February 21, 2025 - April 5, 2025",
+      "January 10, 2025 - February 15, 2025",
+      "October 25, 2024 - December 14, 2024",
+      "September 6, 2024 - October 19, 2024"
+    ]
+  },
+  {
+    "name": "Sicardi | Ayers | Bacino",
+    "url": "http://www.sicardi.com",
+    "location_raw": [
+      "1506 West Alabama StreetHouston, TX 77006Appointment Recommended713 529 1313"
+    ],
+    "profile": "https://artdealers.org/gallery/sicardi-ayers-bacino",
+    "dates": [
+      "September 13, 2025 - November 22, 2025",
+      "September 13, 2025 - November 22, 2025",
+      "June 28, 2025 - August 30, 2025",
+      "June 28, 2025 - August 30, 2025",
+      "March 15, 2025 - May 3, 2025",
+      "January 18, 2025 - March 8, 2025",
+      "December 14, 2024 - January 11, 2025",
+      "September 28, 2024 - December 7, 2024",
+      "July 20, 2024 - August 31, 2024",
+      "July 13, 2024 - August 31, 2024",
+      "June 8, 2024 - July 6, 2024",
+      "May 18, 2024 - July 13, 2024",
+      "March 23, 2024 - May 11, 2024",
+      "January 18, 2024 - March 14, 2024"
+    ]
+  },
+  {
+    "name": "Skarstedt",
+    "url": "http://www.skarstedt.com",
+    "location_raw": [
+      "20 East 79th StreetNew York, NY 10075212 737 2060Also at:547 West 25th StreetNew York, NY 10001212 517 5259"
+    ],
+    "profile": "https://artdealers.org/gallery/skarstedt",
+    "dates": [
+      "May 8, 2024 - June 15, 2024",
+      "March 14, 2024 - May 4, 2024",
+      "February 2, 2024 - March 9, 2024",
+      "September 14, 2022 - August 29, 2022",
+      "May 4, 2022 - June 11, 2022"
+    ]
+  },
+  {
+    "name": "Fredric Snitzer Gallery",
+    "url": "http://www.snitzer.com",
+    "location_raw": [
+      "1540 Northeast Miami CourtMiami, FL 33132305 448 8976"
+    ],
+    "profile": "https://artdealers.org/gallery/fredric-snitzer-gallery",
+    "dates": [
+      "February 19, 2023 - March 25, 2023",
+      "November 27, 2022 - February 11, 2023",
+      "October 15, 2022 - November 19, 2022",
+      "October 15, 2022 - November 19, 2022",
+      "September 10, 2022 - October 8, 2022",
+      "February 20, 2022 - March 26, 2022",
+      "November 28, 2021 - January 15, 2022",
+      "October 15, 2021 - November 20, 2021",
+      "June 27, 2021 - August 21, 2021",
+      "May 2, 2021 - June 12, 2021",
+      "February 26, 2021 - April 17, 2021",
+      "December 2, 2020 - January 16, 2021",
+      "October 16, 2020 - November 21, 2020",
+      "August 9, 2020 - September 19, 2020",
+      "April 18, 2020 - May 23, 2020",
+      "January 24, 2020 - March 7, 2020",
+      "January 24, 2020 - March 7, 2020",
+      "December 1, 2019 - January 19, 2020",
+      "October 11, 2019 - November 16, 2019",
+      "September 6, 2019 - October 5, 2019",
+      "May 10, 2019 - June 22, 2019",
+      "May 10, 2019 - June 22, 2019",
+      "March 2, 2019 - April 15, 2019",
+      "March 2, 2019 - April 15, 2019",
+      "November 30, 2018 - January 12, 2019"
+    ]
+  },
+  {
+    "name": "Sprüth Magers",
+    "url": "http://www.spruethmagers.com",
+    "location_raw": [
+      "5900 Wilshire BoulevardLos Angeles, CA 90036323 634 0600Also at:22 East 80th StreetNew York, NY 10075917 722 2370"
+    ],
+    "profile": "https://artdealers.org/gallery/spruth-magers",
+    "dates": [
+      "September 18, 2026 - December 12, 2026",
+      "September 11, 2026 - December 12, 2026",
+      "June 3, 2026 - July 31, 2026",
+      "May 15, 2026 - August 15, 2026",
+      "April 15, 2026 - May 22, 2026",
+      "February 24, 2026 - April 25, 2026",
+      "January 30, 2026 - March 28, 2026",
+      "November 21, 2025 - February 14, 2026",
+      "November 5, 2025 - December 20, 2025",
+      "September 10, 2025 - December 31, 1969",
+      "September 5, 2025 - October 25, 2025",
+      "May 30, 2025 - August 2, 2025",
+      "May 8, 2025 - August 1, 2025",
+      "March 14, 2025 - April 19, 2025",
+      "February 15, 2025 - May 3, 2025",
+      "January 29, 2025 - March 1, 2025",
+      "September 14, 2024 - December 14, 2024",
+      "September 5, 2024 - November 2, 2024",
+      "June 4, 2024 - July 26, 2024",
+      "May 24, 2024 - August 10, 2024",
+      "May 24, 2024 - August 10, 2024",
+      "February 28, 2024 - April 27, 2024"
+    ]
+  },
+  {
+    "name": "John Szoke Gallery",
+    "url": "http://www.johnszoke.com",
+    "location_raw": [
+      "17 West 54th Street 1C/DNew York, NY 10019Appointment Recommended212 219 8300"
+    ],
+    "profile": "https://artdealers.org/gallery/john-szoke-gallery",
+    "dates": []
+  },
+  {
+    "name": "Louis Stern Fine Arts",
+    "url": "http://www.louissternfinearts.com",
+    "location_raw": [
+      "9002 Melrose AvenueWest Hollywood, CA 90069310 276 0147"
+    ],
+    "profile": "https://artdealers.org/gallery/louis-stern-fine-arts",
+    "dates": [
+      "October 3, 2026 - January 9, 2027",
+      "July 18, 2026 - September 19, 2026",
+      "May 16, 2026 - June 27, 2026",
+      "March 28, 2026 - May 2, 2026",
+      "January 24, 2026 - March 7, 2026",
+      "November 15, 2025 - January 10, 2026",
+      "September 20, 2025 - November 1, 2025",
+      "July 10, 2025 - September 6, 2025",
+      "May 17, 2025 - June 28, 2025",
+      "March 15, 2025 - May 3, 2025",
+      "January 25, 2025 - March 8, 2025",
+      "November 16, 2024 - January 11, 2025",
+      "September 14, 2024 - November 2, 2024",
+      "July 13, 2024 - August 17, 2024",
+      "May 18, 2024 - June 29, 2024"
+    ]
+  },
+  {
+    "name": "Skoto Gallery",
+    "url": "http://www.skotogallery.com",
+    "location_raw": [
+      "529 West 20th Street, 5FLNew York, NY 10011212 352 8058"
+    ],
+    "profile": "https://artdealers.org/gallery/skoto-gallery",
+    "dates": [
+      "October 29, 2026 - January 30, 2027",
+      "September 10, 2026 - October 24, 2026",
+      "April 30, 2026 - June 13, 2026",
+      "February 12, 2026 - April 4, 2026",
+      "November 20, 2025 - January 31, 2026",
+      "November 6, 2025 - November 15, 2025",
+      "September 18, 2025 - November 1, 2025",
+      "May 29, 2025 - July 26, 2025",
+      "March 20, 2025 - May 3, 2025",
+      "January 30, 2025 - March 15, 2025",
+      "November 21, 2024 - January 25, 2025",
+      "September 19, 2024 - November 2, 2024",
+      "May 2, 2024 - June 15, 2024",
+      "March 14, 2024 - April 27, 2024"
+    ]
+  },
+  {
+    "name": "Hollis Taggart",
+    "url": "http://www.hollistaggart.com",
+    "location_raw": [
+      "109 Norfolk StreetNew York, NY 10002Also at:521 West 26th Street, 1st & 2nd FloorsNew York, NY 10001212 628 4000"
+    ],
+    "profile": "https://artdealers.org/gallery/hollis-taggart",
+    "dates": [
+      "October 22, 2026 - November 25, 2026",
+      "September 10, 2026 - October 17, 2026",
+      "January 9, 2026 - February 21, 2026"
+    ]
+  },
+  {
+    "name": "Timothy Taylor",
+    "url": "http://www.timothytaylor.com",
+    "location_raw": [
+      "74 Leonard Street New York, NY 10013By Appointment212 256 1669"
+    ],
+    "profile": "https://artdealers.org/gallery/timothy-taylor",
+    "dates": [
+      "June 27, 2025 - August 1, 2025",
+      "May 8, 2025 - June 21, 2025",
+      "April 4, 2025 - May 3, 2025",
+      "February 27, 2025 - March 29, 2025",
+      "January 16, 2025 - February 22, 2025",
+      "October 25, 2024 - December 7, 2024",
+      "September 6, 2024 - October 19, 2024",
+      "June 20, 2024 - August 23, 2024",
+      "May 2, 2024 - June 15, 2024",
+      "March 14, 2024 - April 20, 2024"
+    ]
+  },
+  {
+    "name": "Leslie Tonkonow Artworks + Projects",
+    "url": "http://www.tonkonow.com",
+    "location_raw": [
+      "401 Broadway, Suite 411New York, NY 10013By Appointment212 255 8450"
+    ],
+    "profile": "https://artdealers.org/gallery/leslie-tonkonow-artworks-projects",
+    "dates": [
+      "January 2, 2025 - February 28, 2025",
+      "February 26, 2022 - April 2, 2022",
+      "November 11, 2021 - December 22, 2021"
+    ]
+  },
+  {
+    "name": "Leon Tovar Gallery",
+    "url": "http://www.leontovargallery.com",
+    "location_raw": [
+      "26 East 64th Street, 2nd FloorNew York, NY 10065212 585 2400"
+    ],
+    "profile": "https://artdealers.org/gallery/leon-tovar-gallery",
+    "dates": [
+      "January 25, 2024 - March 8, 2024"
+    ]
+  },
+  {
+    "name": "Cristin Tierney Gallery",
+    "url": "http://www.cristintierney.com",
+    "location_raw": [
+      "49 Walker StreetNew York, NY 10013212 594 0550"
+    ],
+    "profile": "https://artdealers.org/gallery/cristin-tierney-gallery",
+    "dates": [
+      "October 17, 2025 - December 20, 2025"
+    ]
+  },
+  {
+    "name": "Tilton Gallery",
+    "url": "http://www.jacktiltongallery.com",
+    "location_raw": [
+      "8 East 76th StreetNew York, NY 10021By Appointment212 737 2221"
+    ],
+    "profile": "https://artdealers.org/gallery/tilton-gallery",
+    "dates": [
+      "January 28, 2026 - March 31, 2026",
+      "September 30, 2025 - December 13, 2025",
+      "January 23, 2025 - March 8, 2025",
+      "September 4, 2024 - December 20, 2024",
+      "April 23, 2024 - June 28, 2024",
+      "February 7, 2024 - April 13, 2024"
+    ]
+  },
+  {
+    "name": "TOTAH",
+    "url": "http://www.davidtotah.com",
+    "location_raw": [
+      "183 Stanton StreetNew York, NY 10002212 582 6111"
+    ],
+    "profile": "https://artdealers.org/gallery/totah",
+    "dates": [
+      "September 10, 2026 - December 5, 2026",
+      "May 14, 2026 - July 31, 2026",
+      "February 25, 2026 - May 2, 2026",
+      "November 12, 2025 - December 20, 2025",
+      "September 5, 2025 - November 8, 2025",
+      "May 1, 2025 - June 28, 2025",
+      "February 20, 2025 - April 26, 2025",
+      "December 11, 2024 - February 15, 2025",
+      "September 4, 2024 - November 9, 2024",
+      "April 25, 2024 - June 15, 2024",
+      "February 8, 2024 - April 20, 2024"
+    ]
+  },
+  {
+    "name": "David Tunick, Inc.",
+    "url": "http://www.tunickart.com",
+    "location_raw": [
+      "13 East 69th StreetNew York, NY 10021Appointment Recommended212 570 0090"
+    ],
+    "profile": "https://artdealers.org/gallery/david-tunick-inc",
+    "dates": [
+      "February 15, 2024 - February 18, 2024"
+    ]
+  },
+  {
+    "name": "Two Palms",
+    "url": "http://www.twopalms.us",
+    "location_raw": [
+      "38 Crosby Street, 3rd FloorNew York, NY 10013By Appointment212 965 8598"
+    ],
+    "profile": "https://artdealers.org/gallery/two-palms",
+    "dates": []
+  },
+  {
+    "name": "Meredith Ward Fine Art",
+    "url": "http://www.meredithwardfineart.com",
+    "location_raw": [
+      "New York, NY By Appointment212 744 7306"
+    ],
+    "profile": "https://artdealers.org/gallery/meredith-ward-fine-art",
+    "dates": []
+  },
+  {
+    "name": "Universal Limited Art Editions",
+    "url": "http://www.ulae.com",
+    "location_raw": [
+      "Showroom74 5th AvenueNew York, NY 10011By Appointment631-987-9648Also at:Studio and Main Office1446 North Clinton AvenueBay Shore, NY 11706By Appointment631 665 2291"
+    ],
+    "profile": "https://artdealers.org/gallery/universal-limited-art-editions",
+    "dates": []
+  },
+  {
+    "name": "Van Doren Waxter",
+    "url": "http://www.vandorenwaxter.com",
+    "location_raw": [
+      "23 East 73rd StreetNew York, NY 10021212 445 0444"
+    ],
+    "profile": "https://artdealers.org/gallery/van-doren-waxter",
+    "dates": [
+      "September 17, 2026 - November 14, 2026"
+    ]
+  },
+  {
+    "name": "VeneKlasen",
+    "url": "http://www.veneklasengallery.com",
+    "location_raw": [
+      "4 East 77th StreetNew York, NY 10075212 597 2723"
+    ],
+    "profile": "https://artdealers.org/gallery/veneklasen",
+    "dates": [
+      "September 10, 2026 - November 7, 2026",
+      "May 13, 2026 - September 4, 2026",
+      "March 4, 2026 - May 9, 2026"
+    ]
+  },
+  {
+    "name": "Valley House Gallery & Sculpture Garden",
+    "url": "http://www.valleyhouse.com",
+    "location_raw": [
+      "6616 Spring Valley RoadDallas, TX 75254972 239 2441"
+    ],
+    "profile": "https://artdealers.org/gallery/valley-house-gallery-sculpture-garden",
+    "dates": [
+      "August 1, 2026 - September 19, 2026",
+      "September 13, 2025 - October 18, 2025",
+      "June 15, 2024 - August 3, 2024",
+      "January 13, 2024 - February 10, 2024"
+    ]
+  },
+  {
+    "name": "Vielmetter Los Angeles",
+    "url": "http://www.vielmetter.com",
+    "location_raw": [
+      "1700 South Santa Fe Avenue, #101Los Angeles, CA 90021213 623 3280"
+    ],
+    "profile": "https://artdealers.org/gallery/vielmetter-los-angeles",
+    "dates": [
+      "February 8, 2025 - March 29, 2025",
+      "February 8, 2025 - March 29, 2025",
+      "January 25, 2025 - March 8, 2025",
+      "November 23, 2024 - January 25, 2025",
+      "November 23, 2024 - January 25, 2025",
+      "November 16, 2024 - January 11, 2025",
+      "September 21, 2024 - November 9, 2024",
+      "September 21, 2024 - November 9, 2024",
+      "September 14, 2024 - November 2, 2024",
+      "September 14, 2024 - November 2, 2024",
+      "July 20, 2024 - August 24, 2024",
+      "July 20, 2024 - August 23, 2024",
+      "July 20, 2024 - August 31, 2024",
+      "July 13, 2024 - August 23, 2024",
+      "July 6, 2024 - July 6, 2024",
+      "June 1, 2024 - July 6, 2024",
+      "May 18, 2024 - June 29, 2024",
+      "April 6, 2024 - May 18, 2024",
+      "April 6, 2024 - May 18, 2024",
+      "March 23, 2024 - May 4, 2024",
+      "February 10, 2024 - March 23, 2024",
+      "February 10, 2024 - March 23, 2024",
+      "January 13, 2024 - March 9, 2024"
+    ]
+  },
+  {
+    "name": "Von Lintel Gallery",
+    "url": "http://www.vonlintel.com",
+    "location_raw": [
+      "2525 Michigan Avenue, Unit A7Los Angeles, CA 90404310 559 5700"
+    ],
+    "profile": "https://artdealers.org/gallery/von-lintel-gallery",
+    "dates": [
+      "May 23, 2026 - July 18, 2026",
+      "March 14, 2026 - May 16, 2026",
+      "January 24, 2026 - March 7, 2026",
+      "November 8, 2025 - December 13, 2025",
+      "September 6, 2025 - October 25, 2025",
+      "April 26, 2025 - June 7, 2025",
+      "November 9, 2024 - December 21, 2024",
+      "May 18, 2024 - July 6, 2024"
+    ]
+  },
+  {
+    "name": "Weinstein Hammons Gallery",
+    "url": "http://www.weinsteinhammons.com",
+    "location_raw": [
+      "908 West 46th StreetMinneapolis, MN 55419612 822 1722"
+    ],
+    "profile": "https://artdealers.org/gallery/weinstein-hammons-gallery",
+    "dates": [
+      "September 19, 2026 - November 28, 2026",
+      "September 25, 2025 - November 22, 2025",
+      "August 2, 2025 - September 20, 2025",
+      "August 2, 2025 - September 20, 2025",
+      "February 13, 2025 - April 12, 2025",
+      "December 5, 2024 - February 8, 2025",
+      "October 10, 2024 - November 30, 2024",
+      "October 10, 2024 - November 30, 2024",
+      "July 26, 2024 - September 21, 2024",
+      "February 9, 2024 - April 6, 2024"
+    ]
+  },
+  {
+    "name": "Welancora Gallery",
+    "url": "http://www.welancoragallery.com",
+    "location_raw": [
+      "33 Herkimer StreetBrooklyn, NY 11216Appointment Recommended646 818 0162"
+    ],
+    "profile": "https://artdealers.org/gallery/welancora-gallery",
+    "dates": [
+      "May 8, 2025 - July 31, 2025"
+    ]
+  },
+  {
+    "name": "Worthington Gallery",
+    "url": "http://www.worthingtongallerychicago.com",
+    "location_raw": [
+      "737 North Michigan Avenue, Suite 1540Chicago, IL 60657By Appointment773 248 7700"
+    ],
+    "profile": "https://artdealers.org/gallery/worthington-gallery",
+    "dates": []
+  },
+  {
+    "name": "YOSHII",
+    "url": "http://www.yoshiigallery.com",
+    "location_raw": [
+      "980 Madison Avenue, Suite 302New York, NY 10075212 744 5550"
+    ],
+    "profile": "https://artdealers.org/gallery/yoshii",
+    "dates": []
+  },
+  {
+    "name": "Yares Art",
+    "url": "http://www.yaresart.com",
+    "location_raw": [
+      "479 Rodeo DriveBeverly Hills, CA 90210By Appointment310 362 3464Also at:745 Fifth AvenueNew York, NY 10151212 256 09691570 Pacheco Street, Suite A1Santa Fe, NM 87505Appointment Recommended505 984 0044"
+    ],
+    "profile": "https://artdealers.org/gallery/yares-art",
+    "dates": [
+      "July 22, 2026 - September 1, 2026",
+      "April 11, 2026 - July 11, 2026",
+      "January 15, 2026 - February 28, 2026",
+      "September 15, 2025 - March 31, 2026",
+      "August 15, 2025 - March 31, 2026",
+      "April 5, 2025 - August 15, 2025",
+      "March 1, 2025 - August 15, 2026",
+      "November 9, 2024 - February 1, 2025",
+      "September 7, 2024 - November 2, 2024",
+      "July 15, 2024 - August 16, 2024",
+      "March 23, 2024 - July 6, 2024",
+      "March 23, 2024 - July 6, 2024"
+    ]
+  },
+  {
+    "name": "David Zwirner",
+    "url": "http://www.davidzwirner.com",
+    "location_raw": [
+      "537 West 20th StreetNew York, NY 10011212 517 8677Also at:612 North Western AvenueLos Angeles, CA 90004310 777 1993525 West 19th StreetNew York, NY 10011212 727 207052 Walker StreetNew York, NY 10013212 727 1961519 West 19th StreetNew York, NY 10011212 727 2070533 West 19th StreetNew York, NY 10011"
+    ],
+    "profile": "https://artdealers.org/gallery/david-zwirner",
+    "dates": []
+  }
+]

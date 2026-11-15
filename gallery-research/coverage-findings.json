@@ -1,0 +1,21 @@
+{
+  "scope": "Audit of the delivered 758-row directory; not a national completeness estimate. Original CSV unchanged.",
+  "new_york_state_rows": 330,
+  "new_york_state_share_percent": 43.5,
+  "adaa_nada_nyc_guide_origin_rows": 456,
+  "adaa_nada_nyc_guide_origin_share_percent": 60.2,
+  "states_with_one_assigned_row": ["AL", "DE", "KY", "MS", "NJ", "NV", "SD", "VT"],
+  "selected_markets_with_no_assigned_rows": ["San Diego, CA", "Laguna Beach, CA", "Carmel-by-the-Sea, CA", "Palm Springs, CA", "Sedona, AZ", "Taos, NM", "Las Vegas, NV", "Naples, FL", "Sarasota, FL", "St. Petersburg, FL", "Newark, NJ", "Jersey City, NJ", "Cincinnati, OH", "Louisville, KY", "Lexington, KY"],
+  "confirmed_omitted_active_galleries": [
+    {"name": "LewAllen Galleries", "city_state": "Santa Fe, NM", "source": "https://lewallengalleries.com/", "evidence": "Official site lists November 2026 openings and exhibitions continuing into January 2027."},
+    {"name": "Robischon Gallery", "city_state": "Denver, CO", "source": "https://www.robischongallery.com/exhibitions", "evidence": "Official program lists 50th-anniversary exhibition November 19, 2026–January 30, 2027 and multiple 2026 exhibitions."},
+    {"name": "Artists Space", "city_state": "New York, NY", "source": "https://artistsspace.org/exhibitions", "evidence": "Official program lists Theresa Hak Kyung Cha: Multiple Offerings, September 11–November 21, 2026."},
+    {"name": "Art + Practice", "city_state": "Los Angeles, CA", "source": "https://artandpractice.org/exhibitions/exhibition/reggie-burrows-hodges-a-theater-of-dreams/", "evidence": "Official site lists Reggie Burrows Hodges: A Theater of Dreams, opening October 20, 2026."}
+  ],
+  "caveats": [
+    "City counts describe the single U.S. base assigned to each organization, not every physical branch.",
+    "All-state representation did not establish comprehensive coverage within any state.",
+    "Published operating-program evidence is weaker than a dated current exhibition; a live site alone does not prove current operation.",
+    "Regional art-walk districts, university and municipal galleries, and nonmember artist-run cooperatives were not systematically enumerated."
+  ]
+}
