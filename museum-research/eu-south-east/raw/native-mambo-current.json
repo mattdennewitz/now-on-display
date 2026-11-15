@@ -1,0 +1,20 @@
+{
+  "text": "URL: https://www.museibologna.it/mambo/\nContent-Type: text/html\nMethod: raw-html\nNotes: html rendering failed (no reader backend produced usable output)\n\n---\n\n<!DOCTYPE html>\n        <html lang=\"it\">\n\n        <head>\n            <meta charset=\"UTF-8\">\n            <title>Verifica di Sicurezza</title>\n            <script src=\"https://challenges.cloudflare.com/turnstile/v0/api.js\" async defer></script>\n        </head>\n\n        <body style=\"display:flex;align-items:center;justify-content:center;height:100vh;font-family:Arial;\">\n            <form id=\"tForm\" method=\"POST\">\n                <div class=\"cf-turnstile\"\n                    data-sitekey=\"0x4AAAAAACDF91f4EQP6KCPP\"\n                    data-size=\"compact\"\n                    data-callback=\"humanOK\">\n                </div>\n            </form>\n\n            <script>\n                function humanOK(token) {\n                    document.getElementById(\"tForm\").submit();\n                }\n            </script>\n        </body>\n\n        </html>",
+  "details": {
+    "kind": "url",
+    "url": "https://www.museibologna.it/mambo/",
+    "finalUrl": "https://www.museibologna.it/mambo/",
+    "contentType": "text/html",
+    "method": "raw-html",
+    "truncated": false,
+    "notes": [
+      "html rendering failed (no reader backend produced usable output)"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.museibologna.it/mambo/"
+      }
+    }
+  }
+}

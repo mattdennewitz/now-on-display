@@ -1,0 +1,37 @@
+{
+  "id": "batch_5bccae4d97f940c7987f5670ff84ccaf",
+  "status": "pending",
+  "mode": "scrape",
+  "formats": {
+    "html": false,
+    "markdown": true,
+    "screenshot": false,
+    "images": false,
+    "bytes": false,
+    "parse": false,
+    "product": false,
+    "highlights": false,
+    "json": false
+  },
+  "tags": [
+    "art-museums-uk-public-exhibition-institutions"
+  ],
+  "crawl": null,
+  "input": {
+    "reserved": 0,
+    "reserved_is_ceiling": false,
+    "submitted": 15,
+    "duplicates": 0,
+    "invalid": 0
+  },
+  "credits": {
+    "reserved": 0
+  },
+  "created_at": "2026-11-15T16:14:56.612Z",
+  "invalid_urls": [],
+  "cache_metadata": {
+    "status": "miss",
+    "age_ms": 0
+  },
+  "request_id": "37ea6f60-1d59-4e98-811c-1d38e96c19d1"
+}

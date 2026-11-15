@@ -1,0 +1,55 @@
+{
+  "text": "{\"id\":\"batch_ae3a173edc4b4c00a9542d7be53cb047\",\"status\":\"pending\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"museum-eu-south-east\"],\"crawl\":null,\"input\":{\"reserved\":0,\"reserved_is_ceiling\":false,\"submitted\":106,\"duplicates\":0,\"invalid\":0},\"credits\":{\"reserved\":0},\"created_at\":\"2026-11-15T15:57:35.105Z\",\"invalid_urls\":[],\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"e336c7d0-9273-43ee-883b-7a0213883e83\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "submit-batch",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"id\":\"batch_ae3a173edc4b4c00a9542d7be53cb047\",\"status\":\"pending\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"museum-eu-south-east\"],\"crawl\":null,\"input\":{\"reserved\":0,\"reserved_is_ceiling\":false,\"submitted\":106,\"duplicates\":0,\"invalid\":0},\"credits\":{\"reserved\":0},\"created_at\":\"2026-11-15T15:57:35.105Z\",\"invalid_urls\":[],\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"e336c7d0-9273-43ee-883b-7a0213883e83\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "id": "batch_ae3a173edc4b4c00a9542d7be53cb047",
+      "status": "pending",
+      "mode": "scrape",
+      "formats": {
+        "html": false,
+        "markdown": true,
+        "screenshot": false,
+        "images": false,
+        "bytes": false,
+        "parse": false,
+        "product": false,
+        "highlights": false,
+        "json": false
+      },
+      "tags": [
+        "museum-eu-south-east"
+      ],
+      "crawl": null,
+      "input": {
+        "reserved": 0,
+        "reserved_is_ceiling": false,
+        "submitted": 106,
+        "duplicates": 0,
+        "invalid": 0
+      },
+      "credits": {
+        "reserved": 0
+      },
+      "created_at": "2026-11-15T15:57:35.105Z",
+      "invalid_urls": [],
+      "cache_metadata": {
+        "status": "miss",
+        "age_ms": 0
+      },
+      "request_id": "e336c7d0-9273-43ee-883b-7a0213883e83"
+    }
+  }
+}

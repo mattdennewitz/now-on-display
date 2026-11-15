@@ -1,0 +1,36 @@
+{
+  "text": "## Hirshhorn Museum \u2014 November 2026\n\n### Exhibitions on view\n\n- **Yoshitomo Nara: *Sentinels of Stillness*** \u2014 October 31, 2026\u2013November 7, 2027  \n- **Light Is a Plastic Medium: The Photography of Carlotta Corpron** \u2014 October 16, 2026\u2013March 14, 2027  \n- **Big Things for Big Rooms** \u2014 December 20, 2025\u2013July 4, 2027  \n- **Adam Pendleton: *Love, Queen*** \u2014 April 4, 2025\u2013January 3, 2027  \n- **Laurie Anderson: *Four Talks*** \u2014 ongoing  \n- **Mark Bradford: *Pickett\u2019s Charge*** \u2014 ongoing  \n- **Barbara Kruger: *Belief+Doubt*** \u2014 ongoing  \n- **Sculpture Garden and Plaza** \u2014 reopened October 31, 2026; ongoing ([hirshhorn.si.edu](https://hirshhorn.si.edu/exhibitions-events/?utm_source=openai))\n\n### Hours\n\n- **Museum:**  \n  - Monday: **12:00\u20135:30 p.m.**  \n  - Tuesday\u2013Sunday: **10:00 a.m.\u20135:30 p.m.**\n- **Sculpture Garden:** Daily, **10:00 a.m.\u20135:30 p.m.**\n- **Plaza:** Daily, **7:30 a.m.\u20135:30 p.m.**\n- **Admission:** Free; no pass is generally required.  \n- **Closed:** December 25\u2014not during November. ([hirshhorn.si.edu](https://hirshhorn.si.edu/faq?utm_source=openai))\n\n**Location:** Independence Avenue SW and 7th Street SW, Washington, DC 20560.\u0435\u0444\u043e\u043d\n\n## Sources\n4 sources\n[1] Exhibitions & Events - Hirshhorn Museum and Sculpture Garden | Smithsonian\n    https://hirshhorn.si.edu/exhibitions-events/\n    *Belief+Doubt*** \u2014 ongoing  \n- **Sculpture Garden and Plaza** \u2014 reopened October 31, 2026; ongoing (hirshhorn.si.edu)\n\n### Hours\n\n- **Museum:**  \n  - Monday: **12:00\u20135:30 p.m.**  \n  - Tuesday\u2013Sunday: **10:00 a.m.\u20135:30\n[2] Frequently Asked Questions - Hirshhorn Museum and Sculpture Garden | Smithsonian\n    https://hirshhorn.si.edu/faq\n    *Admission:** Free; no pass is generally required.  \n- **Closed:** December 25\u2014not during November. (hirshhorn.si.edu)\n\n**Location:** Independence Avenue SW and 7th Street SW, Washington, DC 20560.\u0435\u0444\u043e\u043d\n[3] https://hirshhorn.si.edu/\n    https://hirshhorn.si.edu/\n[4] https://hirshhorn.si.edu/visit/\n    https://hirshhorn.si.edu/visit/",
+  "details": {
+    "response": {
+      "provider": "codex",
+      "answer": "## Hirshhorn Museum \u2014 November 2026\n\n### Exhibitions on view\n\n- **Yoshitomo Nara: *Sentinels of Stillness*** \u2014 October 31, 2026\u2013November 7, 2027  \n- **Light Is a Plastic Medium: The Photography of Carlotta Corpron** \u2014 October 16, 2026\u2013March 14, 2027  \n- **Big Things for Big Rooms** \u2014 December 20, 2025\u2013July 4, 2027  \n- **Adam Pendleton: *Love, Queen*** \u2014 April 4, 2025\u2013January 3, 2027  \n- **Laurie Anderson: *Four Talks*** \u2014 ongoing  \n- **Mark Bradford: *Pickett\u2019s Charge*** \u2014 ongoing  \n- **Barbara Kruger: *Belief+Doubt*** \u2014 ongoing  \n- **Sculpture Garden and Plaza** \u2014 reopened October 31, 2026; ongoing ([hirshhorn.si.edu](https://hirshhorn.si.edu/exhibitions-events/?utm_source=openai))\n\n### Hours\n\n- **Museum:**  \n  - Monday: **12:00\u20135:30 p.m.**  \n  - Tuesday\u2013Sunday: **10:00 a.m.\u20135:30 p.m.**\n- **Sculpture Garden:** Daily, **10:00 a.m.\u20135:30 p.m.**\n- **Plaza:** Daily, **7:30 a.m.\u20135:30 p.m.**\n- **Admission:** Free; no pass is generally required.  \n- **Closed:** December 25\u2014not during November. ([hirshhorn.si.edu](https://hirshhorn.si.edu/faq?utm_source=openai))\n\n**Location:** Independence Avenue SW and 7th Street SW, Washington, DC 20560.\u0435\u0444\u043e\u043d",
+      "sources": [
+        {
+          "title": "Exhibitions & Events - Hirshhorn Museum and Sculpture Garden | Smithsonian",
+          "url": "https://hirshhorn.si.edu/exhibitions-events/",
+          "snippet": "*Belief+Doubt*** \u2014 ongoing  \n- **Sculpture Garden and Plaza** \u2014 reopened October 31, 2026; ongoing (hirshhorn.si.edu)\n\n### Hours\n\n- **Museum:**  \n  - Monday: **12:00\u20135:30 p.m.**  \n  - Tuesday\u2013Sunday: **10:00 a.m.\u20135:30"
+        },
+        {
+          "title": "Frequently Asked Questions - Hirshhorn Museum and Sculpture Garden | Smithsonian",
+          "url": "https://hirshhorn.si.edu/faq",
+          "snippet": "*Admission:** Free; no pass is generally required.  \n- **Closed:** December 25\u2014not during November. (hirshhorn.si.edu)\n\n**Location:** Independence Avenue SW and 7th Street SW, Washington, DC 20560.\u0435\u0444\u043e\u043d"
+        },
+        {
+          "title": "https://hirshhorn.si.edu/",
+          "url": "https://hirshhorn.si.edu/"
+        },
+        {
+          "title": "https://hirshhorn.si.edu/visit/",
+          "url": "https://hirshhorn.si.edu/visit/"
+        }
+      ],
+      "usage": {
+        "inputTokens": 8990,
+        "outputTokens": 523,
+        "totalTokens": 13481
+      },
+      "model": "gpt-5.6-luna",
+      "requestId": "resp_013e99d146d8a9f6016af9da090ef487d2aa7f47c85e9bdd97"
+    }
+  }
+}

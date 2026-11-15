@@ -1,0 +1,20 @@
+{
+  "text": "URL: https://www.petitpalais.paris.fr/en\nContent-Type: text/html\nMethod: failed\nNotes: Failed to fetch URL (HTTP 403)\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://www.petitpalais.paris.fr/en",
+    "finalUrl": "https://www.petitpalais.paris.fr/en",
+    "contentType": "text/html",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL (HTTP 403)"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.petitpalais.paris.fr/en"
+      }
+    }
+  }
+}

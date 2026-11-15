@@ -1,0 +1,37 @@
+{
+  "id": "batch_ebc8e758da96489396ef91c62227d2a8",
+  "status": "pending",
+  "mode": "scrape",
+  "formats": {
+    "html": false,
+    "markdown": true,
+    "screenshot": false,
+    "images": false,
+    "bytes": false,
+    "parse": false,
+    "product": false,
+    "highlights": false,
+    "json": false
+  },
+  "tags": [
+    "art-museums-uk-additional-verification"
+  ],
+  "crawl": null,
+  "input": {
+    "reserved": 0,
+    "reserved_is_ceiling": false,
+    "submitted": 23,
+    "duplicates": 0,
+    "invalid": 0
+  },
+  "credits": {
+    "reserved": 0
+  },
+  "created_at": "2026-11-15T16:11:22.837Z",
+  "invalid_urls": [],
+  "cache_metadata": {
+    "status": "miss",
+    "age_ms": 0
+  },
+  "request_id": "eb2e37e0-08b5-4be3-96c2-9157ff419575"
+}

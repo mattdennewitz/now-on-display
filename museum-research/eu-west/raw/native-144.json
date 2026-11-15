@@ -1,0 +1,20 @@
+{
+  "text": "URL: https://www.singerlaren.nl/csq/queue\nContent-Type: text/plain\nMethod: failed\nNotes: Failed to fetch URL (HTTP 412)\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://www.singerlaren.nl/en",
+    "finalUrl": "https://www.singerlaren.nl/csq/queue",
+    "contentType": "text/plain",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL (HTTP 412)"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.singerlaren.nl/csq/queue"
+      }
+    }
+  }
+}

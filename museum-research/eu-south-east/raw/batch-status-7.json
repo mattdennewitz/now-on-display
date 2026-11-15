@@ -1,0 +1,99 @@
+{
+  "text": "{\"id\":\"batch_ae3a173edc4b4c00a9542d7be53cb047\",\"status\":\"completed\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"museum-eu-south-east\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":106,\"reserved_is_ceiling\":false,\"submitted\":106,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":97,\"failed\":9,\"pending\":0},\"credits\":{\"reserved\":106,\"refunded\":4,\"ocr_charged\":0,\"net\":102},\"timing\":{\"created_at\":\"2026-11-15T15:57:35.105Z\",\"started_at\":\"2026-11-15T15:57:36.542Z\",\"completed_at\":\"2026-11-15T16:00:37.954Z\"},\"page_errors\":[{\"code\":\"NOT_FOUND\",\"count\":5},{\"code\":\"WEBSITE_NOT_FOUND\",\"count\":3},{\"code\":\"REQUEST_TIMEOUT\",\"count\":1}],\"failure\":null,\"results\":{\"expires_at\":\"2026-11-16T16:02:10.678Z\",\"files\":[{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_ae3a173edc4b4c00a9542d7be53cb047/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794844930&Signature=cvbiY54MCJ4RQ0UO2YmyudwY4HZJz%2Fmdpn6SJMt3r0xKgZXlqEfpPbzpDSZySUQve3g8Wza%2FWlGvia2fZsv%2FNxWXPN1gkquNfCnL%2B1O9mNAbuqaz8nIoZdSzX6kZVeC6li7Q1z1GyQTqhXQQFnnbGAqBP%2FGPYupVbMMtRMH1coxPkkGK8C%2Fbw0HRIO%2F6FTNdHZKucNloRqKb%2Br%2FxoGSeBiHOkSRbTzznI0wL4iD5ZdE%2FB1IryPcdVaMthqz2lY0fZ4dU2NvPpyqNwfXR0kjC2lyuRC%2FphtQFHYsllM2nIaz28swPdQSw0%2FGDfIDamng26V01577IhYl1MtkjUDxhaw%3D%3D\",\"items\":50,\"bytes\":250435},{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_ae3a173edc4b4c00a9542d7be53cb047/output/part-1.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794844930&Signature=Cw%2FCvPYmRGTsBjDGmN%2FOGLrgM6WUHD%2B7aNyw3ezqa854ywxq6uPUGJ2tbstvgqlDRJXWj7Mq7XeBgqMVvwiebCc86Ixndb7AeCJRL4KZ%2F0iWEBGSTgyrJuUNi4%2FdwIWBTZ%2Fq0nF13jSJK87RJz4e2LLUvn6cVj0qv3jNaDpef6UQH95wnF1d8ihoWnnMf1aLzdv9lWl4zjaPENlKJ8UcI05BKX%2Fewv4%2Ff7dcJAJSYbjfgFQ9y1kQMvX80unrePkuaAuvmgi7jstuBpYoGMaEeXRVn7jyehNe9JDEDaFS8l5Eg4M5PAKqm56U0ApShwP61xocLlDlzOoX6OBHiTa3Vg%3D%3D\",\"items\":50,\"bytes\":167199},{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_ae3a173edc4b4c00a9542d7be53cb047/output/part-2.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794844930&Signature=e1a4z1hwmqTGobcc9qb%2FwTnvNnfbK4qAIKoAUipbmUB1CoiMNRp5b8ooGRYYtLpp%2BgRTzarmuZDgxhPA6JgdUlCr3%2BEjqIrR%2BW9bpV9Rt7zN%2BtjEzaY%2F%2B%2BX%2BhumdhvT4DhtPXKiOKCcoKPkrIVVJKi3%2BKu%2BUAIUPyuPh2F5fhldBlXUlEkoCdAGZQ69h8jpLjd%2FDqZ2NsbHKs6wXFlfU8y%2BC%2Fl1IDrJC%2BwB3eAFs3YvwMRflH6%2BkZ9Iv3wxDIholYpHRyEZ4Bkku5cYQoXEV8U5gWpo19iz7xblM8vGct6Bbls6%2FavntC%2B6MdiXAXWEuuv4zEv%2BEtqk1yCcDnJdhoQ%3D%3D\",\"items\":6,\"bytes\":13831}]},\"invalid_urls\":[],\"request_id\":\"5ddfe8a4-d082-42f3-86d2-43fbba72f637\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "get-batch",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"id\":\"batch_ae3a173edc4b4c00a9542d7be53cb047\",\"status\":\"completed\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"museum-eu-south-east\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":106,\"reserved_is_ceiling\":false,\"submitted\":106,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":97,\"failed\":9,\"pending\":0},\"credits\":{\"reserved\":106,\"refunded\":4,\"ocr_charged\":0,\"net\":102},\"timing\":{\"created_at\":\"2026-11-15T15:57:35.105Z\",\"started_at\":\"2026-11-15T15:57:36.542Z\",\"completed_at\":\"2026-11-15T16:00:37.954Z\"},\"page_errors\":[{\"code\":\"NOT_FOUND\",\"count\":5},{\"code\":\"WEBSITE_NOT_FOUND\",\"count\":3},{\"code\":\"REQUEST_TIMEOUT\",\"count\":1}],\"failure\":null,\"results\":{\"expires_at\":\"2026-11-16T16:02:10.678Z\",\"files\":[{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_ae3a173edc4b4c00a9542d7be53cb047/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794844930&Signature=cvbiY54MCJ4RQ0UO2YmyudwY4HZJz%2Fmdpn6SJMt3r0xKgZXlqEfpPbzpDSZySUQve3g8Wza%2FWlGvia2fZsv%2FNxWXPN1gkquNfCnL%2B1O9mNAbuqaz8nIoZdSzX6kZVeC6li7Q1z1GyQTqhXQQFnnbGAqBP%2FGPYupVbMMtRMH1coxPkkGK8C%2Fbw0HRIO%2F6FTNdHZKucNloRqKb%2Br%2FxoGSeBiHOkSRbTzznI0wL4iD5ZdE%2FB1IryPcdVaMthqz2lY0fZ4dU2NvPpyqNwfXR0kjC2lyuRC%2FphtQFHYsllM2nIaz28swPdQSw0%2FGDfIDamng26V01577IhYl1MtkjUDxhaw%3D%3D\",\"items\":50,\"bytes\":250435},{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_ae3a173edc4b4c00a9542d7be53cb047/output/part-1.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794844930&Signature=Cw%2FCvPYmRGTsBjDGmN%2FOGLrgM6WUHD%2B7aNyw3ezqa854ywxq6uPUGJ2tbstvgqlDRJXWj7Mq7XeBgqMVvwiebCc86Ixndb7AeCJRL4KZ%2F0iWEBGSTgyrJuUNi4%2FdwIWBTZ%2Fq0nF13jSJK87RJz4e2LLUvn6cVj0qv3jNaDpef6UQH95wnF1d8ihoWnnMf1aLzdv9lWl4zjaPENlKJ8UcI05BKX%2Fewv4%2Ff7dcJAJSYbjfgFQ9y1kQMvX80unrePkuaAuvmgi7jstuBpYoGMaEeXRVn7jyehNe9JDEDaFS8l5Eg4M5PAKqm56U0ApShwP61xocLlDlzOoX6OBHiTa3Vg%3D%3D\",\"items\":50,\"bytes\":167199},{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_ae3a173edc4b4c00a9542d7be53cb047/output/part-2.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794844930&Signature=e1a4z1hwmqTGobcc9qb%2FwTnvNnfbK4qAIKoAUipbmUB1CoiMNRp5b8ooGRYYtLpp%2BgRTzarmuZDgxhPA6JgdUlCr3%2BEjqIrR%2BW9bpV9Rt7zN%2BtjEzaY%2F%2B%2BX%2BhumdhvT4DhtPXKiOKCcoKPkrIVVJKi3%2BKu%2BUAIUPyuPh2F5fhldBlXUlEkoCdAGZQ69h8jpLjd%2FDqZ2NsbHKs6wXFlfU8y%2BC%2Fl1IDrJC%2BwB3eAFs3YvwMRflH6%2BkZ9Iv3wxDIholYpHRyEZ4Bkku5cYQoXEV8U5gWpo19iz7xblM8vGct6Bbls6%2FavntC%2B6MdiXAXWEuuv4zEv%2BEtqk1yCcDnJdhoQ%3D%3D\",\"items\":6,\"bytes\":13831}]},\"invalid_urls\":[],\"request_id\":\"5ddfe8a4-d082-42f3-86d2-43fbba72f637\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "id": "batch_ae3a173edc4b4c00a9542d7be53cb047",
+      "status": "completed",
+      "mode": "scrape",
+      "formats": {
+        "html": false,
+        "markdown": true,
+        "screenshot": false,
+        "images": false,
+        "bytes": false,
+        "parse": false,
+        "product": false,
+        "highlights": false,
+        "json": false
+      },
+      "tags": [
+        "museum-eu-south-east"
+      ],
+      "policies": [],
+      "crawl": null,
+      "input": {
+        "reserved": 106,
+        "reserved_is_ceiling": false,
+        "submitted": 106,
+        "duplicates": 0,
+        "invalid": 0
+      },
+      "progress": {
+        "succeeded": 97,
+        "failed": 9,
+        "pending": 0
+      },
+      "credits": {
+        "reserved": 106,
+        "refunded": 4,
+        "ocr_charged": 0,
+        "net": 102
+      },
+      "timing": {
+        "created_at": "2026-11-15T15:57:35.105Z",
+        "started_at": "2026-11-15T15:57:36.542Z",
+        "completed_at": "2026-11-15T16:00:37.954Z"
+      },
+      "page_errors": [
+        {
+          "code": "NOT_FOUND",
+          "count": 5
+        },
+        {
+          "code": "WEBSITE_NOT_FOUND",
+          "count": 3
+        },
+        {
+          "code": "REQUEST_TIMEOUT",
+          "count": 1
+        }
+      ],
+      "failure": null,
+      "results": {
+        "expires_at": "2026-11-16T16:02:10.678Z",
+        "files": [
+          {
+            "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_ae3a173edc4b4c00a9542d7be53cb047/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794844930&Signature=cvbiY54MCJ4RQ0UO2YmyudwY4HZJz%2Fmdpn6SJMt3r0xKgZXlqEfpPbzpDSZySUQve3g8Wza%2FWlGvia2fZsv%2FNxWXPN1gkquNfCnL%2B1O9mNAbuqaz8nIoZdSzX6kZVeC6li7Q1z1GyQTqhXQQFnnbGAqBP%2FGPYupVbMMtRMH1coxPkkGK8C%2Fbw0HRIO%2F6FTNdHZKucNloRqKb%2Br%2FxoGSeBiHOkSRbTzznI0wL4iD5ZdE%2FB1IryPcdVaMthqz2lY0fZ4dU2NvPpyqNwfXR0kjC2lyuRC%2FphtQFHYsllM2nIaz28swPdQSw0%2FGDfIDamng26V01577IhYl1MtkjUDxhaw%3D%3D",
+            "items": 50,
+            "bytes": 250435
+          },
+          {
+            "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_ae3a173edc4b4c00a9542d7be53cb047/output/part-1.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794844930&Signature=Cw%2FCvPYmRGTsBjDGmN%2FOGLrgM6WUHD%2B7aNyw3ezqa854ywxq6uPUGJ2tbstvgqlDRJXWj7Mq7XeBgqMVvwiebCc86Ixndb7AeCJRL4KZ%2F0iWEBGSTgyrJuUNi4%2FdwIWBTZ%2Fq0nF13jSJK87RJz4e2LLUvn6cVj0qv3jNaDpef6UQH95wnF1d8ihoWnnMf1aLzdv9lWl4zjaPENlKJ8UcI05BKX%2Fewv4%2Ff7dcJAJSYbjfgFQ9y1kQMvX80unrePkuaAuvmgi7jstuBpYoGMaEeXRVn7jyehNe9JDEDaFS8l5Eg4M5PAKqm56U0ApShwP61xocLlDlzOoX6OBHiTa3Vg%3D%3D",
+            "items": 50,
+            "bytes": 167199
+          },
+          {
+            "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_ae3a173edc4b4c00a9542d7be53cb047/output/part-2.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794844930&Signature=e1a4z1hwmqTGobcc9qb%2FwTnvNnfbK4qAIKoAUipbmUB1CoiMNRp5b8ooGRYYtLpp%2BgRTzarmuZDgxhPA6JgdUlCr3%2BEjqIrR%2BW9bpV9Rt7zN%2BtjEzaY%2F%2B%2BX%2BhumdhvT4DhtPXKiOKCcoKPkrIVVJKi3%2BKu%2BUAIUPyuPh2F5fhldBlXUlEkoCdAGZQ69h8jpLjd%2FDqZ2NsbHKs6wXFlfU8y%2BC%2Fl1IDrJC%2BwB3eAFs3YvwMRflH6%2BkZ9Iv3wxDIholYpHRyEZ4Bkku5cYQoXEV8U5gWpo19iz7xblM8vGct6Bbls6%2FavntC%2B6MdiXAXWEuuv4zEv%2BEtqk1yCcDnJdhoQ%3D%3D",
+            "items": 6,
+            "bytes": 13831
+          }
+        ]
+      },
+      "invalid_urls": [],
+      "request_id": "5ddfe8a4-d082-42f3-86d2-43fbba72f637"
+    }
+  }
+}

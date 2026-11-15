@@ -1,0 +1,58 @@
+{
+  "id": "batch_81678257fbff43838000665759aae4a1",
+  "status": "completed",
+  "mode": "scrape",
+  "formats": {
+    "html": false,
+    "markdown": true,
+    "screenshot": false,
+    "images": false,
+    "bytes": false,
+    "parse": false,
+    "product": false,
+    "highlights": false,
+    "json": false
+  },
+  "tags": [
+    "art-museums-uk-named-venues"
+  ],
+  "policies": [],
+  "crawl": null,
+  "input": {
+    "reserved": 36,
+    "reserved_is_ceiling": false,
+    "submitted": 36,
+    "duplicates": 0,
+    "invalid": 0
+  },
+  "progress": {
+    "succeeded": 36,
+    "failed": 0,
+    "pending": 0
+  },
+  "credits": {
+    "reserved": 36,
+    "refunded": 0,
+    "ocr_charged": 0,
+    "net": 36
+  },
+  "timing": {
+    "created_at": "2026-11-15T16:06:11.979Z",
+    "started_at": "2026-11-15T16:06:27.291Z",
+    "completed_at": "2026-11-15T16:08:20.797Z"
+  },
+  "page_errors": [],
+  "failure": null,
+  "results": {
+    "expires_at": "2026-11-16T16:08:46.996Z",
+    "files": [
+      {
+        "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_81678257fbff43838000665759aae4a1/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845326&Signature=ScDjqE0DrDQ3TrLo0Xp5BWsK7Ya91oMTnOFmlWtnvi7hgZ3BPeWQw%2BiOX6gV8yy7oAlaTDo5Wt2KrWVi7%2FVKGlU%2BQCRN5DPatMeLBDXJWvHMXqpNTQrc8oVvz3N%2F8aH1BZXSS6QXW4oyXkttX5aMaRYpDkqHv80tB4cNEIU7eGKm1YIZCMn961H%2BDddcU4zCcDiRw6HDzo5GJEFs%2BI9igeiJa5jJlGKlqob2JbKZCvfPgnWX3rpZ%2FmlEUcicnutAz3ilLuEv5NVSBYxJD289vFPNtZuVY6D9%2B%2BIi%2Bp9Z%2BrWn3VhRDdiViBx7J4hAAuPEmJOrHryzkK2c%2FUmJxIY%2Fpg%3D%3D",
+        "items": 36,
+        "bytes": 67738
+      }
+    ]
+  },
+  "invalid_urls": [],
+  "request_id": "d178b1bc-69e4-4a51-8c96-1c24e3fb4ddb"
+}

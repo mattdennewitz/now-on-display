@@ -1,0 +1,20 @@
+{
+  "text": "URL: https://museefabre.montpellier3m.fr/\nContent-Type: text/plain\nMethod: failed\nNotes: Failed to fetch URL (HTTP 400)\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://museefabre.montpellier3m.fr/",
+    "finalUrl": "https://museefabre.montpellier3m.fr/",
+    "contentType": "text/plain",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL (HTTP 400)"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://museefabre.montpellier3m.fr/"
+      }
+    }
+  }
+}

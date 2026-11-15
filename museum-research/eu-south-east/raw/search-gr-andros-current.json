@@ -1,0 +1,108 @@
+{
+  "text": "{\"results\":[{\"url\":\"https://goulandris.gr/en/visit/be-andros\",\"title\":\"Museum of Contemporary Art, Andros Visit Information - Basil & Elise Goulandris Foundation\",\"description\":\"Visitors can buy their tickets online at goulandris.gr, as well as at the Museum's ticket office (subject to availability). Days & Times (Guided Tours in Greek) From Saturday August 1 to Sunday August 16, 2026: Daily except Tuesday | 12.00-12.40 ...\",\"relevance\":\"high\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Visitors can buy their tickets online at goulandris.gr, as well as at the Museum's ticket office (subject to availability). Days & Times (Guided Tours in Greek) From Saturday August 1 to Sunday August 16, 2026: Daily except Tuesday | 12.00-12.40 ...\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://goulandris.gr/en/events/location/all/type/6/2026/02\",\"title\":\"Calendar Events, Guided Tours and Educational Programmes - Basil & Elise Goulandris Foundation\",\"description\":\"The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://goulandris.gr/en/education/cycle/babies-preschool-programmes\",\"title\":\"Programmes for Babies and Pre-School Children - Basil & Elise Goulandris Foundation\",\"description\":\"Andros – Temporary Exhibition · Events and education · Education programmes · Every Sunday (until May 31, 2026) and exceptionally on Good Monday 6/4 and Friday 17/4 · Every Saturday | 10.00-10.40 & 10.50-11.30 · Every Thursday (until ...\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Andros – Temporary Exhibition · Events and education · Education programmes · Every Sunday (until May 31, 2026) and exceptionally on Good Monday 6/4 and Friday 17/4 · Every Saturday | 10.00-10.40 & 10.50-11.30 · Every Thursday (until ...\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://goulandris.gr/en/\",\"title\":\"Homepage - Basil & Elise Goulandris Foundation\",\"description\":\"The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://goulandris.gr/en/events/art-and-migration-guided-tour-imd2026\",\"title\":\"“Art & Migration” in the Collection of the B&E Goulandris Foundation Free Thematic Tour on the occasion of the International Museum Day 2026 (in Greek) - Basil & Elise Goulandris Foundation\",\"description\":\"The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.\"],\"code\":\"SUCCESS\"}}],\"query\":\"site:goulandris.gr \\\"Andros\\\" \\\"2026\\\" museum opening hours\",\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"d8a40cb5-80ac-4254-8cc4-8c0d6071ac3d\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "web-search",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"results\":[{\"url\":\"https://goulandris.gr/en/visit/be-andros\",\"title\":\"Museum of Contemporary Art, Andros Visit Information - Basil & Elise Goulandris Foundation\",\"description\":\"Visitors can buy their tickets online at goulandris.gr, as well as at the Museum's ticket office (subject to availability). Days & Times (Guided Tours in Greek) From Saturday August 1 to Sunday August 16, 2026: Daily except Tuesday | 12.00-12.40 ...\",\"relevance\":\"high\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Visitors can buy their tickets online at goulandris.gr, as well as at the Museum's ticket office (subject to availability). Days & Times (Guided Tours in Greek) From Saturday August 1 to Sunday August 16, 2026: Daily except Tuesday | 12.00-12.40 ...\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://goulandris.gr/en/events/location/all/type/6/2026/02\",\"title\":\"Calendar Events, Guided Tours and Educational Programmes - Basil & Elise Goulandris Foundation\",\"description\":\"The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://goulandris.gr/en/education/cycle/babies-preschool-programmes\",\"title\":\"Programmes for Babies and Pre-School Children - Basil & Elise Goulandris Foundation\",\"description\":\"Andros – Temporary Exhibition · Events and education · Education programmes · Every Sunday (until May 31, 2026) and exceptionally on Good Monday 6/4 and Friday 17/4 · Every Saturday | 10.00-10.40 & 10.50-11.30 · Every Thursday (until ...\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Andros – Temporary Exhibition · Events and education · Education programmes · Every Sunday (until May 31, 2026) and exceptionally on Good Monday 6/4 and Friday 17/4 · Every Saturday | 10.00-10.40 & 10.50-11.30 · Every Thursday (until ...\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://goulandris.gr/en/\",\"title\":\"Homepage - Basil & Elise Goulandris Foundation\",\"description\":\"The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://goulandris.gr/en/events/art-and-migration-guided-tour-imd2026\",\"title\":\"“Art & Migration” in the Collection of the B&E Goulandris Foundation Free Thematic Tour on the occasion of the International Museum Day 2026 (in Greek) - Basil & Elise Goulandris Foundation\",\"description\":\"The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.\"],\"code\":\"SUCCESS\"}}],\"query\":\"site:goulandris.gr \\\"Andros\\\" \\\"2026\\\" museum opening hours\",\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"d8a40cb5-80ac-4254-8cc4-8c0d6071ac3d\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "results": [
+        {
+          "url": "https://goulandris.gr/en/visit/be-andros",
+          "title": "Museum of Contemporary Art, Andros Visit Information - Basil & Elise Goulandris Foundation",
+          "description": "Visitors can buy their tickets online at goulandris.gr, as well as at the Museum's ticket office (subject to availability). Days & Times (Guided Tours in Greek) From Saturday August 1 to Sunday August 16, 2026: Daily except Tuesday | 12.00-12.40 ...",
+          "relevance": "high",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "Visitors can buy their tickets online at goulandris.gr, as well as at the Museum's ticket office (subject to availability). Days & Times (Guided Tours in Greek) From Saturday August 1 to Sunday August 16, 2026: Daily except Tuesday | 12.00-12.40 ..."
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://goulandris.gr/en/events/location/all/type/6/2026/02",
+          "title": "Calendar Events, Guided Tours and Educational Programmes - Basil & Elise Goulandris Foundation",
+          "description": "The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level."
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://goulandris.gr/en/education/cycle/babies-preschool-programmes",
+          "title": "Programmes for Babies and Pre-School Children - Basil & Elise Goulandris Foundation",
+          "description": "Andros – Temporary Exhibition · Events and education · Education programmes · Every Sunday (until May 31, 2026) and exceptionally on Good Monday 6/4 and Friday 17/4 · Every Saturday | 10.00-10.40 & 10.50-11.30 · Every Thursday (until ...",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "Andros – Temporary Exhibition · Events and education · Education programmes · Every Sunday (until May 31, 2026) and exceptionally on Good Monday 6/4 and Friday 17/4 · Every Saturday | 10.00-10.40 & 10.50-11.30 · Every Thursday (until ..."
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://goulandris.gr/en/",
+          "title": "Homepage - Basil & Elise Goulandris Foundation",
+          "description": "The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level."
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://goulandris.gr/en/events/art-and-migration-guided-tour-imd2026",
+          "title": "“Art & Migration” in the Collection of the B&E Goulandris Foundation Free Thematic Tour on the occasion of the International Museum Day 2026 (in Greek) - Basil & Elise Goulandris Foundation",
+          "description": "The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level.",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "The Basil & Elise Goulandris Foundation was established in 1979. It is a non-profit organisation whose main purpose is the operation of the museums on Andros and Athens, as well as the promotion of the visual Arts at national and international level."
+            ],
+            "code": "SUCCESS"
+          }
+        }
+      ],
+      "query": "site:goulandris.gr \"Andros\" \"2026\" museum opening hours",
+      "cache_metadata": {
+        "status": "miss",
+        "age_ms": 0
+      },
+      "request_id": "d8a40cb5-80ac-4254-8cc4-8c0d6071ac3d"
+    }
+  }
+}

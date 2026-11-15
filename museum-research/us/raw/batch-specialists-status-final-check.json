@@ -1,0 +1,81 @@
+{
+  "text": "{\"id\":\"batch_3e6b2d443cd2426c9472033371ce026a\",\"status\":\"completed\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-us-specialists\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":29,\"reserved_is_ceiling\":false,\"submitted\":29,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":28,\"failed\":1,\"pending\":0},\"credits\":{\"reserved\":29,\"refunded\":1,\"ocr_charged\":0,\"net\":28},\"timing\":{\"created_at\":\"2026-11-15T16:00:02.322Z\",\"started_at\":\"2026-11-15T16:02:16.229Z\",\"completed_at\":\"2026-11-15T16:03:31.564Z\"},\"page_errors\":[{\"code\":\"WEBSITE_BLOCKED\",\"count\":1}],\"failure\":null,\"results\":{\"expires_at\":\"2026-11-16T16:04:22.348Z\",\"files\":[{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_3e6b2d443cd2426c9472033371ce026a/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845062&Signature=VcG3meu1%2BfDisVgjs%2FRtgh%2BWA9kVW9rEiLkcUkpyBe41XqqWeKu9uUIW9edSUk8SSD%2BVNJNoEE7Jk%2FEGk%2FJj9kCN0O9BMBIKHR%2BGAPg%2Fna9fVbJOb2ej8vj1FSr5Lr928riPPFm2leKfdhc5Sy3zrTWd%2BiKHmOtBoh2jdAQD%2BDdEDCHZNYoAQA4xO8HHM4WrLGQctEBRdFnHf%2Bhs8GiDCkZSjxHeOtazdLR8Xy2xAU%2FCggU23p%2FvPg8zkFJje3Y8g%2F5YLyXCqLP9cynCkhPd3uazY3%2FFAuFW00xtt%2FgKshdq90D23JRbmKVfJgBZNmdcplnlGrFyrib4iw9oM3jg%2Bw%3D%3D\",\"items\":29,\"bytes\":114712}]},\"invalid_urls\":[],\"request_id\":\"90a6f3d2-4cb5-446b-9904-7c14cfcfce41\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "get-batch",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"id\":\"batch_3e6b2d443cd2426c9472033371ce026a\",\"status\":\"completed\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-us-specialists\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":29,\"reserved_is_ceiling\":false,\"submitted\":29,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":28,\"failed\":1,\"pending\":0},\"credits\":{\"reserved\":29,\"refunded\":1,\"ocr_charged\":0,\"net\":28},\"timing\":{\"created_at\":\"2026-11-15T16:00:02.322Z\",\"started_at\":\"2026-11-15T16:02:16.229Z\",\"completed_at\":\"2026-11-15T16:03:31.564Z\"},\"page_errors\":[{\"code\":\"WEBSITE_BLOCKED\",\"count\":1}],\"failure\":null,\"results\":{\"expires_at\":\"2026-11-16T16:04:22.348Z\",\"files\":[{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_3e6b2d443cd2426c9472033371ce026a/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845062&Signature=VcG3meu1%2BfDisVgjs%2FRtgh%2BWA9kVW9rEiLkcUkpyBe41XqqWeKu9uUIW9edSUk8SSD%2BVNJNoEE7Jk%2FEGk%2FJj9kCN0O9BMBIKHR%2BGAPg%2Fna9fVbJOb2ej8vj1FSr5Lr928riPPFm2leKfdhc5Sy3zrTWd%2BiKHmOtBoh2jdAQD%2BDdEDCHZNYoAQA4xO8HHM4WrLGQctEBRdFnHf%2Bhs8GiDCkZSjxHeOtazdLR8Xy2xAU%2FCggU23p%2FvPg8zkFJje3Y8g%2F5YLyXCqLP9cynCkhPd3uazY3%2FFAuFW00xtt%2FgKshdq90D23JRbmKVfJgBZNmdcplnlGrFyrib4iw9oM3jg%2Bw%3D%3D\",\"items\":29,\"bytes\":114712}]},\"invalid_urls\":[],\"request_id\":\"90a6f3d2-4cb5-446b-9904-7c14cfcfce41\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "id": "batch_3e6b2d443cd2426c9472033371ce026a",
+      "status": "completed",
+      "mode": "scrape",
+      "formats": {
+        "html": false,
+        "markdown": true,
+        "screenshot": false,
+        "images": false,
+        "bytes": false,
+        "parse": false,
+        "product": false,
+        "highlights": false,
+        "json": false
+      },
+      "tags": [
+        "now-on-display-us-specialists"
+      ],
+      "policies": [],
+      "crawl": null,
+      "input": {
+        "reserved": 29,
+        "reserved_is_ceiling": false,
+        "submitted": 29,
+        "duplicates": 0,
+        "invalid": 0
+      },
+      "progress": {
+        "succeeded": 28,
+        "failed": 1,
+        "pending": 0
+      },
+      "credits": {
+        "reserved": 29,
+        "refunded": 1,
+        "ocr_charged": 0,
+        "net": 28
+      },
+      "timing": {
+        "created_at": "2026-11-15T16:00:02.322Z",
+        "started_at": "2026-11-15T16:02:16.229Z",
+        "completed_at": "2026-11-15T16:03:31.564Z"
+      },
+      "page_errors": [
+        {
+          "code": "WEBSITE_BLOCKED",
+          "count": 1
+        }
+      ],
+      "failure": null,
+      "results": {
+        "expires_at": "2026-11-16T16:04:22.348Z",
+        "files": [
+          {
+            "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_3e6b2d443cd2426c9472033371ce026a/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845062&Signature=VcG3meu1%2BfDisVgjs%2FRtgh%2BWA9kVW9rEiLkcUkpyBe41XqqWeKu9uUIW9edSUk8SSD%2BVNJNoEE7Jk%2FEGk%2FJj9kCN0O9BMBIKHR%2BGAPg%2Fna9fVbJOb2ej8vj1FSr5Lr928riPPFm2leKfdhc5Sy3zrTWd%2BiKHmOtBoh2jdAQD%2BDdEDCHZNYoAQA4xO8HHM4WrLGQctEBRdFnHf%2Bhs8GiDCkZSjxHeOtazdLR8Xy2xAU%2FCggU23p%2FvPg8zkFJje3Y8g%2F5YLyXCqLP9cynCkhPd3uazY3%2FFAuFW00xtt%2FgKshdq90D23JRbmKVfJgBZNmdcplnlGrFyrib4iw9oM3jg%2Bw%3D%3D",
+            "items": 29,
+            "bytes": 114712
+          }
+        ]
+      },
+      "invalid_urls": [],
+      "request_id": "90a6f3d2-4cb5-446b-9904-7c14cfcfce41"
+    }
+  }
+}

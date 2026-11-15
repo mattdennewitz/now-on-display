@@ -1,0 +1,20 @@
+{
+  "text": "URL: https://www.cca.gr/en/\nContent-Type: text/html\nMethod: failed\nNotes: Failed to fetch URL (HTTP 404)\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://www.cca.gr/en/",
+    "finalUrl": "https://www.cca.gr/en/",
+    "contentType": "text/html",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL (HTTP 404)"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.cca.gr/en/"
+      }
+    }
+  }
+}

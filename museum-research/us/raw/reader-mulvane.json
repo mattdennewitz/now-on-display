@@ -1,0 +1,21 @@
+{
+  "text": "URL: https://www.mulvaneartmuseum.org/about/visit.html\nContent-Type: unknown\nMethod: failed\nNotes: Failed to fetch URL; Cause: unable to verify the first certificate\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://www.mulvaneartmuseum.org/about/visit.html",
+    "finalUrl": "https://www.mulvaneartmuseum.org/about/visit.html",
+    "contentType": "unknown",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL",
+      "Cause: unable to verify the first certificate"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.mulvaneartmuseum.org/about/visit.html"
+      }
+    }
+  }
+}

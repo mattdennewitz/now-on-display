@@ -1,0 +1,21 @@
+{
+  "text": "URL: https://sloma.org/\nContent-Type: text/html\nMethod: failed\nNotes: Failed to fetch URL (HTTP 403); Blocked by bot protection (Cloudflare)\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://sloma.org/",
+    "finalUrl": "https://sloma.org/",
+    "contentType": "text/html",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL (HTTP 403)",
+      "Blocked by bot protection (Cloudflare)"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://sloma.org/"
+      }
+    }
+  }
+}

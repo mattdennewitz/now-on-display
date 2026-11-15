@@ -1,0 +1,67 @@
+{
+  "id": "batch_3a62d90fff9a41db8c7afb60c0ca5122",
+  "status": "completed",
+  "mode": "scrape",
+  "formats": {
+    "html": false,
+    "markdown": true,
+    "screenshot": false,
+    "images": false,
+    "bytes": false,
+    "parse": false,
+    "product": false,
+    "highlights": false,
+    "json": false
+  },
+  "tags": [
+    "art-museums-uk-priority"
+  ],
+  "policies": [],
+  "crawl": null,
+  "input": {
+    "reserved": 34,
+    "reserved_is_ceiling": false,
+    "submitted": 34,
+    "duplicates": 0,
+    "invalid": 0
+  },
+  "progress": {
+    "succeeded": 31,
+    "failed": 3,
+    "pending": 0
+  },
+  "credits": {
+    "reserved": 34,
+    "refunded": 1,
+    "ocr_charged": 0,
+    "net": 33
+  },
+  "timing": {
+    "created_at": "2026-11-15T16:04:39.487Z",
+    "started_at": "2026-11-15T16:04:41.139Z",
+    "completed_at": "2026-11-15T16:05:58.201Z"
+  },
+  "page_errors": [
+    {
+      "code": "NOT_FOUND",
+      "count": 2
+    },
+    {
+      "code": "WEBSITE_ACCESS_ERROR",
+      "count": 1
+    }
+  ],
+  "failure": null,
+  "results": {
+    "expires_at": "2026-11-16T16:06:12.413Z",
+    "files": [
+      {
+        "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_3a62d90fff9a41db8c7afb60c0ca5122/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845172&Signature=s%2FKfofmktBAO4vKNv20KNZSrJzLQJXHM19TBHz6lX0RZuwZPC%2FOr7or4emF%2BOpeWIYfADZXKf5EeznWWj2QqUoc%2FIjeLVLfnJQt8%2BejEsNScxOW8U3FfUmldWkCHlyhL7xbr4oR1O%2BYjAWtAfJykrIz4T1%2BCk9vZaYDpI20CGdb8LrooOMvutM0KOc0Yof3e%2BjOR5mOFbMXdzNk8pqYzRjOR%2B%2FrfX%2Fq3XXntHp2QQORCjq8YP6bogDMrNpusK3cilDx7p9krKS9MejtCrrAptX0CHAMYRqIYnq4oeFqhSsgwX09cpvII2txAedpOVNOIQbWuIzIVBeW%2FdO2h%2Bk4nLQ%3D%3D",
+        "items": 34,
+        "bytes": 144032
+      }
+    ]
+  },
+  "invalid_urls": [],
+  "request_id": "1e70ba94-7063-4fab-872f-5c619aecacd6"
+}

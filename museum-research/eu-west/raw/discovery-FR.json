@@ -1,0 +1,42 @@
+{
+  "text": "{\"results\":[{\"url\":\"https://at.france.fr/de/jetzt-frankreich?event=1\",\"title\":\"Lange Nacht der Museen in Frankreich\",\"description\":\"Lille: Palais des Beaux-Arts, Lam ... Musée d'Histoire · Nantes: Musée d'histoire de Nantes - château des ducs de Bretagne, Musée Dobrée, Musée Jules Verne, Musée de l'Erdre, u.v.m....\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":null,\"code\":\"ERROR\"}}],\"query\":\"site:france.fr museums fine arts Lille Lyon Nantes Rouen Toulouse\",\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"7baa23d4-9e70-492b-a039-8c61cff7e56a\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "web-search",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"results\":[{\"url\":\"https://at.france.fr/de/jetzt-frankreich?event=1\",\"title\":\"Lange Nacht der Museen in Frankreich\",\"description\":\"Lille: Palais des Beaux-Arts, Lam ... Musée d'Histoire · Nantes: Musée d'histoire de Nantes - château des ducs de Bretagne, Musée Dobrée, Musée Jules Verne, Musée de l'Erdre, u.v.m....\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":null,\"code\":\"ERROR\"}}],\"query\":\"site:france.fr museums fine arts Lille Lyon Nantes Rouen Toulouse\",\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"7baa23d4-9e70-492b-a039-8c61cff7e56a\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "results": [
+        {
+          "url": "https://at.france.fr/de/jetzt-frankreich?event=1",
+          "title": "Lange Nacht der Museen in Frankreich",
+          "description": "Lille: Palais des Beaux-Arts, Lam ... Musée d'Histoire · Nantes: Musée d'histoire de Nantes - château des ducs de Bretagne, Musée Dobrée, Musée Jules Verne, Musée de l'Erdre, u.v.m....",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": null,
+            "code": "ERROR"
+          }
+        }
+      ],
+      "query": "site:france.fr museums fine arts Lille Lyon Nantes Rouen Toulouse",
+      "cache_metadata": {
+        "status": "miss",
+        "age_ms": 0
+      },
+      "request_id": "7baa23d4-9e70-492b-a039-8c61cff7e56a"
+    }
+  }
+}

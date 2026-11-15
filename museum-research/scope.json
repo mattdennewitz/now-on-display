@@ -1,0 +1,190 @@
+{
+  "checked_at": "2026-11-15",
+  "scope": "United States, current 27 European Union member countries, and United Kingdom only",
+  "countries": [
+    {
+      "country": "Austria",
+      "country_code": "AT",
+      "group": "EU"
+    },
+    {
+      "country": "Belgium",
+      "country_code": "BE",
+      "group": "EU"
+    },
+    {
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "group": "EU"
+    },
+    {
+      "country": "Croatia",
+      "country_code": "HR",
+      "group": "EU"
+    },
+    {
+      "country": "Cyprus",
+      "country_code": "CY",
+      "group": "EU"
+    },
+    {
+      "country": "Czechia",
+      "country_code": "CZ",
+      "group": "EU"
+    },
+    {
+      "country": "Denmark",
+      "country_code": "DK",
+      "group": "EU"
+    },
+    {
+      "country": "Estonia",
+      "country_code": "EE",
+      "group": "EU"
+    },
+    {
+      "country": "Finland",
+      "country_code": "FI",
+      "group": "EU"
+    },
+    {
+      "country": "France",
+      "country_code": "FR",
+      "group": "EU"
+    },
+    {
+      "country": "Germany",
+      "country_code": "DE",
+      "group": "EU"
+    },
+    {
+      "country": "Greece",
+      "country_code": "GR",
+      "group": "EU"
+    },
+    {
+      "country": "Hungary",
+      "country_code": "HU",
+      "group": "EU"
+    },
+    {
+      "country": "Ireland",
+      "country_code": "IE",
+      "group": "EU"
+    },
+    {
+      "country": "Italy",
+      "country_code": "IT",
+      "group": "EU"
+    },
+    {
+      "country": "Latvia",
+      "country_code": "LV",
+      "group": "EU"
+    },
+    {
+      "country": "Lithuania",
+      "country_code": "LT",
+      "group": "EU"
+    },
+    {
+      "country": "Luxembourg",
+      "country_code": "LU",
+      "group": "EU"
+    },
+    {
+      "country": "Malta",
+      "country_code": "MT",
+      "group": "EU"
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "NL",
+      "group": "EU"
+    },
+    {
+      "country": "Poland",
+      "country_code": "PL",
+      "group": "EU"
+    },
+    {
+      "country": "Portugal",
+      "country_code": "PT",
+      "group": "EU"
+    },
+    {
+      "country": "Romania",
+      "country_code": "RO",
+      "group": "EU"
+    },
+    {
+      "country": "Slovakia",
+      "country_code": "SK",
+      "group": "EU"
+    },
+    {
+      "country": "Slovenia",
+      "country_code": "SI",
+      "group": "EU"
+    },
+    {
+      "country": "Spain",
+      "country_code": "ES",
+      "group": "EU"
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SE",
+      "group": "EU"
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "group": "United Kingdom"
+    },
+    {
+      "country": "United States",
+      "country_code": "US",
+      "group": "United States"
+    }
+  ],
+  "eu_membership_sources": [
+    "https://european-union.europa.eu/principles-countries-history/eu-countries_en",
+    "https://european-union.europa.eu/principles-countries-history/eu-countries_en?page=1"
+  ],
+  "uk_exclusions": [
+    "Jersey",
+    "Guernsey",
+    "Isle of Man",
+    "British Overseas Territories"
+  ],
+  "other_explicit_exclusions": [
+    "Switzerland",
+    "Norway",
+    "Iceland",
+    "Vatican City",
+    "Canada",
+    "Mexico"
+  ],
+  "row_identity": "Separately named public art museum institution or venue; do not collapse different museums sharing an official host domain. Avoid duplicate umbrella and indistinguishable venue rows.",
+  "schema": [
+    "Museum Name",
+    "City",
+    "State / Region",
+    "Country",
+    "Country Code",
+    "Official Website URL",
+    "Operating Status"
+  ],
+  "operating_statuses": {
+    "active": "Active",
+    "active_offsite": "Active (offsite)",
+    "active_seasonal": "Active (seasonal)",
+    "active_partial": "Active (partial opening)",
+    "active_temporary_closure": "Active (temporary closure)"
+  },
+  "regional_slice_schema": "Regional museums.csv files use the six identity/location/website columns; the combined root CSV adds Operating Status from the evidence records.",
+  "region_policy": "US postal state or territory abbreviation; UK constituent country; EU region optional when not verified.",
+  "gallery_policy": "Existing gallery CSVs and gallery-research files are preserved byte-for-byte.",
+  "coverage_limit": "Evidence-supported directory, not an exhaustive museum census."
+}

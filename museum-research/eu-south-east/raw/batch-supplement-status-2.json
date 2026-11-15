@@ -1,0 +1,76 @@
+{
+  "text": "{\"id\":\"batch_43b8e2b4dac345ad8b2937bca0fb3b95\",\"status\":\"completed\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"museum-eu-south-east-supplement\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":32,\"reserved_is_ceiling\":false,\"submitted\":32,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":32,\"failed\":0,\"pending\":0},\"credits\":{\"reserved\":32,\"refunded\":0,\"ocr_charged\":0,\"net\":32},\"timing\":{\"created_at\":\"2026-11-15T15:59:00.670Z\",\"started_at\":\"2026-11-15T16:01:33.489Z\",\"completed_at\":\"2026-11-15T16:02:05.728Z\"},\"page_errors\":[],\"failure\":null,\"results\":{\"expires_at\":\"2026-11-16T16:06:11.706Z\",\"files\":[{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_43b8e2b4dac345ad8b2937bca0fb3b95/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845171&Signature=rfv74M3IBTKnevcC%2BV8SeX9Zi26iElLAfBJbNohM8xJmQ%2BNya5DeoVgzoSYMIjp1CwnvgOmR184EwjIpQ1poUAyeHakzi97cMhfVjxrsFn3ymllQZimxcE1EgvztProTiGxqx9B0i%2FTqy%2FUDWIVu59e%2BofmDXul7DXnN%2BZj7devfoCe72VirMEeSg5CKtB8bN%2BVvytG0kdVQJtRfedpmKxZmaVEmjVxNA7JVy6AmQUgIoryOjJDXJDSnGYEXE5MmpWGhwCRiCQBUiltr0VKila4O1Yg%2BwhMLqyiC2PLF7lbgU9EXTaJCRqKVqDWmMo0HtVmZLFnuXgDoVFZKQ0VQ3w%3D%3D\",\"items\":32,\"bytes\":126506}]},\"invalid_urls\":[],\"request_id\":\"8c672410-ffb7-418a-9552-c7b8afa410b3\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "get-batch",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"id\":\"batch_43b8e2b4dac345ad8b2937bca0fb3b95\",\"status\":\"completed\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"museum-eu-south-east-supplement\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":32,\"reserved_is_ceiling\":false,\"submitted\":32,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":32,\"failed\":0,\"pending\":0},\"credits\":{\"reserved\":32,\"refunded\":0,\"ocr_charged\":0,\"net\":32},\"timing\":{\"created_at\":\"2026-11-15T15:59:00.670Z\",\"started_at\":\"2026-11-15T16:01:33.489Z\",\"completed_at\":\"2026-11-15T16:02:05.728Z\"},\"page_errors\":[],\"failure\":null,\"results\":{\"expires_at\":\"2026-11-16T16:06:11.706Z\",\"files\":[{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_43b8e2b4dac345ad8b2937bca0fb3b95/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845171&Signature=rfv74M3IBTKnevcC%2BV8SeX9Zi26iElLAfBJbNohM8xJmQ%2BNya5DeoVgzoSYMIjp1CwnvgOmR184EwjIpQ1poUAyeHakzi97cMhfVjxrsFn3ymllQZimxcE1EgvztProTiGxqx9B0i%2FTqy%2FUDWIVu59e%2BofmDXul7DXnN%2BZj7devfoCe72VirMEeSg5CKtB8bN%2BVvytG0kdVQJtRfedpmKxZmaVEmjVxNA7JVy6AmQUgIoryOjJDXJDSnGYEXE5MmpWGhwCRiCQBUiltr0VKila4O1Yg%2BwhMLqyiC2PLF7lbgU9EXTaJCRqKVqDWmMo0HtVmZLFnuXgDoVFZKQ0VQ3w%3D%3D\",\"items\":32,\"bytes\":126506}]},\"invalid_urls\":[],\"request_id\":\"8c672410-ffb7-418a-9552-c7b8afa410b3\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "id": "batch_43b8e2b4dac345ad8b2937bca0fb3b95",
+      "status": "completed",
+      "mode": "scrape",
+      "formats": {
+        "html": false,
+        "markdown": true,
+        "screenshot": false,
+        "images": false,
+        "bytes": false,
+        "parse": false,
+        "product": false,
+        "highlights": false,
+        "json": false
+      },
+      "tags": [
+        "museum-eu-south-east-supplement"
+      ],
+      "policies": [],
+      "crawl": null,
+      "input": {
+        "reserved": 32,
+        "reserved_is_ceiling": false,
+        "submitted": 32,
+        "duplicates": 0,
+        "invalid": 0
+      },
+      "progress": {
+        "succeeded": 32,
+        "failed": 0,
+        "pending": 0
+      },
+      "credits": {
+        "reserved": 32,
+        "refunded": 0,
+        "ocr_charged": 0,
+        "net": 32
+      },
+      "timing": {
+        "created_at": "2026-11-15T15:59:00.670Z",
+        "started_at": "2026-11-15T16:01:33.489Z",
+        "completed_at": "2026-11-15T16:02:05.728Z"
+      },
+      "page_errors": [],
+      "failure": null,
+      "results": {
+        "expires_at": "2026-11-16T16:06:11.706Z",
+        "files": [
+          {
+            "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_43b8e2b4dac345ad8b2937bca0fb3b95/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845171&Signature=rfv74M3IBTKnevcC%2BV8SeX9Zi26iElLAfBJbNohM8xJmQ%2BNya5DeoVgzoSYMIjp1CwnvgOmR184EwjIpQ1poUAyeHakzi97cMhfVjxrsFn3ymllQZimxcE1EgvztProTiGxqx9B0i%2FTqy%2FUDWIVu59e%2BofmDXul7DXnN%2BZj7devfoCe72VirMEeSg5CKtB8bN%2BVvytG0kdVQJtRfedpmKxZmaVEmjVxNA7JVy6AmQUgIoryOjJDXJDSnGYEXE5MmpWGhwCRiCQBUiltr0VKila4O1Yg%2BwhMLqyiC2PLF7lbgU9EXTaJCRqKVqDWmMo0HtVmZLFnuXgDoVFZKQ0VQ3w%3D%3D",
+            "items": 32,
+            "bytes": 126506
+          }
+        ]
+      },
+      "invalid_urls": [],
+      "request_id": "8c672410-ffb7-418a-9552-c7b8afa410b3"
+    }
+  }
+}

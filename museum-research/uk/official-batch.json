@@ -1,0 +1,37 @@
+{
+  "id": "batch_3cc5df9cdc2e49d99adcf30414ade015",
+  "status": "pending",
+  "mode": "scrape",
+  "formats": {
+    "html": false,
+    "markdown": true,
+    "screenshot": false,
+    "images": false,
+    "bytes": false,
+    "parse": false,
+    "product": false,
+    "highlights": false,
+    "json": false
+  },
+  "tags": [
+    "art-museums-uk-official-programs"
+  ],
+  "crawl": null,
+  "input": {
+    "reserved": 0,
+    "reserved_is_ceiling": false,
+    "submitted": 75,
+    "duplicates": 0,
+    "invalid": 0
+  },
+  "credits": {
+    "reserved": 0
+  },
+  "created_at": "2026-11-15T16:06:56.458Z",
+  "invalid_urls": [],
+  "cache_metadata": {
+    "status": "miss",
+    "age_ms": 0
+  },
+  "request_id": "ae907420-1d6e-4843-bf91-b806caf7fddd"
+}

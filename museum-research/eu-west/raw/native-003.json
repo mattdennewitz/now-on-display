@@ -1,0 +1,20 @@
+{
+  "text": "URL: https://www.belvedere.at/en/upper-belvedere\nContent-Type: text/html\nMethod: failed\nNotes: Failed to fetch URL (HTTP 404)\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://www.belvedere.at/en/upper-belvedere",
+    "finalUrl": "https://www.belvedere.at/en/upper-belvedere",
+    "contentType": "text/html",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL (HTTP 404)"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.belvedere.at/en/upper-belvedere"
+      }
+    }
+  }
+}

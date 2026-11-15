@@ -1,0 +1,92 @@
+{
+  "text": "{\"results\":[{\"url\":\"https://www.visitcyprus.com/discover-cyprus/culture/museums-galleries/municipal-hambis-printmaking-museum/\",\"title\":\"Municipal Hambis Printmaking Museum - Visit Cyprus\",\"description\":\"You are here: Home » Discover Cyprus » Culture » Museums & Galleries » Municipal Hambis Printmaking Museum · The museum in honor of the Cypriot artist Hambis Tsagaris exposes to visitors the printmaking art through the artists` work.\",\"relevance\":\"high\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"[Municipal Hambis Printmaking Museum]\\n\\nThe museum in honor of the Cypriot artist Hambis Tsagaris exposes to visitors the printmaking art through the artists\\\\` work. Moreover, the museum hosts pieces by foreign artists, from the 16th century until recent times.\\n\\n| Region: | Lefkosia (Nicosia) |\\n| - | - |\\n| Address: | Ammochostou 55-59, Nicosia 1016 |\\n| Contact No: | Tel: +357 22 496930 |\\n| Operating Hours: | **September – April:** Wednesday – Saturday: 10:00 – 13:00 / 15:00 – 17:00 **May – July:** Wednesday – Saturday: 10:00 – 13:30 / 17:00 – 19:00 **August** Closed Closed on Sunday, Monday,Tuesday |\\n| Operating Period: | All year round. Closed on Public Holidays. |\\n| Entrance Fee: | FREE |\\n| | Opening and closing times as well as entrance fees, are subject to alterations without notice. Visitors are advised to check before visiting. |\\n\\n…\\n\\n[Municipal Hambis Printmaking Museum > EDEN Cultural Tourism: Orini Larnaka, Cyprus]\\n\\n- **Cyprus Handicraft Centre - Lefkosia (Nicosia)**\\n\\n- **Local Archaeological Kourion Museum, Episkopi**\\n\\n- **Municipal Historical Archives - Museum of Larnaka (Larnaca)**\\n\\n- **The Steni Museum of Village Life**\\n\\n- **Cyprus Medieval Museum \\\\[Limassol (Lemesos) Castle]**\\n\\n- **The House of Hatzigeorgakis Kornesios / Ethnological Museum**\\n\\n- **Local Museum of Ancient Idalion in Dali region**\\n\\n- **The Costas Argyrou Museum**\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://test.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/364967-municipal-hambis-printmaking-museum\",\"title\":\"Municipal Hambis Printmaking Museum\",\"description\":\"You are here:Home»Discover Cyprus»Culture»Museums & Galleries&raquo;Municipal Hambis Printmaking Museum ... The museum in honor of the Cypriot artist Hambis Tsagaris exposes to visitors the printmaking art through the artists` work.\",\"relevance\":\"high\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"You are here:Home»Discover Cyprus»Culture»Museums & Galleries&raquo;Municipal Hambis Printmaking Museum ... The museum in honor of the Cypriot artist Hambis Tsagaris exposes to visitors the printmaking art through the artists` work.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://test.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/143-municipal-folk-art-museum\",\"title\":\"Municipal Folk Art Museum\",\"description\":\"We cannot provide a description for this page right now\",\"relevance\":\"high\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"We cannot provide a description for this page right now\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://test.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/156-archaeological-museum-of-the-pafos-paphos-district\",\"title\":\"Archaeological Museum of the Pafos (Paphos) District\",\"description\":\"· Local Museum of Ancient Idalion in Dali region · The museum promotes the rich finds… · Ledron Archaeological Local Museum · The exhibits in the museum are… · Municipal Hambis Printmaking Museum ·\",\"relevance\":\"high\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"· Local Museum of Ancient Idalion in Dali region · The museum promotes the rich finds… · Ledron Archaeological Local Museum · The exhibits in the museum are… · Municipal Hambis Printmaking Museum ·\"],\"code\":\"SUCCESS\"}}],\"query\":\"site:visitcyprus.com \\\"Museum\\\" \\\"art\\\" \\\"Hambis\\\" OR \\\"Argyrou\\\" OR \\\"Municipal\\\"\",\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"53b5f47e-b0db-4d88-a19c-382cb30d7130\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "web-search",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"results\":[{\"url\":\"https://www.visitcyprus.com/discover-cyprus/culture/museums-galleries/municipal-hambis-printmaking-museum/\",\"title\":\"Municipal Hambis Printmaking Museum - Visit Cyprus\",\"description\":\"You are here: Home » Discover Cyprus » Culture » Museums & Galleries » Municipal Hambis Printmaking Museum · The museum in honor of the Cypriot artist Hambis Tsagaris exposes to visitors the printmaking art through the artists` work.\",\"relevance\":\"high\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"[Municipal Hambis Printmaking Museum]\\n\\nThe museum in honor of the Cypriot artist Hambis Tsagaris exposes to visitors the printmaking art through the artists\\\\` work. Moreover, the museum hosts pieces by foreign artists, from the 16th century until recent times.\\n\\n| Region: | Lefkosia (Nicosia) |\\n| - | - |\\n| Address: | Ammochostou 55-59, Nicosia 1016 |\\n| Contact No: | Tel: +357 22 496930 |\\n| Operating Hours: | **September – April:** Wednesday – Saturday: 10:00 – 13:00 / 15:00 – 17:00 **May – July:** Wednesday – Saturday: 10:00 – 13:30 / 17:00 – 19:00 **August** Closed Closed on Sunday, Monday,Tuesday |\\n| Operating Period: | All year round. Closed on Public Holidays. |\\n| Entrance Fee: | FREE |\\n| | Opening and closing times as well as entrance fees, are subject to alterations without notice. Visitors are advised to check before visiting. |\\n\\n…\\n\\n[Municipal Hambis Printmaking Museum > EDEN Cultural Tourism: Orini Larnaka, Cyprus]\\n\\n- **Cyprus Handicraft Centre - Lefkosia (Nicosia)**\\n\\n- **Local Archaeological Kourion Museum, Episkopi**\\n\\n- **Municipal Historical Archives - Museum of Larnaka (Larnaca)**\\n\\n- **The Steni Museum of Village Life**\\n\\n- **Cyprus Medieval Museum \\\\[Limassol (Lemesos) Castle]**\\n\\n- **The House of Hatzigeorgakis Kornesios / Ethnological Museum**\\n\\n- **Local Museum of Ancient Idalion in Dali region**\\n\\n- **The Costas Argyrou Museum**\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://test.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/364967-municipal-hambis-printmaking-museum\",\"title\":\"Municipal Hambis Printmaking Museum\",\"description\":\"You are here:Home»Discover Cyprus»Culture»Museums & Galleries&raquo;Municipal Hambis Printmaking Museum ... The museum in honor of the Cypriot artist Hambis Tsagaris exposes to visitors the printmaking art through the artists` work.\",\"relevance\":\"high\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"You are here:Home»Discover Cyprus»Culture»Museums & Galleries&raquo;Municipal Hambis Printmaking Museum ... The museum in honor of the Cypriot artist Hambis Tsagaris exposes to visitors the printmaking art through the artists` work.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://test.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/143-municipal-folk-art-museum\",\"title\":\"Municipal Folk Art Museum\",\"description\":\"We cannot provide a description for this page right now\",\"relevance\":\"high\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"We cannot provide a description for this page right now\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://test.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/156-archaeological-museum-of-the-pafos-paphos-district\",\"title\":\"Archaeological Museum of the Pafos (Paphos) District\",\"description\":\"· Local Museum of Ancient Idalion in Dali region · The museum promotes the rich finds… · Ledron Archaeological Local Museum · The exhibits in the museum are… · Municipal Hambis Printmaking Museum ·\",\"relevance\":\"high\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"· Local Museum of Ancient Idalion in Dali region · The museum promotes the rich finds… · Ledron Archaeological Local Museum · The exhibits in the museum are… · Municipal Hambis Printmaking Museum ·\"],\"code\":\"SUCCESS\"}}],\"query\":\"site:visitcyprus.com \\\"Museum\\\" \\\"art\\\" \\\"Hambis\\\" OR \\\"Argyrou\\\" OR \\\"Municipal\\\"\",\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"53b5f47e-b0db-4d88-a19c-382cb30d7130\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "results": [
+        {
+          "url": "https://www.visitcyprus.com/discover-cyprus/culture/museums-galleries/municipal-hambis-printmaking-museum/",
+          "title": "Municipal Hambis Printmaking Museum - Visit Cyprus",
+          "description": "You are here: Home » Discover Cyprus » Culture » Museums & Galleries » Municipal Hambis Printmaking Museum · The museum in honor of the Cypriot artist Hambis Tsagaris exposes to visitors the printmaking art through the artists` work.",
+          "relevance": "high",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "[Municipal Hambis Printmaking Museum]\n\nThe museum in honor of the Cypriot artist Hambis Tsagaris exposes to visitors the printmaking art through the artists\\` work. Moreover, the museum hosts pieces by foreign artists, from the 16th century until recent times.\n\n| Region: | Lefkosia (Nicosia) |\n| - | - |\n| Address: | Ammochostou 55-59, Nicosia 1016 |\n| Contact No: | Tel: +357 22 496930 |\n| Operating Hours: | **September – April:** Wednesday – Saturday: 10:00 – 13:00 / 15:00 – 17:00 **May – July:** Wednesday – Saturday: 10:00 – 13:30 / 17:00 – 19:00 **August** Closed Closed on Sunday, Monday,Tuesday |\n| Operating Period: | All year round. Closed on Public Holidays. |\n| Entrance Fee: | FREE |\n| | Opening and closing times as well as entrance fees, are subject to alterations without notice. Visitors are advised to check before visiting. |\n\n…\n\n[Municipal Hambis Printmaking Museum > EDEN Cultural Tourism: Orini Larnaka, Cyprus]\n\n- **Cyprus Handicraft Centre - Lefkosia (Nicosia)**\n\n- **Local Archaeological Kourion Museum, Episkopi**\n\n- **Municipal Historical Archives - Museum of Larnaka (Larnaca)**\n\n- **The Steni Museum of Village Life**\n\n- **Cyprus Medieval Museum \\[Limassol (Lemesos) Castle]**\n\n- **The House of Hatzigeorgakis Kornesios / Ethnological Museum**\n\n- **Local Museum of Ancient Idalion in Dali region**\n\n- **The Costas Argyrou Museum**"
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://test.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/364967-municipal-hambis-printmaking-museum",
+          "title": "Municipal Hambis Printmaking Museum",
+          "description": "You are here:Home»Discover Cyprus»Culture»Museums & Galleries&raquo;Municipal Hambis Printmaking Museum ... The museum in honor of the Cypriot artist Hambis Tsagaris exposes to visitors the printmaking art through the artists` work.",
+          "relevance": "high",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "You are here:Home»Discover Cyprus»Culture»Museums & Galleries&raquo;Municipal Hambis Printmaking Museum ... The museum in honor of the Cypriot artist Hambis Tsagaris exposes to visitors the printmaking art through the artists` work."
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://test.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/143-municipal-folk-art-museum",
+          "title": "Municipal Folk Art Museum",
+          "description": "We cannot provide a description for this page right now",
+          "relevance": "high",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "We cannot provide a description for this page right now"
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://test.visitcyprus.com/index.php/en/discovercyprus/culture/museums-galleries/156-archaeological-museum-of-the-pafos-paphos-district",
+          "title": "Archaeological Museum of the Pafos (Paphos) District",
+          "description": "· Local Museum of Ancient Idalion in Dali region · The museum promotes the rich finds… · Ledron Archaeological Local Museum · The exhibits in the museum are… · Municipal Hambis Printmaking Museum ·",
+          "relevance": "high",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "· Local Museum of Ancient Idalion in Dali region · The museum promotes the rich finds… · Ledron Archaeological Local Museum · The exhibits in the museum are… · Municipal Hambis Printmaking Museum ·"
+            ],
+            "code": "SUCCESS"
+          }
+        }
+      ],
+      "query": "site:visitcyprus.com \"Museum\" \"art\" \"Hambis\" OR \"Argyrou\" OR \"Municipal\"",
+      "cache_metadata": {
+        "status": "miss",
+        "age_ms": 0
+      },
+      "request_id": "53b5f47e-b0db-4d88-a19c-382cb30d7130"
+    }
+  }
+}

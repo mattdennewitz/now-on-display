@@ -1,0 +1,205 @@
+[
+  {
+    "id": "later-0",
+    "name": "Philadelphia Art Museum",
+    "city": "Philadelphia",
+    "state_or_province": "PA",
+    "website": "https://www.philamuseum.org/"
+  },
+  {
+    "id": "later-1",
+    "name": "National Portrait Gallery",
+    "city": "Washington",
+    "state_or_province": "DC",
+    "website": "https://npg.si.edu/"
+  },
+  {
+    "id": "later-2",
+    "name": "National Museum of African Art",
+    "city": "Washington",
+    "state_or_province": "DC",
+    "website": "https://africa.si.edu/"
+  },
+  {
+    "id": "later-3",
+    "name": "El Museo del Barrio",
+    "city": "New York",
+    "state_or_province": "NY",
+    "website": "https://www.elmuseo.org/"
+  },
+  {
+    "id": "later-4",
+    "name": "Queens Museum",
+    "city": "Queens",
+    "state_or_province": "NY",
+    "website": "https://queensmuseum.org/"
+  },
+  {
+    "id": "later-5",
+    "name": "Neue Galerie New York",
+    "city": "New York",
+    "state_or_province": "NY",
+    "website": "https://www.neuegalerie.org/"
+  },
+  {
+    "id": "later-6",
+    "name": "Museum of Arts and Design",
+    "city": "New York",
+    "state_or_province": "NY",
+    "website": "https://madmuseum.org/"
+  },
+  {
+    "id": "later-7",
+    "name": "International Center of Photography",
+    "city": "New York",
+    "state_or_province": "NY",
+    "website": "https://www.icp.org/"
+  },
+  {
+    "id": "later-8",
+    "name": "Center for Creative Photography",
+    "city": "Tucson",
+    "state_or_province": "AZ",
+    "website": "https://ccp.arizona.edu/"
+  },
+  {
+    "id": "later-9",
+    "name": "Tucson Museum of Art",
+    "city": "Tucson",
+    "state_or_province": "AZ",
+    "website": "https://www.tucsonmuseumofart.org/"
+  },
+  {
+    "id": "later-10",
+    "name": "Scottsdale Museum of Contemporary Art",
+    "city": "Scottsdale",
+    "state_or_province": "AZ",
+    "website": "https://smoca.org/"
+  },
+  {
+    "id": "later-11",
+    "name": "Timken Museum of Art",
+    "city": "San Diego",
+    "state_or_province": "CA",
+    "website": "https://www.timkenmuseum.org/"
+  },
+  {
+    "id": "later-12",
+    "name": "Woodmere Art Museum",
+    "city": "Philadelphia",
+    "state_or_province": "PA",
+    "website": "https://woodmereartmuseum.org/"
+  },
+  {
+    "id": "later-13",
+    "name": "Erie Art Museum",
+    "city": "Erie",
+    "state_or_province": "PA",
+    "website": "https://www.erieartmuseum.org/"
+  },
+  {
+    "id": "later-14",
+    "name": "The Fabric Workshop and Museum",
+    "city": "Philadelphia",
+    "state_or_province": "PA",
+    "website": "https://fabricworkshopandmuseum.org/"
+  },
+  {
+    "id": "later-15",
+    "name": "Bates College Museum of Art",
+    "city": "Lewiston",
+    "state_or_province": "ME",
+    "website": "https://www.bates.edu/museum/"
+  },
+  {
+    "id": "later-16",
+    "name": "Museo de Arte de Ponce",
+    "city": "Ponce",
+    "state_or_province": "PR",
+    "website": "https://museoarteponce.org/"
+  },
+  {
+    "id": "later-17",
+    "name": "Museo de Arte Contempor\u00e1neo de Puerto Rico",
+    "city": "San Juan",
+    "state_or_province": "PR",
+    "website": "https://www.museomac.org/"
+  },
+  {
+    "id": "later-18",
+    "name": "Museum of Contemporary Art Jacksonville",
+    "city": "Jacksonville",
+    "state_or_province": "FL",
+    "website": "https://mocajacksonville.unf.edu/"
+  },
+  {
+    "id": "later-19",
+    "name": "Oceanside Museum of Art",
+    "city": "Oceanside",
+    "state_or_province": "CA",
+    "website": "https://oma-online.org/"
+  },
+  {
+    "id": "later-20",
+    "name": "San Luis Obispo Museum of Art",
+    "city": "San Luis Obispo",
+    "state_or_province": "CA",
+    "website": "https://sloma.org/"
+  },
+  {
+    "id": "later-21",
+    "name": "Long Beach Museum of Art",
+    "city": "Long Beach",
+    "state_or_province": "CA",
+    "website": "https://www.lbma.org/"
+  },
+  {
+    "id": "later-22",
+    "name": "Hickory Museum of Art",
+    "city": "Hickory",
+    "state_or_province": "NC",
+    "website": "https://hickoryart.org/"
+  },
+  {
+    "id": "later-23",
+    "name": "Weisman Art Museum Pepperdine",
+    "city": "Malibu",
+    "state_or_province": "CA",
+    "website": "https://arts.pepperdine.edu/museum/"
+  },
+  {
+    "id": "later-24",
+    "name": "Art Museum of West Virginia University",
+    "city": "Morgantown",
+    "state_or_province": "WV",
+    "website": "https://artmuseum.wvu.edu/"
+  },
+  {
+    "id": "later-25",
+    "name": "Museum of Art and Archaeology, University of Missouri",
+    "city": "Columbia",
+    "state_or_province": "MO",
+    "website": "https://maa.missouri.edu/"
+  },
+  {
+    "id": "later-26",
+    "name": "Museum of Contemporary Native Arts",
+    "city": "Santa Fe",
+    "state_or_province": "NM",
+    "website": "https://iaia.edu/mocna/"
+  },
+  {
+    "id": "later-27",
+    "name": "South Bend Museum of Art",
+    "city": "South Bend",
+    "state_or_province": "IN",
+    "website": "https://southbendart.org/"
+  },
+  {
+    "id": "later-28",
+    "name": "Bergstrom-Mahler Museum of Glass",
+    "city": "Neenah",
+    "state_or_province": "WI",
+    "website": "https://bmmglass.com/"
+  }
+]

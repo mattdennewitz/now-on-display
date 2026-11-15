@@ -1,0 +1,21 @@
+{
+  "text": "URL: https://musee-des-beaux-arts.tournai.be/\nContent-Type: unknown\nMethod: failed\nNotes: Failed to fetch URL; Cause: getaddrinfo ENOTFOUND musee-des-beaux-arts.tournai.be\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://musee-des-beaux-arts.tournai.be/",
+    "finalUrl": "https://musee-des-beaux-arts.tournai.be/",
+    "contentType": "unknown",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL",
+      "Cause: getaddrinfo ENOTFOUND musee-des-beaux-arts.tournai.be"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://musee-des-beaux-arts.tournai.be/"
+      }
+    }
+  }
+}

@@ -1,0 +1,638 @@
+[
+  {
+    "code": "BG",
+    "name": "Kvadrat 500",
+    "city": "Sofia",
+    "url": "https://nationalgallery.bg/visiting/kvadrat-500/"
+  },
+  {
+    "code": "BG",
+    "name": "The Palace — National Gallery",
+    "city": "Sofia",
+    "url": "https://nationalgallery.bg/visiting/the-palace/"
+  },
+  {
+    "code": "BG",
+    "name": "Sofia Arsenal — Museum of Contemporary Art",
+    "city": "Sofia",
+    "url": "https://nationalgallery.bg/visiting/sofia-arsenal-museum-of-contemporary-art/"
+  },
+  {
+    "code": "BG",
+    "name": "Sofia City Art Gallery",
+    "city": "Sofia",
+    "url": "https://sghg.bg/en/"
+  },
+  {
+    "code": "BG",
+    "name": "Boris Georgiev City Art Gallery",
+    "city": "Varna",
+    "url": "https://varnacityartgallery.com/"
+  },
+  {
+    "code": "HR",
+    "name": "Museum of Contemporary Art Zagreb",
+    "city": "Zagreb",
+    "url": "https://www.msu.hr/en/"
+  },
+  {
+    "code": "HR",
+    "name": "Museum of Modern and Contemporary Art",
+    "city": "Rijeka",
+    "url": "https://mmsu.hr/en/"
+  },
+  {
+    "code": "HR",
+    "name": "Museum of Modern Art Dubrovnik",
+    "city": "Dubrovnik",
+    "url": "https://ugdubrovnik.hr/en/?file=home"
+  },
+  {
+    "code": "HR",
+    "name": "Museum of Fine Arts Split",
+    "city": "Split",
+    "url": "https://www.galum.hr/en/"
+  },
+  {
+    "code": "HR",
+    "name": "Museum of Fine Arts Osijek",
+    "city": "Osijek",
+    "url": "https://www.mlu.hr/"
+  },
+  {
+    "code": "CY",
+    "name": "A. G. Leventis Gallery",
+    "city": "Nicosia",
+    "url": "https://leventisgallery.org/"
+  },
+  {
+    "code": "CY",
+    "name": "Loukia and Michael Zampelas Art Museum",
+    "city": "Nicosia",
+    "url": "https://www.zampelasart.com/"
+  },
+  {
+    "code": "CY",
+    "name": "Hambis Printmaking Museum",
+    "city": "Platanisteia",
+    "url": "https://www.hambisprintmakingcenter.org.cy/"
+  },
+  {
+    "code": "CZ",
+    "name": "National Gallery Prague",
+    "city": "Prague",
+    "url": "https://www.ngprague.cz/en"
+  },
+  {
+    "code": "CZ",
+    "name": "Moravian Gallery in Brno",
+    "city": "Brno",
+    "url": "https://moravska-galerie.cz/en/"
+  },
+  {
+    "code": "CZ",
+    "name": "Olomouc Museum of Art",
+    "city": "Olomouc",
+    "url": "https://muo.cz/en/"
+  },
+  {
+    "code": "CZ",
+    "name": "Gallery of Fine Arts in Ostrava",
+    "city": "Ostrava",
+    "url": "https://www.gvuo.cz/en/"
+  },
+  {
+    "code": "CZ",
+    "name": "Museum of Decorative Arts in Prague",
+    "city": "Prague",
+    "url": "https://www.upm.cz/en/"
+  },
+  {
+    "code": "EE",
+    "name": "Kumu Art Museum",
+    "city": "Tallinn",
+    "url": "https://kumu.ekm.ee/en/"
+  },
+  {
+    "code": "EE",
+    "name": "Kadriorg Art Museum",
+    "city": "Tallinn",
+    "url": "https://kadriorumuuseum.ekm.ee/en/"
+  },
+  {
+    "code": "EE",
+    "name": "Mikkel Museum",
+    "city": "Tallinn",
+    "url": "https://mikkelimuuseum.ekm.ee/en/"
+  },
+  {
+    "code": "EE",
+    "name": "Adamson-Eric Museum",
+    "city": "Tallinn",
+    "url": "https://adamson-eric.ekm.ee/en/"
+  },
+  {
+    "code": "EE",
+    "name": "Tartu Art Museum",
+    "city": "Tartu",
+    "url": "https://en.tartmus.ee/"
+  },
+  {
+    "code": "EE",
+    "name": "Museum of New Art",
+    "city": "Pärnu",
+    "url": "https://mona.ee/en/home/"
+  },
+  {
+    "code": "EE",
+    "name": "Kondas Centre",
+    "city": "Viljandi",
+    "url": "https://kondas.ee/"
+  },
+  {
+    "code": "GR",
+    "name": "National Museum of Contemporary Art Athens",
+    "city": "Athens",
+    "url": "https://www.emst.gr/en"
+  },
+  {
+    "code": "GR",
+    "name": "MOMus — Museum of Modern Art",
+    "city": "Thessaloniki",
+    "url": "https://www.momus.gr/en"
+  },
+  {
+    "code": "GR",
+    "name": "Basil and Elise Goulandris Foundation Museum Athens",
+    "city": "Athens",
+    "url": "https://goulandris.gr/en/"
+  },
+  {
+    "code": "GR",
+    "name": "National Gallery — Alexandros Soutsos Museum",
+    "city": "Athens",
+    "url": "https://www.nationalgallery.gr/en/"
+  },
+  {
+    "code": "GR",
+    "name": "Museum of Contemporary Art of Crete",
+    "city": "Rethymno",
+    "url": "https://www.cca.gr/en/"
+  },
+  {
+    "code": "HU",
+    "name": "Museum of Fine Arts Budapest",
+    "city": "Budapest",
+    "url": "https://www.mfab.hu/"
+  },
+  {
+    "code": "HU",
+    "name": "Hungarian National Gallery",
+    "city": "Budapest",
+    "url": "https://en.mng.hu/"
+  },
+  {
+    "code": "HU",
+    "name": "Ludwig Museum — Museum of Contemporary Art",
+    "city": "Budapest",
+    "url": "https://www.ludwigmuseum.hu/en"
+  },
+  {
+    "code": "HU",
+    "name": "Vasarely Museum Budapest",
+    "city": "Budapest",
+    "url": "https://en.vasarely.hu/"
+  },
+  {
+    "code": "HU",
+    "name": "MODEM Centre for Modern and Contemporary Arts",
+    "city": "Debrecen",
+    "url": "https://modemart.hu/en/"
+  },
+  {
+    "code": "HU",
+    "name": "Vasarely Museum Pécs",
+    "city": "Pécs",
+    "url": "https://www.jpm.hu/en/exhibitions/vasarely-museum"
+  },
+  {
+    "code": "IT",
+    "name": "Uffizi Gallery",
+    "city": "Florence",
+    "url": "https://www.uffizi.it/en/the-uffizi"
+  },
+  {
+    "code": "IT",
+    "name": "Palazzo Pitti",
+    "city": "Florence",
+    "url": "https://www.uffizi.it/en/pitti-palace"
+  },
+  {
+    "code": "IT",
+    "name": "Galleria dell'Accademia di Firenze",
+    "city": "Florence",
+    "url": "https://www.galleriaaccademiafirenze.it/en/"
+  },
+  {
+    "code": "IT",
+    "name": "Pinacoteca di Brera",
+    "city": "Milan",
+    "url": "https://pinacotecabrera.org/en/"
+  },
+  {
+    "code": "IT",
+    "name": "Galleria Borghese",
+    "city": "Rome",
+    "url": "https://galleriaborghese.beniculturali.it/en/"
+  },
+  {
+    "code": "IT",
+    "name": "MAXXI — National Museum of 21st Century Arts",
+    "city": "Rome",
+    "url": "https://www.maxxi.art/en/"
+  },
+  {
+    "code": "IT",
+    "name": "Peggy Guggenheim Collection",
+    "city": "Venice",
+    "url": "https://www.guggenheim-venice.it/en/"
+  },
+  {
+    "code": "IT",
+    "name": "Gallerie dell'Accademia di Venezia",
+    "city": "Venice",
+    "url": "https://www.gallerieaccademia.it/en"
+  },
+  {
+    "code": "IT",
+    "name": "MART — Museum of Modern and Contemporary Art of Trento and Rovereto",
+    "city": "Rovereto",
+    "url": "https://www.mart.tn.it/en"
+  },
+  {
+    "code": "IT",
+    "name": "Museo e Real Bosco di Capodimonte",
+    "city": "Naples",
+    "url": "https://capodimonte.cultura.gov.it/"
+  },
+  {
+    "code": "IT",
+    "name": "GAM — Civic Gallery of Modern and Contemporary Art",
+    "city": "Turin",
+    "url": "https://www.gamtorino.it/en/"
+  },
+  {
+    "code": "IT",
+    "name": "Castello di Rivoli Museum of Contemporary Art",
+    "city": "Rivoli",
+    "url": "https://www.castellodirivoli.org/en/"
+  },
+  {
+    "code": "IT",
+    "name": "MAMbo — Museum of Modern Art of Bologna",
+    "city": "Bologna",
+    "url": "https://www.mambo-bologna.org/en/"
+  },
+  {
+    "code": "IT",
+    "name": "Museo del Novecento",
+    "city": "Milan",
+    "url": "https://www.museodelnovecento.org/en/"
+  },
+  {
+    "code": "LV",
+    "name": "Latvian National Museum of Art",
+    "city": "Riga",
+    "url": "https://lnmm.gov.lv/en/latvian-national-museum-of-art"
+  },
+  {
+    "code": "LV",
+    "name": "Art Museum RIGA BOURSE",
+    "city": "Riga",
+    "url": "https://lnmm.gov.lv/en/art-museum-riga-bourse"
+  },
+  {
+    "code": "LV",
+    "name": "Museum of Decorative Arts and Design",
+    "city": "Riga",
+    "url": "https://lnmm.gov.lv/en/museum-of-decorative-arts-and-design"
+  },
+  {
+    "code": "LV",
+    "name": "Romans Suta and Aleksandra Beļcova Museum",
+    "city": "Riga",
+    "url": "https://lnmm.gov.lv/en/romans-suta-and-aleksandra-belcova-museum"
+  },
+  {
+    "code": "LV",
+    "name": "Rothko Museum",
+    "city": "Daugavpils",
+    "url": "https://rothkomuseum.com/en/"
+  },
+  {
+    "code": "LT",
+    "name": "M. K. Čiurlionis National Museum of Art",
+    "city": "Kaunas",
+    "url": "https://ciurlionis.lt/activities/branches/m-k-ciurlionis-national-museum-of-art/"
+  },
+  {
+    "code": "LT",
+    "name": "MO Museum",
+    "city": "Vilnius",
+    "url": "https://mo.lt/en/"
+  },
+  {
+    "code": "LT",
+    "name": "Radvila Palace Museum of Art",
+    "city": "Vilnius",
+    "url": "https://www.lndm.lt/en/rrm/"
+  },
+  {
+    "code": "LT",
+    "name": "National Gallery of Art",
+    "city": "Vilnius",
+    "url": "https://www.ndg.lt/en.aspx"
+  },
+  {
+    "code": "LT",
+    "name": "Museum of Applied Arts and Design",
+    "city": "Vilnius",
+    "url": "https://www.lndm.lt/en/tdm/"
+  },
+  {
+    "code": "LT",
+    "name": "Pranas Domšaitis Gallery",
+    "city": "Klaipėda",
+    "url": "https://www.lndm.lt/en/pdg/"
+  },
+  {
+    "code": "MT",
+    "name": "MUŻA — National Community Art Museum",
+    "city": "Valletta",
+    "url": "https://muza.mt/"
+  },
+  {
+    "code": "MT",
+    "name": "Malta International Contemporary Art Space",
+    "city": "Floriana",
+    "url": "https://micas.art/"
+  },
+  {
+    "code": "PL",
+    "name": "National Museum in Warsaw",
+    "city": "Warsaw",
+    "url": "https://www.mnw.art.pl/en/"
+  },
+  {
+    "code": "PL",
+    "name": "National Museum in Krakow",
+    "city": "Kraków",
+    "url": "https://mnk.pl/en/"
+  },
+  {
+    "code": "PL",
+    "name": "MOCAK — Museum of Contemporary Art in Krakow",
+    "city": "Kraków",
+    "url": "https://en.mocak.pl/"
+  },
+  {
+    "code": "PL",
+    "name": "National Museum in Wrocław",
+    "city": "Wrocław",
+    "url": "https://mnwr.pl/en/"
+  },
+  {
+    "code": "PL",
+    "name": "Muzeum Sztuki in Łódź",
+    "city": "Łódź",
+    "url": "https://msl.org.pl/en/"
+  },
+  {
+    "code": "PL",
+    "name": "National Museum in Poznań",
+    "city": "Poznań",
+    "url": "https://mnp.art.pl/en/"
+  },
+  {
+    "code": "PL",
+    "name": "National Museum in Gdańsk",
+    "city": "Gdańsk",
+    "url": "https://www.mng.gda.pl/en/"
+  },
+  {
+    "code": "PL",
+    "name": "Museum of Modern Art in Warsaw",
+    "city": "Warsaw",
+    "url": "https://artmuseum.pl/en"
+  },
+  {
+    "code": "PT",
+    "name": "Calouste Gulbenkian Museum",
+    "city": "Lisbon",
+    "url": "https://gulbenkian.pt/museu/en/"
+  },
+  {
+    "code": "PT",
+    "name": "Serralves Museum of Contemporary Art",
+    "city": "Porto",
+    "url": "https://www.serralves.pt/en/"
+  },
+  {
+    "code": "PT",
+    "name": "MAAT — Museum of Art Architecture and Technology",
+    "city": "Lisbon",
+    "url": "https://www.maat.pt/en"
+  },
+  {
+    "code": "PT",
+    "name": "National Museum Soares dos Reis",
+    "city": "Porto",
+    "url": "https://museusoaresdosreis.gov.pt/en/"
+  },
+  {
+    "code": "PT",
+    "name": "Machado de Castro National Museum",
+    "city": "Coimbra",
+    "url": "https://www.museunacionalmachadocastro.gov.pt/en-GB/default.aspx"
+  },
+  {
+    "code": "PT",
+    "name": "Casa das Histórias Paula Rego",
+    "city": "Cascais",
+    "url": "https://www.casadashistoriaspaularego.com/en/"
+  },
+  {
+    "code": "RO",
+    "name": "National Museum of Art of Romania",
+    "city": "Bucharest",
+    "url": "https://mnar.ro/en/"
+  },
+  {
+    "code": "RO",
+    "name": "Art Collections Museum",
+    "city": "Bucharest",
+    "url": "https://mnar.ro/en/museum-of-art-collections"
+  },
+  {
+    "code": "RO",
+    "name": "National Museum of Contemporary Art of Romania",
+    "city": "Bucharest",
+    "url": "https://www.mnac.ro/"
+  },
+  {
+    "code": "RO",
+    "name": "Art Museum Cluj-Napoca",
+    "city": "Cluj-Napoca",
+    "url": "https://www.macluj.ro/?locale=en"
+  },
+  {
+    "code": "RO",
+    "name": "National Museum of Art Timișoara",
+    "city": "Timișoara",
+    "url": "https://mnart.museum/en/"
+  },
+  {
+    "code": "RO",
+    "name": "Craiova Art Museum",
+    "city": "Craiova",
+    "url": "https://muzeuldeartacraiova.ro/"
+  },
+  {
+    "code": "SK",
+    "name": "Slovak National Gallery",
+    "city": "Bratislava",
+    "url": "https://sng.sk/en/slovak-national-gallery"
+  },
+  {
+    "code": "SK",
+    "name": "Danubiana Meulensteen Art Museum",
+    "city": "Bratislava",
+    "url": "https://danubiana.sk/en"
+  },
+  {
+    "code": "SK",
+    "name": "East Slovak Gallery",
+    "city": "Košice",
+    "url": "https://vsg.sk/en/home/"
+  },
+  {
+    "code": "SK",
+    "name": "Nedbalka Gallery",
+    "city": "Bratislava",
+    "url": "https://www.nedbalka.sk/en/"
+  },
+  {
+    "code": "SI",
+    "name": "National Gallery of Slovenia",
+    "city": "Ljubljana",
+    "url": "https://www.ng-slo.si/en/"
+  },
+  {
+    "code": "SI",
+    "name": "Museum of Modern Art — Moderna galerija",
+    "city": "Ljubljana",
+    "url": "https://www.mg-lj.si/en/"
+  },
+  {
+    "code": "SI",
+    "name": "Božidar Jakac Art Museum",
+    "city": "Kostanjevica na Krki",
+    "url": "https://www.galerija-bj.si/en/"
+  },
+  {
+    "code": "SI",
+    "name": "Maribor Art Gallery",
+    "city": "Maribor",
+    "url": "https://www.ugm.si/en/"
+  },
+  {
+    "code": "ES",
+    "name": "Museo Nacional del Prado",
+    "city": "Madrid",
+    "url": "https://www.museodelprado.es/en"
+  },
+  {
+    "code": "ES",
+    "name": "Museo Nacional Centro de Arte Reina Sofía",
+    "city": "Madrid",
+    "url": "https://www.museoreinasofia.es/en"
+  },
+  {
+    "code": "ES",
+    "name": "Museo Nacional Thyssen-Bornemisza",
+    "city": "Madrid",
+    "url": "https://www.museothyssen.org/en"
+  },
+  {
+    "code": "ES",
+    "name": "Guggenheim Museum Bilbao",
+    "city": "Bilbao",
+    "url": "https://www.guggenheim-bilbao.eus/en"
+  },
+  {
+    "code": "ES",
+    "name": "Museu d'Art Contemporani de Barcelona",
+    "city": "Barcelona",
+    "url": "https://www.macba.cat/en/"
+  },
+  {
+    "code": "ES",
+    "name": "Museu Nacional d'Art de Catalunya",
+    "city": "Barcelona",
+    "url": "https://www.museunacional.cat/en"
+  },
+  {
+    "code": "ES",
+    "name": "Museu Picasso Barcelona",
+    "city": "Barcelona",
+    "url": "https://museupicassobcn.cat/en"
+  },
+  {
+    "code": "ES",
+    "name": "Fundació Joan Miró",
+    "city": "Barcelona",
+    "url": "https://www.fmirobcn.org/en/"
+  },
+  {
+    "code": "ES",
+    "name": "Institut Valencià d'Art Modern",
+    "city": "Valencia",
+    "url": "https://ivam.es/en/"
+  },
+  {
+    "code": "ES",
+    "name": "Museo Picasso Málaga",
+    "city": "Málaga",
+    "url": "https://www.museopicassomalaga.org/en"
+  },
+  {
+    "code": "ES",
+    "name": "Museo Carmen Thyssen Málaga",
+    "city": "Málaga",
+    "url": "https://www.carmenthyssenmalaga.org/en/"
+  },
+  {
+    "code": "ES",
+    "name": "Museo de Bellas Artes de Sevilla",
+    "city": "Seville",
+    "url": "https://www.museosdeandalucia.es/web/museodebellasartesdesevilla"
+  },
+  {
+    "code": "ES",
+    "name": "Museo de Bellas Artes de Bilbao",
+    "city": "Bilbao",
+    "url": "https://bilbaomuseoa.eus/en/"
+  },
+  {
+    "code": "ES",
+    "name": "Centro Galego de Arte Contemporánea",
+    "city": "Santiago de Compostela",
+    "url": "https://cgac.xunta.gal/en"
+  },
+  {
+    "code": "ES",
+    "name": "Museo de Arte Contemporáneo de Castilla y León",
+    "city": "León",
+    "url": "https://musac.es/en/"
+  }
+]

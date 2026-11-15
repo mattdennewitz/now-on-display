@@ -1,0 +1,21 @@
+{
+  "text": "URL: https://www.boraskonstmuseum.se/\nContent-Type: unknown\nMethod: failed\nNotes: Failed to fetch URL; Cause: ERR_TLS_CERT_ALTNAME_INVALID fetching \"https://www.boraskonstmuseum.se/\". For more information, pass `verbose: true` in the second argument to fetch()\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://www.boraskonstmuseum.se/",
+    "finalUrl": "https://www.boraskonstmuseum.se/",
+    "contentType": "unknown",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL",
+      "Cause: ERR_TLS_CERT_ALTNAME_INVALID fetching \"https://www.boraskonstmuseum.se/\". For more information, pass `verbose: true` in the second argument to fetch()"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.boraskonstmuseum.se/"
+      }
+    }
+  }
+}

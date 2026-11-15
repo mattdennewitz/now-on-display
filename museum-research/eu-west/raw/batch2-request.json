@@ -1,0 +1,171 @@
+{
+  "input": {
+    "mode": "scrape",
+    "data": {
+      "urls": [
+        {
+          "url": "https://www.belvedere.at/en/visit/upper-belvedere",
+          "itemId": "3"
+        },
+        {
+          "url": "https://fine-arts-museum.be/en/museums",
+          "itemId": "16"
+        },
+        {
+          "url": "https://mba.tournai.be/",
+          "itemId": "25"
+        },
+        {
+          "url": "https://museumdd.be/en/your-visit",
+          "itemId": "29"
+        },
+        {
+          "url": "https://www.smk.dk/en/section/visit-smk/",
+          "itemId": "30"
+        },
+        {
+          "url": "https://heartmus.dk/en/exhibitions/",
+          "itemId": "35"
+        },
+        {
+          "url": "https://trapholt.dk/en/museum-expansion/",
+          "itemId": "36"
+        },
+        {
+          "url": "https://www.eskum.dk/current-exhibitions/",
+          "itemId": "43"
+        },
+        {
+          "url": "https://ouluntaidemuseo.fi/en/information/",
+          "itemId": "56"
+        },
+        {
+          "url": "https://www.parismusees.paris.fr/en/expositions",
+          "itemId": "65-66"
+        },
+        {
+          "url": "https://www.petitpalais.paris.fr/en/discover-programme/expositions",
+          "itemId": "66"
+        },
+        {
+          "url": "https://www.roubaix-lapiscine.com/",
+          "itemId": "85"
+        },
+        {
+          "url": "https://www.mmk.art/en/visit/brandschutzsanierung",
+          "itemId": "92"
+        },
+        {
+          "url": "https://www.mmk.art/en/visit/tower",
+          "itemId": "92-tower"
+        },
+        {
+          "url": "https://www.wallraf.museum/en/exhibitions/now/voruebergehend-geschlossen/closing/",
+          "itemId": "94"
+        },
+        {
+          "url": "https://www.museum-ludwig.de/en/home/exhibitions/along-the-color-line-traces-of-a-transatlantic-modernism",
+          "itemId": "93"
+        },
+        {
+          "url": "https://www.kunstsammlung.de/en/visit/",
+          "itemId": "97-98"
+        },
+        {
+          "url": "https://en.von-der-heydt-museum.de/visit/exhibitions/current/",
+          "itemId": "100"
+        },
+        {
+          "url": "https://www.kunstmuseum-moritzburg.de/en/museum-exhibitions/special-exhibitions/",
+          "itemId": "113"
+        },
+        {
+          "url": "https://www.nationalgallery.ie/visit-us",
+          "itemId": "116"
+        },
+        {
+          "url": "https://crawfordartgallery.ie/touring-sharing/",
+          "itemId": "123"
+        },
+        {
+          "url": "https://hughlane.ie/visit-us/",
+          "itemId": "124"
+        },
+        {
+          "url": "https://www.vangoghmuseum.nl/en/visit/whats-on/exhibitions/whistler",
+          "itemId": "129"
+        },
+        {
+          "url": "https://groningermuseum.nl/en-GB/plan-your-visit",
+          "itemId": "138"
+        },
+        {
+          "url": "https://skissernasmuseum.se/en/visit/",
+          "itemId": "154"
+        },
+        {
+          "url": "https://www.akvarellmuseet.org/en/visit",
+          "itemId": "158"
+        },
+        {
+          "url": "https://boraskonstmuseum.se/english/boras-museum-of-modern-art/visit-the-museum.html",
+          "itemId": "159"
+        },
+        {
+          "url": "https://www.holland.com/global/tourism/getting-around/interests/art-alliantie",
+          "itemId": "network-NL"
+        },
+        {
+          "url": "https://www.centrepompidou.fr/en/centre-pompidou-is-transforming-itself",
+          "itemId": "closure-pompidou"
+        },
+        {
+          "url": "https://kinmuseum.se/en",
+          "itemId": "new-kin"
+        },
+        {
+          "url": "https://konstmuseum.uppsala.se/en",
+          "itemId": "new-uppsala"
+        },
+        {
+          "url": "https://artipelag.se/en/",
+          "itemId": "new-artipelag"
+        },
+        {
+          "url": "https://rodastenkonsthall.se/en/",
+          "itemId": "new-rodasten"
+        },
+        {
+          "url": "https://hallandskonstmuseum.se/en/",
+          "itemId": "new-halland"
+        },
+        {
+          "url": "https://www.domquartier.at/en/",
+          "itemId": "new-domquartier"
+        },
+        {
+          "url": "https://www.belvedere.at/en/visit",
+          "itemId": "new-lowerbelvedere"
+        },
+        {
+          "url": "https://www.holland.com/global/tourism/getting-around/interests/art-alliance-museums",
+          "itemId": "new-nl-network"
+        }
+      ],
+      "formats": {
+        "markdown": true
+      },
+      "sharedParams": {
+        "mainContentOnly": false
+      },
+      "markdownParams": {
+        "includeLinks": true,
+        "includeImages": false
+      },
+      "maxAgeMs": 0
+    }
+  },
+  "tags": [
+    "now-on-display-eu-west-supplement"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "text": "URL: https://www.lndm.lt/wp-content/uploads/2019/05/PDG.jpg\nContent-Type: image/webp\nMethod: image\nNotes: Fetched image binary\n\n---\n\nFetched image content (image/webp).\n[Image: original 1772x812, displayed at 1568x719. Multiply coordinates by 1.13 to map to original image.]",
+  "details": {
+    "kind": "url",
+    "url": "https://www.lndm.lt/pdg/?lang=en",
+    "finalUrl": "https://www.lndm.lt/wp-content/uploads/2019/05/PDG.jpg",
+    "contentType": "image/webp",
+    "method": "image",
+    "truncated": false,
+    "notes": [
+      "Fetched image binary"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.lndm.lt/wp-content/uploads/2019/05/PDG.jpg"
+      }
+    }
+  },
+  "images": "(1 image displayed)"
+}

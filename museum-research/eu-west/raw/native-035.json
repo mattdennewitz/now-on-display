@@ -1,0 +1,18 @@
+{
+  "text": "URL: https://heartmus.dk/en/\nContent-Type: text/html\nMethod: native\n\n---\n\n---\nmeta-author: \"\"\nmeta-description: \"\"\ntitle: HEART\nmeta_omitted: \"antiforgeryHeaderName, antiforgeryToken, keywords, og:description, og:site_name, og:title, og:url, twitter:card, twitter:title, twitter:url, viewport; read the URL with :raw for their values\"\n---\n\n- [Plan your visit](/en/plan-your-visit/)\n- [Exhibitions](/en/exhibitions/)\n- [About HEART](/en/about-heart/)\n  * [Heart Café](/en/about-heart/heart-cafe/)\n  * [HEART Shop](/en/about-heart/heart-shop/)",
+  "details": {
+    "kind": "url",
+    "url": "https://heartmus.dk/en/",
+    "finalUrl": "https://heartmus.dk/en/",
+    "contentType": "text/html",
+    "method": "native",
+    "truncated": false,
+    "notes": [],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://heartmus.dk/en/"
+      }
+    }
+  }
+}

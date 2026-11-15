@@ -1,0 +1,63 @@
+{
+  "id": "batch_5bccae4d97f940c7987f5670ff84ccaf",
+  "status": "completed",
+  "mode": "scrape",
+  "formats": {
+    "html": false,
+    "markdown": true,
+    "screenshot": false,
+    "images": false,
+    "bytes": false,
+    "parse": false,
+    "product": false,
+    "highlights": false,
+    "json": false
+  },
+  "tags": [
+    "art-museums-uk-public-exhibition-institutions"
+  ],
+  "policies": [],
+  "crawl": null,
+  "input": {
+    "reserved": 15,
+    "reserved_is_ceiling": false,
+    "submitted": 15,
+    "duplicates": 0,
+    "invalid": 0
+  },
+  "progress": {
+    "succeeded": 13,
+    "failed": 2,
+    "pending": 0
+  },
+  "credits": {
+    "reserved": 15,
+    "refunded": 0,
+    "ocr_charged": 0,
+    "net": 15
+  },
+  "timing": {
+    "created_at": "2026-11-15T16:14:56.612Z",
+    "started_at": "2026-11-15T16:15:12.454Z",
+    "completed_at": "2026-11-15T16:15:23.494Z"
+  },
+  "page_errors": [
+    {
+      "code": "NOT_FOUND",
+      "count": 2
+    }
+  ],
+  "failure": null,
+  "results": {
+    "expires_at": "2026-11-16T16:16:37.233Z",
+    "files": [
+      {
+        "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_5bccae4d97f940c7987f5670ff84ccaf/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845797&Signature=h7X75onaT8qdC1qseCgJCxbz%2BbZN24jwsc3ao8TLgCrKWHhuaCSqaQHydBUowabiLfgiX4CRk7M0OjLQiWmeHigWfMypJFTZssAKI3VqrgrKqLpPDwxXb49tACILVdaqwAdNhwW4a8kqsa3UgnncfHIXXCbxLrbRvWohOJxbCrNV61mNKBI8b3%2B%2F1zpyNCfjZ5jPMwqsISs0p2vaBMsWuwiHYsih0QPpWd%2Fi38EhKFcAq%2FxtkfUf94ZbI25jDvS%2BeUPWYAzHGR8JCGy3AhLtNspHcoVGZJR3oO9Kbh1oYFAZxRqrEBQOZ59aqI9k%2BIAgcUy0IkXL2N8JvKPml6pQhg%3D%3D",
+        "items": 15,
+        "bytes": 40835
+      }
+    ]
+  },
+  "invalid_urls": [],
+  "request_id": "37c9f945-b5e4-427c-9a70-a7eaa5c7073a"
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "code": "CY",
+    "name": "Hambis Municipal Printmaking Museum",
+    "city": "Nicosia",
+    "url": "https://hambismuseum.cy/"
+  },
+  {
+    "code": "CY",
+    "name": "Costas Argyrou Museum",
+    "city": "Mazotos",
+    "url": "https://costasargyroumuseum.org/"
+  },
+  {
+    "code": "GR",
+    "name": "MOMus — Museum of Contemporary Art",
+    "city": "Thessaloniki",
+    "url": "https://www.momus.gr/en"
+  },
+  {
+    "code": "GR",
+    "name": "MOMus — Thessaloniki Museum of Photography",
+    "city": "Thessaloniki",
+    "url": "https://www.momus.gr/en"
+  },
+  {
+    "code": "GR",
+    "name": "MOMus — Museum Alex Mylona",
+    "city": "Athens",
+    "url": "https://backend.momus.gr/en/museum/museum-alex-mylona"
+  },
+  {
+    "code": "IT",
+    "name": "MAN — Museum of Art of the Province of Nuoro",
+    "city": "Nuoro",
+    "url": "https://www.museoman.it/"
+  },
+  {
+    "code": "IT",
+    "name": "Museo Nivola",
+    "city": "Orani",
+    "url": "https://museonivola.it/en/"
+  },
+  {
+    "code": "ES",
+    "name": "TEA Tenerife Espacio de las Artes",
+    "city": "Santa Cruz de Tenerife",
+    "url": "https://teatenerife.es/"
+  },
+  {
+    "code": "ES",
+    "name": "Es Baluard Museu d'Art Contemporani de Palma",
+    "city": "Palma",
+    "url": "https://www.esbaluard.org/en/"
+  },
+  {
+    "code": "ES",
+    "name": "Centro Atlántico de Arte Moderno",
+    "city": "Las Palmas de Gran Canaria",
+    "url": "https://www.caam.net/"
+  },
+  {
+    "code": "HR",
+    "name": "Mimara Museum",
+    "city": "Zagreb",
+    "url": "https://www.mimara.hr/en/"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "text": "URL: https://varnacityartgallery.com/gostuvashti-izlojbi.html\nContent-Type: unknown\nMethod: failed\nNotes: Failed to fetch URL; Cause: The operation timed out.\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://varnacityartgallery.com/gostuvashti-izlojbi.html",
+    "finalUrl": "https://varnacityartgallery.com/gostuvashti-izlojbi.html",
+    "contentType": "unknown",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL",
+      "Cause: The operation timed out."
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://varnacityartgallery.com/gostuvashti-izlojbi.html"
+      }
+    }
+  }
+}

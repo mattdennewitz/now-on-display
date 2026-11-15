@@ -1,0 +1,73 @@
+{
+  "id": "batch_d4d797650f804db19390f42ce53e10b5",
+  "status": "completed",
+  "mode": "scrape",
+  "formats": {
+    "html": false,
+    "markdown": true,
+    "screenshot": false,
+    "images": false,
+    "bytes": false,
+    "parse": false,
+    "product": false,
+    "highlights": false,
+    "json": false
+  },
+  "tags": [
+    "art-museums-uk-discovery"
+  ],
+  "policies": [],
+  "crawl": null,
+  "input": {
+    "reserved": 106,
+    "reserved_is_ceiling": false,
+    "submitted": 106,
+    "duplicates": 0,
+    "invalid": 0
+  },
+  "progress": {
+    "succeeded": 105,
+    "failed": 1,
+    "pending": 0
+  },
+  "credits": {
+    "reserved": 106,
+    "refunded": 0,
+    "ocr_charged": 0,
+    "net": 106
+  },
+  "timing": {
+    "created_at": "2026-11-15T15:59:35.803Z",
+    "started_at": "2026-11-15T16:01:58.180Z",
+    "completed_at": "2026-11-15T16:03:08.028Z"
+  },
+  "page_errors": [
+    {
+      "code": "NOT_FOUND",
+      "count": 1
+    }
+  ],
+  "failure": null,
+  "results": {
+    "expires_at": "2026-11-16T16:04:52.356Z",
+    "files": [
+      {
+        "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_d4d797650f804db19390f42ce53e10b5/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845092&Signature=FuSwByQjYCGQifgRL30wj5YsRMtrzCCq3A95M3mhcPzutg2X2dHjbmsd%2B%2Fe%2Fg2zXicpRq9dGSBpqv5sFINjfeh7HZhX52iNpl9c8tj1nwTdEbRmFOfUhgFfA6BqtReOayi1XKJrBEBaJ758x%2BT93Eite9mL45sEiiztK4nyNbus5yDKwj95O8rSKhPobX%2FeAkH7whdW5IrT9pFzOpnZwyrJrgWh4yuKUYZNJWppj0CxReBqXJZndoFFLIPWyBRK8ta8BLvC7EE8PwW8FKEW%2FQtvTyxi8bg4pUhqB1XZEz1USYu7%2BJ%2FdJaqYzZgbPINsi9PJQQjaG7ZqbsoGfCdtTDA%3D%3D",
+        "items": 50,
+        "bytes": 95489
+      },
+      {
+        "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_d4d797650f804db19390f42ce53e10b5/output/part-1.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845092&Signature=Vz3kbNbBcF4S3qTVDwUbGtgvOOgA1Tw943YRFRseJOnUkxoODWiFWmL7P9x0lup81PbxnRI4LQYxortZgfLeglJFmaYrZo1oppxWW0XAjxc9yx6XRZ8k9wPDATcWFn6bqpJrgE3KPyzSW5w4Yn54%2FuQWdFaurBqcXTkc3cWcMUFQwqdhtR%2FnDUIychrbO%2FB73UJmdHlVRW0uy9C0ziIq9g0TIz%2BX08zJo8T7ZdqtDnzUTZpj0EyWzJfYbeSQ7wS92MseIx2JB9tJhSpKiAGnXsNCtTG%2Ft5bWggsqq3Dylkm%2BWtFstPfwBk79HKTI%2BR9%2B76RMgzBnDXwilLlq6ZlFHw%3D%3D",
+        "items": 50,
+        "bytes": 82825
+      },
+      {
+        "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_d4d797650f804db19390f42ce53e10b5/output/part-2.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845092&Signature=nhlF3CvpaXwxY1oip4yr1iAOc36g6j2glxzxvCAlX22SfMBeeObRAJHvC1LMuo7Xvpmaw8pVuaTZDJwEMmlwHAdJzUBGnCgNLUTd9Wkd6cFM%2F79sKrSWOie1ZBHZvi7hwad4kDPbs1LB7VWJ%2B0imy%2BPIN4gF9tzWGoKfIWUluIVYr3Hjk%2Bwwe4xZM0d%2FOaiYIxIwEuEYy2gN1AI6m%2F5fF84ifF4xm9%2BW6gawviQ2lr0kxR9sFv2mZHt8Knxq8rSh9REwbEGA78dkLKzz3uvY28V23F5nvIwqBYl4kMRlQGDUJN9nsFWHllJunVJt%2FfmT1MD%2FK%2B8En1JaFviJ0wJ5gA%3D%3D",
+        "items": 6,
+        "bytes": 11061
+      }
+    ]
+  },
+  "invalid_urls": [],
+  "request_id": "e3bd26fd-3d53-47f1-b683-37a052e90583"
+}

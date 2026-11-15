@@ -1,0 +1,21 @@
+{
+  "text": "URL: https://www.casadashistoriaspaularego.com/en/\nContent-Type: unknown\nMethod: failed\nNotes: Failed to fetch URL; Cause: ERR_TLS_CERT_ALTNAME_INVALID fetching \"https://www.casadashistoriaspaularego.com/en/\". For more information, pass `verbose: true` in the second argument to fetch()\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://www.casadashistoriaspaularego.com/en/",
+    "finalUrl": "https://www.casadashistoriaspaularego.com/en/",
+    "contentType": "unknown",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL",
+      "Cause: ERR_TLS_CERT_ALTNAME_INVALID fetching \"https://www.casadashistoriaspaularego.com/en/\". For more information, pass `verbose: true` in the second argument to fetch()"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.casadashistoriaspaularego.com/en/"
+      }
+    }
+  }
+}

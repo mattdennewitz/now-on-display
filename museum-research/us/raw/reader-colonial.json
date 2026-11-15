@@ -1,0 +1,21 @@
+{
+  "text": "URL: https://www.colonialwilliamsburg.org/discover/historic-area/art-museums-of-colonial-williamsburg/\nContent-Type: text/html\nMethod: failed\nNotes: Failed to fetch URL (HTTP 403); Blocked by bot protection (Cloudflare)\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://www.colonialwilliamsburg.org/discover/historic-area/art-museums-of-colonial-williamsburg/",
+    "finalUrl": "https://www.colonialwilliamsburg.org/discover/historic-area/art-museums-of-colonial-williamsburg/",
+    "contentType": "text/html",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL (HTTP 403)",
+      "Blocked by bot protection (Cloudflare)"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.colonialwilliamsburg.org/discover/historic-area/art-museums-of-colonial-williamsburg/"
+      }
+    }
+  }
+}

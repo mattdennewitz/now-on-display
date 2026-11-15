@@ -1,0 +1,86 @@
+{
+  "text": "{\"id\":\"batch_f5c22466d8bf40cb821e00263ebb1910\",\"status\":\"completed\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-us-additions\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":81,\"reserved_is_ceiling\":false,\"submitted\":81,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":80,\"failed\":1,\"pending\":0},\"credits\":{\"reserved\":81,\"refunded\":1,\"ocr_charged\":0,\"net\":80},\"timing\":{\"created_at\":\"2026-11-15T15:58:00.421Z\",\"started_at\":\"2026-11-15T15:58:23.670Z\",\"completed_at\":\"2026-11-15T16:01:32.035Z\"},\"page_errors\":[{\"code\":\"REQUEST_TIMEOUT\",\"count\":1}],\"failure\":null,\"results\":{\"expires_at\":\"2026-11-16T16:04:20.522Z\",\"files\":[{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_f5c22466d8bf40cb821e00263ebb1910/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845060&Signature=Tzrd3kGj2YXnOPsd4lUZeV07MKhyjB%2BymZBLKWDRHkMV21obmc9nA%2BQMxFiY9f%2FCGXzFpkXvhx7dVdeR0V3LxOAqp%2FtNrlfiw3MH6vOIknCYA1Mk2ro7lAIx%2FHzI7%2FJRSfBOnp6bqFZmCYY%2Bz2Po60Fa03gL1U69jOWf9xq0rC3%2BDLFJnzRFzL0oVOyiOACQi0z9ZGqHKmG34rQMAIUHxGMxDZB2qB9yH%2BoRLfEKf2N8fHaUJnV1J8pBxXK4ig5jqNudvngRQ4bIw3vwwkuVfn%2BUz7lJyeLcuoGxLoKXF8jWj0C9N3YBWWMFn%2FoFpDO17CJ5hcoO3eqWfVwEEjNYcQ%3D%3D\",\"items\":50,\"bytes\":218986},{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_f5c22466d8bf40cb821e00263ebb1910/output/part-1.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845060&Signature=Cv%2F38bynDBWXMe4%2BG%2FhN7%2BrmBN3Z4%2BIRRG%2FwdtPPD8snsv9GMmWRkIlZ%2BB%2Bm62gN%2FrnZNr8Fzw4bVrk%2BLej31jNr1yCEIIXNHioBfPNI22TZgPmBunGuJo7clS3fcZXBOhg2ACqrW3gurr7p3iy59TdHpuDbK72rMA5tu%2Btm%2BChLbUjgPi9yepY7WvG5Ypx5vA9er8QVz3b%2FVDQ%2BMVXIE2wLE55npYNJtHJLa%2FcQa1NWv155xiwhSDh5B%2Bc4WExMmLHF2%2Fkotcap0FJdujBjE6ah63tps1cNNJsnaLX7reZuaTQiaApgf%2F1vC5v4ApRPIRAj4FcGdyaJGARQG4%2BlDA%3D%3D\",\"items\":31,\"bytes\":96417}]},\"invalid_urls\":[],\"request_id\":\"7f820185-1a44-44f4-9488-bf1060d5631f\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "get-batch",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"id\":\"batch_f5c22466d8bf40cb821e00263ebb1910\",\"status\":\"completed\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-us-additions\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":81,\"reserved_is_ceiling\":false,\"submitted\":81,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":80,\"failed\":1,\"pending\":0},\"credits\":{\"reserved\":81,\"refunded\":1,\"ocr_charged\":0,\"net\":80},\"timing\":{\"created_at\":\"2026-11-15T15:58:00.421Z\",\"started_at\":\"2026-11-15T15:58:23.670Z\",\"completed_at\":\"2026-11-15T16:01:32.035Z\"},\"page_errors\":[{\"code\":\"REQUEST_TIMEOUT\",\"count\":1}],\"failure\":null,\"results\":{\"expires_at\":\"2026-11-16T16:04:20.522Z\",\"files\":[{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_f5c22466d8bf40cb821e00263ebb1910/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845060&Signature=Tzrd3kGj2YXnOPsd4lUZeV07MKhyjB%2BymZBLKWDRHkMV21obmc9nA%2BQMxFiY9f%2FCGXzFpkXvhx7dVdeR0V3LxOAqp%2FtNrlfiw3MH6vOIknCYA1Mk2ro7lAIx%2FHzI7%2FJRSfBOnp6bqFZmCYY%2Bz2Po60Fa03gL1U69jOWf9xq0rC3%2BDLFJnzRFzL0oVOyiOACQi0z9ZGqHKmG34rQMAIUHxGMxDZB2qB9yH%2BoRLfEKf2N8fHaUJnV1J8pBxXK4ig5jqNudvngRQ4bIw3vwwkuVfn%2BUz7lJyeLcuoGxLoKXF8jWj0C9N3YBWWMFn%2FoFpDO17CJ5hcoO3eqWfVwEEjNYcQ%3D%3D\",\"items\":50,\"bytes\":218986},{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_f5c22466d8bf40cb821e00263ebb1910/output/part-1.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845060&Signature=Cv%2F38bynDBWXMe4%2BG%2FhN7%2BrmBN3Z4%2BIRRG%2FwdtPPD8snsv9GMmWRkIlZ%2BB%2Bm62gN%2FrnZNr8Fzw4bVrk%2BLej31jNr1yCEIIXNHioBfPNI22TZgPmBunGuJo7clS3fcZXBOhg2ACqrW3gurr7p3iy59TdHpuDbK72rMA5tu%2Btm%2BChLbUjgPi9yepY7WvG5Ypx5vA9er8QVz3b%2FVDQ%2BMVXIE2wLE55npYNJtHJLa%2FcQa1NWv155xiwhSDh5B%2Bc4WExMmLHF2%2Fkotcap0FJdujBjE6ah63tps1cNNJsnaLX7reZuaTQiaApgf%2F1vC5v4ApRPIRAj4FcGdyaJGARQG4%2BlDA%3D%3D\",\"items\":31,\"bytes\":96417}]},\"invalid_urls\":[],\"request_id\":\"7f820185-1a44-44f4-9488-bf1060d5631f\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "id": "batch_f5c22466d8bf40cb821e00263ebb1910",
+      "status": "completed",
+      "mode": "scrape",
+      "formats": {
+        "html": false,
+        "markdown": true,
+        "screenshot": false,
+        "images": false,
+        "bytes": false,
+        "parse": false,
+        "product": false,
+        "highlights": false,
+        "json": false
+      },
+      "tags": [
+        "now-on-display-us-additions"
+      ],
+      "policies": [],
+      "crawl": null,
+      "input": {
+        "reserved": 81,
+        "reserved_is_ceiling": false,
+        "submitted": 81,
+        "duplicates": 0,
+        "invalid": 0
+      },
+      "progress": {
+        "succeeded": 80,
+        "failed": 1,
+        "pending": 0
+      },
+      "credits": {
+        "reserved": 81,
+        "refunded": 1,
+        "ocr_charged": 0,
+        "net": 80
+      },
+      "timing": {
+        "created_at": "2026-11-15T15:58:00.421Z",
+        "started_at": "2026-11-15T15:58:23.670Z",
+        "completed_at": "2026-11-15T16:01:32.035Z"
+      },
+      "page_errors": [
+        {
+          "code": "REQUEST_TIMEOUT",
+          "count": 1
+        }
+      ],
+      "failure": null,
+      "results": {
+        "expires_at": "2026-11-16T16:04:20.522Z",
+        "files": [
+          {
+            "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_f5c22466d8bf40cb821e00263ebb1910/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845060&Signature=Tzrd3kGj2YXnOPsd4lUZeV07MKhyjB%2BymZBLKWDRHkMV21obmc9nA%2BQMxFiY9f%2FCGXzFpkXvhx7dVdeR0V3LxOAqp%2FtNrlfiw3MH6vOIknCYA1Mk2ro7lAIx%2FHzI7%2FJRSfBOnp6bqFZmCYY%2Bz2Po60Fa03gL1U69jOWf9xq0rC3%2BDLFJnzRFzL0oVOyiOACQi0z9ZGqHKmG34rQMAIUHxGMxDZB2qB9yH%2BoRLfEKf2N8fHaUJnV1J8pBxXK4ig5jqNudvngRQ4bIw3vwwkuVfn%2BUz7lJyeLcuoGxLoKXF8jWj0C9N3YBWWMFn%2FoFpDO17CJ5hcoO3eqWfVwEEjNYcQ%3D%3D",
+            "items": 50,
+            "bytes": 218986
+          },
+          {
+            "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_f5c22466d8bf40cb821e00263ebb1910/output/part-1.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845060&Signature=Cv%2F38bynDBWXMe4%2BG%2FhN7%2BrmBN3Z4%2BIRRG%2FwdtPPD8snsv9GMmWRkIlZ%2BB%2Bm62gN%2FrnZNr8Fzw4bVrk%2BLej31jNr1yCEIIXNHioBfPNI22TZgPmBunGuJo7clS3fcZXBOhg2ACqrW3gurr7p3iy59TdHpuDbK72rMA5tu%2Btm%2BChLbUjgPi9yepY7WvG5Ypx5vA9er8QVz3b%2FVDQ%2BMVXIE2wLE55npYNJtHJLa%2FcQa1NWv155xiwhSDh5B%2Bc4WExMmLHF2%2Fkotcap0FJdujBjE6ah63tps1cNNJsnaLX7reZuaTQiaApgf%2F1vC5v4ApRPIRAj4FcGdyaJGARQG4%2BlDA%3D%3D",
+            "items": 31,
+            "bytes": 96417
+          }
+        ]
+      },
+      "invalid_urls": [],
+      "request_id": "7f820185-1a44-44f4-9488-bf1060d5631f"
+    }
+  }
+}

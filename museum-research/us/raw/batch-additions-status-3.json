@@ -1,0 +1,67 @@
+{
+  "text": "{\"id\":\"batch_f5c22466d8bf40cb821e00263ebb1910\",\"status\":\"running\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-us-additions\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":81,\"reserved_is_ceiling\":false,\"submitted\":81,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":31,\"failed\":0,\"pending\":50},\"credits\":{\"reserved\":81,\"refunded\":0,\"ocr_charged\":0,\"net\":81},\"timing\":{\"created_at\":\"2026-11-15T15:58:00.421Z\",\"started_at\":\"2026-11-15T15:58:23.670Z\",\"completed_at\":null},\"page_errors\":[],\"failure\":null,\"results\":null,\"invalid_urls\":[],\"request_id\":\"9590c409-0559-45bc-a47e-c683cde68a7b\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "get-batch",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"id\":\"batch_f5c22466d8bf40cb821e00263ebb1910\",\"status\":\"running\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-us-additions\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":81,\"reserved_is_ceiling\":false,\"submitted\":81,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":31,\"failed\":0,\"pending\":50},\"credits\":{\"reserved\":81,\"refunded\":0,\"ocr_charged\":0,\"net\":81},\"timing\":{\"created_at\":\"2026-11-15T15:58:00.421Z\",\"started_at\":\"2026-11-15T15:58:23.670Z\",\"completed_at\":null},\"page_errors\":[],\"failure\":null,\"results\":null,\"invalid_urls\":[],\"request_id\":\"9590c409-0559-45bc-a47e-c683cde68a7b\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "id": "batch_f5c22466d8bf40cb821e00263ebb1910",
+      "status": "running",
+      "mode": "scrape",
+      "formats": {
+        "html": false,
+        "markdown": true,
+        "screenshot": false,
+        "images": false,
+        "bytes": false,
+        "parse": false,
+        "product": false,
+        "highlights": false,
+        "json": false
+      },
+      "tags": [
+        "now-on-display-us-additions"
+      ],
+      "policies": [],
+      "crawl": null,
+      "input": {
+        "reserved": 81,
+        "reserved_is_ceiling": false,
+        "submitted": 81,
+        "duplicates": 0,
+        "invalid": 0
+      },
+      "progress": {
+        "succeeded": 31,
+        "failed": 0,
+        "pending": 50
+      },
+      "credits": {
+        "reserved": 81,
+        "refunded": 0,
+        "ocr_charged": 0,
+        "net": 81
+      },
+      "timing": {
+        "created_at": "2026-11-15T15:58:00.421Z",
+        "started_at": "2026-11-15T15:58:23.670Z",
+        "completed_at": null
+      },
+      "page_errors": [],
+      "failure": null,
+      "results": null,
+      "invalid_urls": [],
+      "request_id": "9590c409-0559-45bc-a47e-c683cde68a7b"
+    }
+  }
+}

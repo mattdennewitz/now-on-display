@@ -1,0 +1,58 @@
+{
+  "id": "batch_5f84f4d124fa463dadfc59bdf55dcc76",
+  "status": "completed",
+  "mode": "scrape",
+  "formats": {
+    "html": false,
+    "markdown": true,
+    "screenshot": false,
+    "images": false,
+    "bytes": false,
+    "parse": false,
+    "product": false,
+    "highlights": false,
+    "json": false
+  },
+  "tags": [
+    "art-museums-uk-resolved-links"
+  ],
+  "policies": [],
+  "crawl": null,
+  "input": {
+    "reserved": 5,
+    "reserved_is_ceiling": false,
+    "submitted": 5,
+    "duplicates": 0,
+    "invalid": 0
+  },
+  "progress": {
+    "succeeded": 5,
+    "failed": 0,
+    "pending": 0
+  },
+  "credits": {
+    "reserved": 5,
+    "refunded": 0,
+    "ocr_charged": 0,
+    "net": 5
+  },
+  "timing": {
+    "created_at": "2026-11-15T16:21:01.271Z",
+    "started_at": "2026-11-15T16:21:02.866Z",
+    "completed_at": "2026-11-15T16:21:05.672Z"
+  },
+  "page_errors": [],
+  "failure": null,
+  "results": {
+    "expires_at": "2026-11-16T16:23:43.436Z",
+    "files": [
+      {
+        "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_5f84f4d124fa463dadfc59bdf55dcc76/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794846223&Signature=eP9uoYeVkIdGwjXTksyJA90hfg2zYiYD1Gbdd8c2bgfJUx%2FimyisE0BB9s9TQxBvPkC04Aj%2F2EKQy%2BclfioOvnqHlui3q8uR28a98TQc7HTjN02ImJVSz6wA5MxjnlHBA91gvIPXohU71B5Zg2bCmCKr2EDSIoFxJYIv%2BiQBZzMBikouSCrnPSTxlRTbuQ7HeBR5JI0UmNmcysoHMmAMahBLZ2E%2FjesGRdVyxzxWkHskI6hMtbQ5sYVaHOoLfQ8Yj2OXU6t0bOzM%2B5pZV5ZtYdRaeXya%2Bytnrm%2FUViCoX%2Bup1WpDoRRizNwSRWfBjwJhD34%2BcBV1YO%2Bs6b16Gp3D0Q%3D%3D",
+        "items": 5,
+        "bytes": 21881
+      }
+    ]
+  },
+  "invalid_urls": [],
+  "request_id": "36cfa600-ac50-4947-af4d-0f651c87b75d"
+}

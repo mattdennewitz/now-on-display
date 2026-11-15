@@ -1,0 +1,20 @@
+{
+  "text": "URL: https://www.kunstsammlung.de/en/k21\nContent-Type: text/html\nMethod: failed\nNotes: Failed to fetch URL (HTTP 404)\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://www.kunstsammlung.de/en/k21",
+    "finalUrl": "https://www.kunstsammlung.de/en/k21",
+    "contentType": "text/html",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL (HTTP 404)"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.kunstsammlung.de/en/k21"
+      }
+    }
+  }
+}

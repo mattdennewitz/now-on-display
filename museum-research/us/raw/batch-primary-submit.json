@@ -1,0 +1,55 @@
+{
+  "text": "{\"id\":\"batch_322ed38ab7cb428280875dc6a2e54a7b\",\"status\":\"pending\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-us-museums\"],\"crawl\":null,\"input\":{\"reserved\":0,\"reserved_is_ceiling\":false,\"submitted\":198,\"duplicates\":0,\"invalid\":0},\"credits\":{\"reserved\":0},\"created_at\":\"2026-11-15T15:57:01.918Z\",\"invalid_urls\":[],\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"1fc9c21c-7f40-4b06-9e87-c9adff28fc05\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "submit-batch",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"id\":\"batch_322ed38ab7cb428280875dc6a2e54a7b\",\"status\":\"pending\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-us-museums\"],\"crawl\":null,\"input\":{\"reserved\":0,\"reserved_is_ceiling\":false,\"submitted\":198,\"duplicates\":0,\"invalid\":0},\"credits\":{\"reserved\":0},\"created_at\":\"2026-11-15T15:57:01.918Z\",\"invalid_urls\":[],\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"1fc9c21c-7f40-4b06-9e87-c9adff28fc05\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "id": "batch_322ed38ab7cb428280875dc6a2e54a7b",
+      "status": "pending",
+      "mode": "scrape",
+      "formats": {
+        "html": false,
+        "markdown": true,
+        "screenshot": false,
+        "images": false,
+        "bytes": false,
+        "parse": false,
+        "product": false,
+        "highlights": false,
+        "json": false
+      },
+      "tags": [
+        "now-on-display-us-museums"
+      ],
+      "crawl": null,
+      "input": {
+        "reserved": 0,
+        "reserved_is_ceiling": false,
+        "submitted": 198,
+        "duplicates": 0,
+        "invalid": 0
+      },
+      "credits": {
+        "reserved": 0
+      },
+      "created_at": "2026-11-15T15:57:01.918Z",
+      "invalid_urls": [],
+      "cache_metadata": {
+        "status": "miss",
+        "age_ms": 0
+      },
+      "request_id": "1fc9c21c-7f40-4b06-9e87-c9adff28fc05"
+    }
+  }
+}

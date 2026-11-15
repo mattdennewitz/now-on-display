@@ -1,0 +1,92 @@
+{
+  "text": "{\"results\":[{\"url\":\"https://sloma.org/exhibition/permanent-collection-2026/\",\"title\":\"Vista: Selections from SLOMA's Permanent Collection - SLOMA\",\"description\":\"It is an important moment: the last exhibition of its kind in our current home at 1010 Broad Street before SLOMA expands into its new home on Higuera Street, opening in summer 2027.\",\"relevance\":\"high\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"It is an important moment: the last exhibition of its kind in our current home at 1010 Broad Street before SLOMA expands into its new home on Higuera Street, opening in summer 2027.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://sloma.org/exhibits/public-art/\",\"title\":\"Public Art - SLOMA\",\"description\":\"Location: SLOMA\u2019s sculpture lawn at 1010 Broad Street Exhibition Dates: January 2026\u20132027\",\"relevance\":\"high\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Location: SLOMA\u2019s sculpture lawn at 1010 Broad Street Exhibition Dates: January 2026\u20132027\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://sloma.org/visit/\",\"title\":\"Visit - SLOMA\",\"description\":\"Installation Closure: SLOMA will be closed for the installation of Vista: Selections from the Permanent Collection from October 18\u201323, 2026. The exhibition opens to the public October 24 at 11 AM. Admission: The museum is FREE for all visitors.\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Installation Closure: SLOMA will be closed for the installation of Vista: Selections from the Permanent Collection from October 18\u201323, 2026. The exhibition opens to the public October 24 at 11 AM. Admission: The museum is FREE for all visitors.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://sloma.org/author/erica-ellis/\",\"title\":\"Erica Ellis, Author at SLOMA\",\"description\":\"by Erica Ellis October 8, 2026 in Upcoming Museum Circle Event Comments are Disabled \u00b7 SLOMA members and guests are invited to tour our newest exhibition early\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"by Erica Ellis October 8, 2026 in Upcoming Museum Circle Event Comments are Disabled \u00b7 SLOMA members and guests are invited to tour our newest exhibition early\"],\"code\":\"SUCCESS\"}}],\"query\":\"site:sloma.org 2026 Vista exhibition visit 1010 Broad\",\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"71aa83ed-6eff-4b9a-98cf-f4a13a7c1f1e\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "web-search",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"results\":[{\"url\":\"https://sloma.org/exhibition/permanent-collection-2026/\",\"title\":\"Vista: Selections from SLOMA's Permanent Collection - SLOMA\",\"description\":\"It is an important moment: the last exhibition of its kind in our current home at 1010 Broad Street before SLOMA expands into its new home on Higuera Street, opening in summer 2027.\",\"relevance\":\"high\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"It is an important moment: the last exhibition of its kind in our current home at 1010 Broad Street before SLOMA expands into its new home on Higuera Street, opening in summer 2027.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://sloma.org/exhibits/public-art/\",\"title\":\"Public Art - SLOMA\",\"description\":\"Location: SLOMA\u2019s sculpture lawn at 1010 Broad Street Exhibition Dates: January 2026\u20132027\",\"relevance\":\"high\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Location: SLOMA\u2019s sculpture lawn at 1010 Broad Street Exhibition Dates: January 2026\u20132027\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://sloma.org/visit/\",\"title\":\"Visit - SLOMA\",\"description\":\"Installation Closure: SLOMA will be closed for the installation of Vista: Selections from the Permanent Collection from October 18\u201323, 2026. The exhibition opens to the public October 24 at 11 AM. Admission: The museum is FREE for all visitors.\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Installation Closure: SLOMA will be closed for the installation of Vista: Selections from the Permanent Collection from October 18\u201323, 2026. The exhibition opens to the public October 24 at 11 AM. Admission: The museum is FREE for all visitors.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://sloma.org/author/erica-ellis/\",\"title\":\"Erica Ellis, Author at SLOMA\",\"description\":\"by Erica Ellis October 8, 2026 in Upcoming Museum Circle Event Comments are Disabled \u00b7 SLOMA members and guests are invited to tour our newest exhibition early\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"by Erica Ellis October 8, 2026 in Upcoming Museum Circle Event Comments are Disabled \u00b7 SLOMA members and guests are invited to tour our newest exhibition early\"],\"code\":\"SUCCESS\"}}],\"query\":\"site:sloma.org 2026 Vista exhibition visit 1010 Broad\",\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"71aa83ed-6eff-4b9a-98cf-f4a13a7c1f1e\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "results": [
+        {
+          "url": "https://sloma.org/exhibition/permanent-collection-2026/",
+          "title": "Vista: Selections from SLOMA's Permanent Collection - SLOMA",
+          "description": "It is an important moment: the last exhibition of its kind in our current home at 1010 Broad Street before SLOMA expands into its new home on Higuera Street, opening in summer 2027.",
+          "relevance": "high",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "It is an important moment: the last exhibition of its kind in our current home at 1010 Broad Street before SLOMA expands into its new home on Higuera Street, opening in summer 2027."
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://sloma.org/exhibits/public-art/",
+          "title": "Public Art - SLOMA",
+          "description": "Location: SLOMA\u2019s sculpture lawn at 1010 Broad Street Exhibition Dates: January 2026\u20132027",
+          "relevance": "high",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "Location: SLOMA\u2019s sculpture lawn at 1010 Broad Street Exhibition Dates: January 2026\u20132027"
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://sloma.org/visit/",
+          "title": "Visit - SLOMA",
+          "description": "Installation Closure: SLOMA will be closed for the installation of Vista: Selections from the Permanent Collection from October 18\u201323, 2026. The exhibition opens to the public October 24 at 11 AM. Admission: The museum is FREE for all visitors.",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "Installation Closure: SLOMA will be closed for the installation of Vista: Selections from the Permanent Collection from October 18\u201323, 2026. The exhibition opens to the public October 24 at 11 AM. Admission: The museum is FREE for all visitors."
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://sloma.org/author/erica-ellis/",
+          "title": "Erica Ellis, Author at SLOMA",
+          "description": "by Erica Ellis October 8, 2026 in Upcoming Museum Circle Event Comments are Disabled \u00b7 SLOMA members and guests are invited to tour our newest exhibition early",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "by Erica Ellis October 8, 2026 in Upcoming Museum Circle Event Comments are Disabled \u00b7 SLOMA members and guests are invited to tour our newest exhibition early"
+            ],
+            "code": "SUCCESS"
+          }
+        }
+      ],
+      "query": "site:sloma.org 2026 Vista exhibition visit 1010 Broad",
+      "cache_metadata": {
+        "status": "miss",
+        "age_ms": 0
+      },
+      "request_id": "71aa83ed-6eff-4b9a-98cf-f4a13a7c1f1e"
+    }
+  }
+}

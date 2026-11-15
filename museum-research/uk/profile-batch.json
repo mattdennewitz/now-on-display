@@ -1,0 +1,37 @@
+{
+  "id": "batch_d4d797650f804db19390f42ce53e10b5",
+  "status": "pending",
+  "mode": "scrape",
+  "formats": {
+    "html": false,
+    "markdown": true,
+    "screenshot": false,
+    "images": false,
+    "bytes": false,
+    "parse": false,
+    "product": false,
+    "highlights": false,
+    "json": false
+  },
+  "tags": [
+    "art-museums-uk-discovery"
+  ],
+  "crawl": null,
+  "input": {
+    "reserved": 0,
+    "reserved_is_ceiling": false,
+    "submitted": 106,
+    "duplicates": 0,
+    "invalid": 0
+  },
+  "credits": {
+    "reserved": 0
+  },
+  "created_at": "2026-11-15T15:59:35.803Z",
+  "invalid_urls": [],
+  "cache_metadata": {
+    "status": "miss",
+    "age_ms": 0
+  },
+  "request_id": "38efa318-7534-4085-b366-988a02cd94fa"
+}

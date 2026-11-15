@@ -1,0 +1,17 @@
+{
+  "text": "Error: MCP error -32602: Input validation error: Invalid arguments for tool submit-batch: Unrecognized key: \"options\" at input.data\n\nsubmit-batch takes {\"input\":{\"mode\":\"scrape\",\"data\":{\"urls\":[{\"url\":\"https://example.com\"}],\"formats\":{\"markdown\":true}}}}. Use data.source for crawl; legacy data.format \"markdown\" or \"html\" also works.",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "submit-batch",
+    "isError": true,
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "MCP error -32602: Input validation error: Invalid arguments for tool submit-batch: Unrecognized key: \"options\" at input.data\n\nsubmit-batch takes {\"input\":{\"mode\":\"scrape\",\"data\":{\"urls\":[{\"url\":\"https://example.com\"}],\"formats\":{\"markdown\":true}}}}. Use data.source for crawl; legacy data.format \"markdown\" or \"html\" also works."
+      }
+    ],
+    "provider": "native",
+    "providerName": "OMP"
+  },
+  "hasError": true
+}

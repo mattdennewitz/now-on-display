@@ -1,0 +1,92 @@
+{
+  "text": "{\"results\":[{\"url\":\"https://hirshhorn.si.edu/\",\"title\":\"Hirshhorn Museum and Sculpture Garden | Smithsonian\",\"description\":\"YOSHITOMO NARA: SENTINELS OF STILLNESS ... \u00b7 Exhibitions that respond, reflect, and ask you to ask questionsView more \u00b7 Oct 16, 2026\u2013Mar 14, 2027 \u00b7...\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"YOSHITOMO NARA: SENTINELS OF STILLNESS ... \u00b7 Exhibitions that respond, reflect, and ask you to ask questionsView more \u00b7 Oct 16, 2026\u2013Mar 14, 2027 \u00b7...\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://hirshhorn.si.edu/exhibitions/yoshitomo-nara-sentinels-of-stillness/\",\"title\":\"Yoshitomo Nara: Sentinels of Stillness - Hirshhorn Museum and Sculpture Garden | Smithsonian\",\"description\":\"Globally renowned artist Yoshitomo Nara will inaugurate the Hirshhorn Sculpture Garden\u2019s West Lawn with Sentinels of Stillness. This exhibition of three monumental artworks emphasizes the interplay between the artist\u2019s life experience and sculpture\u2019s premodern foundation: hand-building with clay.\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Globally renowned artist Yoshitomo Nara will inaugurate the Hirshhorn Sculpture Garden\u2019s West Lawn with Sentinels of Stillness. This exhibition of three monumental artworks emphasizes the interplay between the artist\u2019s life experience and sculpture\u2019s premodern foundation: hand-building with clay.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://hirshhorn.si.edu/exhibitions/sculpture-garden-plaza/\",\"title\":\"Sculpture Garden and Plaza - Hirshhorn Museum and Sculpture Garden | Smithsonian\",\"description\":\"The Garden\u2019s West Lawn is a green space dedicated to special presentations and ringed by recent acquisitions from the American artists Raven Halfmoon, Lauren Halsey, and Liz Larner. Yoshitomo Nara: Sentinels of Stillness (Oct. 31, 2026\u2013Nov.\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"The Garden\u2019s West Lawn is a green space dedicated to special presentations and ringed by recent acquisitions from the American artists Raven Halfmoon, Lauren Halsey, and Liz Larner. Yoshitomo Nara: Sentinels of Stillness (Oct. 31, 2026\u2013Nov.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://hirshhorn.si.edu/event/opening-weekend-hirshhorn-sculpture-garden/\",\"title\":\"Opening Weekend: Hirshhorn Sculpture Garden - Hirshhorn Museum and Sculpture Garden | Smithsonian\",\"description\":\"Join us as we celebrate the reopening of the Hirshhorn Sculpture Garden with a full weekend of art, creativity, and conversation. Be among the first to experience Hiroshi Sugimoto\u2019s revitalized Garden, with 60 artworks on view throughout the reimagined space, as well as the inaugural West Lawn exhibition Yoshitomo Nara: Sentinels of Stillness!\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Join us as we celebrate the reopening of the Hirshhorn Sculpture Garden with a full weekend of art, creativity, and conversation. Be among the first to experience Hiroshi Sugimoto\u2019s revitalized Garden, with 60 artworks on view throughout the reimagined space, as well as the inaugural West Lawn exhibition Yoshitomo Nara: Sentinels of Stillness!\"],\"code\":\"SUCCESS\"}}],\"query\":\"site:hirshhorn.si.edu Yoshitomo Nara 2026 museum exhibitions hours Washington\",\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"2ffb056e-e04c-4f2c-8c1c-f7b85b8bbbf6\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "web-search",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"results\":[{\"url\":\"https://hirshhorn.si.edu/\",\"title\":\"Hirshhorn Museum and Sculpture Garden | Smithsonian\",\"description\":\"YOSHITOMO NARA: SENTINELS OF STILLNESS ... \u00b7 Exhibitions that respond, reflect, and ask you to ask questionsView more \u00b7 Oct 16, 2026\u2013Mar 14, 2027 \u00b7...\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"YOSHITOMO NARA: SENTINELS OF STILLNESS ... \u00b7 Exhibitions that respond, reflect, and ask you to ask questionsView more \u00b7 Oct 16, 2026\u2013Mar 14, 2027 \u00b7...\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://hirshhorn.si.edu/exhibitions/yoshitomo-nara-sentinels-of-stillness/\",\"title\":\"Yoshitomo Nara: Sentinels of Stillness - Hirshhorn Museum and Sculpture Garden | Smithsonian\",\"description\":\"Globally renowned artist Yoshitomo Nara will inaugurate the Hirshhorn Sculpture Garden\u2019s West Lawn with Sentinels of Stillness. This exhibition of three monumental artworks emphasizes the interplay between the artist\u2019s life experience and sculpture\u2019s premodern foundation: hand-building with clay.\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Globally renowned artist Yoshitomo Nara will inaugurate the Hirshhorn Sculpture Garden\u2019s West Lawn with Sentinels of Stillness. This exhibition of three monumental artworks emphasizes the interplay between the artist\u2019s life experience and sculpture\u2019s premodern foundation: hand-building with clay.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://hirshhorn.si.edu/exhibitions/sculpture-garden-plaza/\",\"title\":\"Sculpture Garden and Plaza - Hirshhorn Museum and Sculpture Garden | Smithsonian\",\"description\":\"The Garden\u2019s West Lawn is a green space dedicated to special presentations and ringed by recent acquisitions from the American artists Raven Halfmoon, Lauren Halsey, and Liz Larner. Yoshitomo Nara: Sentinels of Stillness (Oct. 31, 2026\u2013Nov.\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"The Garden\u2019s West Lawn is a green space dedicated to special presentations and ringed by recent acquisitions from the American artists Raven Halfmoon, Lauren Halsey, and Liz Larner. Yoshitomo Nara: Sentinels of Stillness (Oct. 31, 2026\u2013Nov.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://hirshhorn.si.edu/event/opening-weekend-hirshhorn-sculpture-garden/\",\"title\":\"Opening Weekend: Hirshhorn Sculpture Garden - Hirshhorn Museum and Sculpture Garden | Smithsonian\",\"description\":\"Join us as we celebrate the reopening of the Hirshhorn Sculpture Garden with a full weekend of art, creativity, and conversation. Be among the first to experience Hiroshi Sugimoto\u2019s revitalized Garden, with 60 artworks on view throughout the reimagined space, as well as the inaugural West Lawn exhibition Yoshitomo Nara: Sentinels of Stillness!\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Join us as we celebrate the reopening of the Hirshhorn Sculpture Garden with a full weekend of art, creativity, and conversation. Be among the first to experience Hiroshi Sugimoto\u2019s revitalized Garden, with 60 artworks on view throughout the reimagined space, as well as the inaugural West Lawn exhibition Yoshitomo Nara: Sentinels of Stillness!\"],\"code\":\"SUCCESS\"}}],\"query\":\"site:hirshhorn.si.edu Yoshitomo Nara 2026 museum exhibitions hours Washington\",\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"2ffb056e-e04c-4f2c-8c1c-f7b85b8bbbf6\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "results": [
+        {
+          "url": "https://hirshhorn.si.edu/",
+          "title": "Hirshhorn Museum and Sculpture Garden | Smithsonian",
+          "description": "YOSHITOMO NARA: SENTINELS OF STILLNESS ... \u00b7 Exhibitions that respond, reflect, and ask you to ask questionsView more \u00b7 Oct 16, 2026\u2013Mar 14, 2027 \u00b7...",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "YOSHITOMO NARA: SENTINELS OF STILLNESS ... \u00b7 Exhibitions that respond, reflect, and ask you to ask questionsView more \u00b7 Oct 16, 2026\u2013Mar 14, 2027 \u00b7..."
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://hirshhorn.si.edu/exhibitions/yoshitomo-nara-sentinels-of-stillness/",
+          "title": "Yoshitomo Nara: Sentinels of Stillness - Hirshhorn Museum and Sculpture Garden | Smithsonian",
+          "description": "Globally renowned artist Yoshitomo Nara will inaugurate the Hirshhorn Sculpture Garden\u2019s West Lawn with Sentinels of Stillness. This exhibition of three monumental artworks emphasizes the interplay between the artist\u2019s life experience and sculpture\u2019s premodern foundation: hand-building with clay.",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "Globally renowned artist Yoshitomo Nara will inaugurate the Hirshhorn Sculpture Garden\u2019s West Lawn with Sentinels of Stillness. This exhibition of three monumental artworks emphasizes the interplay between the artist\u2019s life experience and sculpture\u2019s premodern foundation: hand-building with clay."
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://hirshhorn.si.edu/exhibitions/sculpture-garden-plaza/",
+          "title": "Sculpture Garden and Plaza - Hirshhorn Museum and Sculpture Garden | Smithsonian",
+          "description": "The Garden\u2019s West Lawn is a green space dedicated to special presentations and ringed by recent acquisitions from the American artists Raven Halfmoon, Lauren Halsey, and Liz Larner. Yoshitomo Nara: Sentinels of Stillness (Oct. 31, 2026\u2013Nov.",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "The Garden\u2019s West Lawn is a green space dedicated to special presentations and ringed by recent acquisitions from the American artists Raven Halfmoon, Lauren Halsey, and Liz Larner. Yoshitomo Nara: Sentinels of Stillness (Oct. 31, 2026\u2013Nov."
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://hirshhorn.si.edu/event/opening-weekend-hirshhorn-sculpture-garden/",
+          "title": "Opening Weekend: Hirshhorn Sculpture Garden - Hirshhorn Museum and Sculpture Garden | Smithsonian",
+          "description": "Join us as we celebrate the reopening of the Hirshhorn Sculpture Garden with a full weekend of art, creativity, and conversation. Be among the first to experience Hiroshi Sugimoto\u2019s revitalized Garden, with 60 artworks on view throughout the reimagined space, as well as the inaugural West Lawn exhibition Yoshitomo Nara: Sentinels of Stillness!",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "Join us as we celebrate the reopening of the Hirshhorn Sculpture Garden with a full weekend of art, creativity, and conversation. Be among the first to experience Hiroshi Sugimoto\u2019s revitalized Garden, with 60 artworks on view throughout the reimagined space, as well as the inaugural West Lawn exhibition Yoshitomo Nara: Sentinels of Stillness!"
+            ],
+            "code": "SUCCESS"
+          }
+        }
+      ],
+      "query": "site:hirshhorn.si.edu Yoshitomo Nara 2026 museum exhibitions hours Washington",
+      "cache_metadata": {
+        "status": "miss",
+        "age_ms": 0
+      },
+      "request_id": "2ffb056e-e04c-4f2c-8c1c-f7b85b8bbbf6"
+    }
+  }
+}

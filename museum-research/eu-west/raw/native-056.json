@@ -1,0 +1,21 @@
+{
+  "text": "URL: https://ouluartmuseum.fi/en/\nContent-Type: unknown\nMethod: failed\nNotes: Failed to fetch URL; Cause: getaddrinfo ENOTFOUND ouluartmuseum.fi\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://ouluartmuseum.fi/en/",
+    "finalUrl": "https://ouluartmuseum.fi/en/",
+    "contentType": "unknown",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL",
+      "Cause: getaddrinfo ENOTFOUND ouluartmuseum.fi"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://ouluartmuseum.fi/en/"
+      }
+    }
+  }
+}

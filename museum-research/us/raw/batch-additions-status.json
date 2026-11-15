@@ -1,0 +1,67 @@
+{
+  "text": "{\"id\":\"batch_f5c22466d8bf40cb821e00263ebb1910\",\"status\":\"pending\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-us-additions\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":0,\"reserved_is_ceiling\":false,\"submitted\":81,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":0,\"failed\":0,\"pending\":0},\"credits\":{\"reserved\":0,\"refunded\":0,\"ocr_charged\":0,\"net\":0},\"timing\":{\"created_at\":\"2026-11-15T15:58:00.421Z\",\"started_at\":null,\"completed_at\":null},\"page_errors\":[],\"failure\":null,\"results\":null,\"invalid_urls\":[],\"request_id\":\"f25c0fb6-1217-4810-9774-586b272671d3\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "get-batch",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"id\":\"batch_f5c22466d8bf40cb821e00263ebb1910\",\"status\":\"pending\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-us-additions\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":0,\"reserved_is_ceiling\":false,\"submitted\":81,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":0,\"failed\":0,\"pending\":0},\"credits\":{\"reserved\":0,\"refunded\":0,\"ocr_charged\":0,\"net\":0},\"timing\":{\"created_at\":\"2026-11-15T15:58:00.421Z\",\"started_at\":null,\"completed_at\":null},\"page_errors\":[],\"failure\":null,\"results\":null,\"invalid_urls\":[],\"request_id\":\"f25c0fb6-1217-4810-9774-586b272671d3\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "id": "batch_f5c22466d8bf40cb821e00263ebb1910",
+      "status": "pending",
+      "mode": "scrape",
+      "formats": {
+        "html": false,
+        "markdown": true,
+        "screenshot": false,
+        "images": false,
+        "bytes": false,
+        "parse": false,
+        "product": false,
+        "highlights": false,
+        "json": false
+      },
+      "tags": [
+        "now-on-display-us-additions"
+      ],
+      "policies": [],
+      "crawl": null,
+      "input": {
+        "reserved": 0,
+        "reserved_is_ceiling": false,
+        "submitted": 81,
+        "duplicates": 0,
+        "invalid": 0
+      },
+      "progress": {
+        "succeeded": 0,
+        "failed": 0,
+        "pending": 0
+      },
+      "credits": {
+        "reserved": 0,
+        "refunded": 0,
+        "ocr_charged": 0,
+        "net": 0
+      },
+      "timing": {
+        "created_at": "2026-11-15T15:58:00.421Z",
+        "started_at": null,
+        "completed_at": null
+      },
+      "page_errors": [],
+      "failure": null,
+      "results": null,
+      "invalid_urls": [],
+      "request_id": "f25c0fb6-1217-4810-9774-586b272671d3"
+    }
+  }
+}

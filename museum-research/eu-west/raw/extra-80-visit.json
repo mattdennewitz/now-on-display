@@ -1,0 +1,20 @@
+{
+  "text": "URL: https://www.muma-lehavre.fr/en/visit\nContent-Type: text/html\nMethod: failed\nNotes: Failed to fetch URL (HTTP 404)\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://www.muma-lehavre.fr/en/visit",
+    "finalUrl": "https://www.muma-lehavre.fr/en/visit",
+    "contentType": "text/html",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL (HTTP 404)"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.muma-lehavre.fr/en/visit"
+      }
+    }
+  }
+}

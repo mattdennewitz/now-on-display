@@ -1,0 +1,63 @@
+{
+  "id": "batch_ebc8e758da96489396ef91c62227d2a8",
+  "status": "completed",
+  "mode": "scrape",
+  "formats": {
+    "html": false,
+    "markdown": true,
+    "screenshot": false,
+    "images": false,
+    "bytes": false,
+    "parse": false,
+    "product": false,
+    "highlights": false,
+    "json": false
+  },
+  "tags": [
+    "art-museums-uk-additional-verification"
+  ],
+  "policies": [],
+  "crawl": null,
+  "input": {
+    "reserved": 23,
+    "reserved_is_ceiling": false,
+    "submitted": 23,
+    "duplicates": 0,
+    "invalid": 0
+  },
+  "progress": {
+    "succeeded": 21,
+    "failed": 2,
+    "pending": 0
+  },
+  "credits": {
+    "reserved": 23,
+    "refunded": 0,
+    "ocr_charged": 0,
+    "net": 23
+  },
+  "timing": {
+    "created_at": "2026-11-15T16:11:22.837Z",
+    "started_at": "2026-11-15T16:11:24.347Z",
+    "completed_at": "2026-11-15T16:11:35.677Z"
+  },
+  "page_errors": [
+    {
+      "code": "NOT_FOUND",
+      "count": 2
+    }
+  ],
+  "failure": null,
+  "results": {
+    "expires_at": "2026-11-16T16:14:57.004Z",
+    "files": [
+      {
+        "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_ebc8e758da96489396ef91c62227d2a8/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845697&Signature=XxUuWiF0FS%2FLGclYmy2%2BG7jVbvMpyP7veo8BK02%2Fj8zn9xfRYGFky5yrPnelQe5b0vV3oy39yXkkTU1vIYrJu8lZOXrVbMz4OfQaUc9a1yTBXJvj0krbAq5s678gaiZp0tbtP5gnpshPP1Lw4Ux3Sd8zd7Z8Bsl4ETm0cKnkVG5tLkg0camkRaDGHqJ9ONK1hG0g4b5XVxrWHsJ5BPNp%2BGBf6%2B4fEmqo5ksxMyqxdV%2Fmz3Zj%2BVsFwViKNl9VgAop%2FHx72nmgnU1H4MfGlK%2FJO991mn4xVqrahlOfnxU29RldQZYDTqdhiz1URFq0lW52SIq5qPGzZei1N9FRFvPYNw%3D%3D",
+        "items": 23,
+        "bytes": 80227
+      }
+    ]
+  },
+  "invalid_urls": [],
+  "request_id": "b20e6318-b974-49e3-9d3e-72f04f194358"
+}

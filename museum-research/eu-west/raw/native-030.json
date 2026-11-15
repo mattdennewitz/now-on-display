@@ -1,0 +1,18 @@
+{
+  "text": "URL: https://www.smk.dk/en/\nContent-Type: text/html\nMethod: native\n\n---\n\n---\ncanonical: https://www.smk.dk/en/\nmeta-description: SMK - National Gallery of Denmark is the country’s largest art museum. Located in central Copenhagen.\ntitle: SMK - Statens Museum for Kunst\nmeta_omitted: \"apple-mobile-web-app-capable, apple-mobile-web-app-status-bar-style, apple-mobile-web-app-title, application-name, facebook-domain-verification, og:description, og:image, og:image:alt, og:image:height, og:image:width, og:locale, og:site_name, og:title, og:type, og:url, theme-color, twitter:card, twitter:description, twitter:image, twitter:title, viewport; read the URL with :raw for their values\"\n---",
+  "details": {
+    "kind": "url",
+    "url": "https://www.smk.dk/en/",
+    "finalUrl": "https://www.smk.dk/en/",
+    "contentType": "text/html",
+    "method": "native",
+    "truncated": false,
+    "notes": [],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.smk.dk/en/"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "text": "URL: https://museedartsdenantes.nantesmetropole.fr/en/\nContent-Type: unknown\nMethod: failed\nNotes: Failed to fetch URL; Cause: unable to get local issuer certificate\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://museedartsdenantes.nantesmetropole.fr/en/",
+    "finalUrl": "https://museedartsdenantes.nantesmetropole.fr/en/",
+    "contentType": "unknown",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL",
+      "Cause: unable to get local issuer certificate"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://museedartsdenantes.nantesmetropole.fr/en/"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "checked_at": "2026-11-15",
+  "queries": [
+    {
+      "query": "site:colonialwilliamsburg.org \"Art Museums\" \"hours\"",
+      "sources": [
+        {
+          "url": "https://www.colonialwilliamsburg.org/visit/know-before-you-go/",
+          "excerpt": "The Art Museums of Colonial Williamsburg are open daily from 10:00 a.m. to 5:00 p.m. Located at 301 South Nassau Street, Williamsburg, Virginia."
+        },
+        {
+          "url": "https://www.colonialwilliamsburg.org/discover/historic-area/art-museums-of-colonial-williamsburg/",
+          "excerpt": "Official Art Museums of Colonial Williamsburg venue page."
+        }
+      ]
+    },
+    {
+      "query": "site:michenerartmuseum.org \"hours\" \"2026\"",
+      "sources": [
+        {
+          "url": "https://michenerartmuseum.org/visit/",
+          "excerpt": "Wednesday\u2013Saturday:10:00 a.m.\u20135:00 p.m.; Sunday:12:00\u20135:00 p.m.; Monday and Tuesday closed. 138 South Pine Street, Doylestown, Pennsylvania. Free second Sundays through December13,2026."
+        }
+      ]
+    }
+  ]
+}

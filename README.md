@@ -1,8 +1,8 @@
 # Now on Display
 
-A research directory of commercial, nonprofit, artist-run, and cooperative art galleries in the United States. Research snapshots were collected on **November 15, 2026**.
+A research collection of U.S. commercial, nonprofit, artist-run, and cooperative art galleries, plus art museums in the **United States, European Union member countries, and United Kingdom**. Research snapshots were collected on **November 15, 2026**.
 
-**This is an extensive starting directory, not a nationwide census.** All 50 states, Washington, DC, and Puerto Rico are represented, but coverage within each jurisdiction is uneven. Each organization is assigned one U.S. city; this is not a branch-location inventory.
+**This is an extensive starting collection, not a census.** The original gallery directory represents all 50 U.S. states, Washington, DC, and Puerto Rico, with one U.S. city assigned per organization. The museum extension has its own country-aware schema and records separately named public museum institutions or venues.
 
 ## Start here
 
@@ -10,11 +10,16 @@ A research directory of commercial, nonprofit, artist-run, and cooperative art g
 | --- | --- |
 | [`us-art-galleries.csv`](us-art-galleries.csv) | Main directory: 758 gallery organizations, sorted by footprint tier. |
 | [`us-art-galleries-sources.csv`](us-art-galleries-sources.csv) | 999 gallery-specific evidence records, including source URLs, checked date, and activity evidence. |
+| [`art-museums.csv`](art-museums.csv) | 740 art museums across the U.S., all 27 EU member countries, and UK, with country codes and explicit operating status. |
+| [`art-museums-sources.csv`](art-museums-sources.csv) | 1,378 museum-specific activity, location, identity, and official-website evidence records. |
+| [`museum-research/scope.json`](museum-research/scope.json) | Explicit country allowlist, museum schema, geographic exclusions, and operating-status definitions. |
+| [`museum-research/summary.json`](museum-research/summary.json) | Museum totals, country coverage, operating statuses, and evidence-basis counts. |
+| [`museum-research/`](museum-research/) | Regional museum extracts, evidence, exclusions, and retained raw retrievals. |
 | [`gallery-research/additional-directory-candidates.csv`](gallery-research/additional-directory-candidates.csv) | 61 additional, **unverified** directory candidates from Artnet, Artforum Artguide, and Artsy. These have not been added to the main directory. |
 | [`gallery-research/coverage-findings.json`](gallery-research/coverage-findings.json) | Coverage audit, underrepresented markets, and four confirmed omitted galleries. These omissions are documented but have not yet been merged into the main directory. |
 | [`gallery-research/`](gallery-research/) | All retained research data, intermediate extracts, source responses, and compressed batch exports. |
 
-The main CSV has exactly these columns:
+The original gallery CSV has exactly these columns:
 
 ```csv
 Gallery Name,Size Tier,City & State,Official Website URL
@@ -22,7 +27,7 @@ Gallery Name,Size Tier,City & State,Official Website URL
 
 The website column contains official gallery URLs, not directory-profile URLs. The separate candidate CSV intentionally contains directory-profile URLs and explicit unverified status; do not treat it as an active-gallery directory.
 
-## Footprint tiers
+## Gallery footprint tiers
 
 | Size Tier | Organizations | Classification |
 | --- | ---: | --- |
@@ -32,7 +37,34 @@ The website column contains official gallery URLs, not directory-profile URLs. T
 
 Tiers are qualitative research judgments, not audited measurements of revenue, staffing, floor area, or market share. The main CSV places major multinational galleries first, followed by the remaining tier blocks with principally alphabetical ordering.
 
-## Method and inclusion criteria
+## Museum collection
+
+The museum extension is separate from the gallery files; it does not relabel museums as commercial galleries or apply gallery-market size tiers to them.
+
+```csv
+Museum Name,City,State / Region,Country,Country Code,Official Website URL,Operating Status
+```
+
+Countries use English names and ISO 3166-1 alpha-2 codes, including `US` for the United States and `GB` for the United Kingdom. The allowlist consists of the U.S., the 27 current EU member countries, and the UK. Switzerland, Norway, Iceland, Vatican City, Canada, and Mexico are outside this museum scope. Jersey, Guernsey, the Isle of Man, and British Overseas Territories are not treated as part of the UK.
+
+U.S. regions use state or territory abbreviations; UK regions identify England, Scotland, Wales, or Northern Ireland. EU regions may be blank when not verified. Different museums can legitimately share an official domain, especially national networks, universities, and municipal operators; they are not collapsed by domain alone. Separately named venues are retained without duplicating an indistinguishable umbrella institution.
+
+Included institutions cover fine, modern/contemporary, photography, sculpture, decorative/design, university, and artist-house art museums, plus established noncollecting public art institutions with museum-like exhibition programs. Mixed museums qualify where a substantive public art collection or identifiable art-museum program is supported; history-, archaeology-, science-, and natural-history-only institutions do not qualify.
+
+### Operating status and activity evidence
+
+- **Active**: a current public program, collection-access arrangement, or maintained visitor operation is supported. This is not a claim that the doors are open at every moment.
+- **Active (offsite)**: the normal building is closed, but substantive current public exhibitions or collection displays continue at identified temporary/offsite venues.
+- **Active (seasonal)**: an operating museum has a documented annual closed season and continuing or announced visitor program.
+- **Active (partial opening)**: meaningful public art access continues while a significant portion of the museum is closed.
+- **Active (temporary closure)**: a short, explicitly documented installation/event closure has a stated return to public operation.
+
+Closed buildings without a supported current museum program, permanently closed institutions, and not-yet-open replacements are excluded. Closure dates, temporary locations, seasonal notices, and evidence conflicts belong in the source ledger and regional evidence records; do not use this snapshot as live opening-hours advice.
+
+Evidence distinguishes dated official programs from undated current visiting/collection information and explicitly labeled search-index fallbacks. The regional six-column CSVs retain their extraction schema; the combined root museum CSV adds operating status from their evidence records. The country restriction applies to the curated museum dataset: raw source directories can mention out-of-scope institutions that were not included.
+
+
+## Gallery method and inclusion criteria
 
 1. Discover galleries through dealer associations, regional gallery associations, exhibition guides, fair exhibitor lists, and official sites.
 2. Extract gallery identities, U.S. locations, and official website links.
@@ -45,13 +77,13 @@ Framing businesses are included only where an active fine-art gallery program wa
 
 ### Context.dev skill / tooling provenance
 
-Research was requested using the **Context.dev skill** and was performed with the mounted [Context.dev](https://context.dev/) MCP integration. The tools actually used were:
+The original gallery research was requested using the **Context.dev skill** and was performed with the mounted [Context.dev](https://context.dev/) MCP integration. The museum extension also uses this integration, supplemented by official museum networks, direct public-page reads, and local data processing. The tools actually used were:
 
 - `context/web-search` for discovery and query-relevant source passages;
 - `context/web-scrape` for official sites, directories, Markdown, and structured extraction;
 - `context/submit-batch`, `context/get-batch`, and `context/get-batch-results` for bulk retrieval;
 - `context/get-usage` for credit-budget checks;
-- `context/submit-feedback` to report a transport failure.
+- `context/submit-feedback` to report transport and extraction failures.
 
 Provenance clarification: **no separately installed Context.dev skill package or skill version was available in the session**; the installed-skill listing was empty. The reference to the Context.dev skill records the requested workflow, not a claim that a standalone skill package was installed or executed. Actual extraction used Context.dev's available MCP tools, supplemented by direct public-page reads and local CSV/JSON processing.
 
@@ -71,12 +103,17 @@ No further Context calls are needed to read or analyze the saved files. Fresh ve
 - [Artnet's fine-art gallery directory](https://www.artnet.com/galleries/fine-art/)
 - [Artsy's gallery directory](https://www.artsy.net/galleries)
 - Official gallery sites and additional local sources recorded in the evidence files
+- [Association of Art Museum Directors: members](https://aamd.org/our-members/members)
+- [Art UK: current partner collections](https://artuk.org/for-collections/current-partner-collections)
+- [Art Fund: museum and exhibition discovery](https://www.artfund.org/explore)
+- [European Union: current member countries](https://european-union.europa.eu/principles-countries-history/eu-countries_en)
+- Official museum visit, collection, exhibition, and closure-notice pages recorded in the museum evidence files
 
 Artnet, Artforum, and Artsy were subsequently sampled for additional candidates; they were not exhaustively harvested. Their listings alone do not establish current operation, a permanent U.S. location, or eligibility for the main directory.
 
-## Complete retained data archive
+## Retained gallery research archive
 
-This repository preserves **79 data files**: 61 JSON files, 11 compressed NDJSON exports, five CSV files, and two text captures. Intermediate and duplicate-format captures are intentionally retained rather than discarded during repository packaging.
+The original gallery archive preserves **79 data files**: 61 JSON files, 11 compressed NDJSON exports, five CSV files, and two text captures. Intermediate and duplicate-format captures are intentionally retained rather than discarded during repository packaging. The museum extension is additional and does not change these original files.
 
 ### Curated and intermediate datasets
 
@@ -99,7 +136,14 @@ This repository preserves **79 data files**: 61 JSON files, 11 compressed NDJSON
 
 Raw responses have heterogeneous schemas: some are complete source objects, some wrap tool text, and some preserve documented clipping or loading placeholders. A successful response or present file is not proof that every page field was captured. Prefer the curated CSV and gallery-specific evidence when evaluating an individual entry. Some transient partial wrappers and redundant download copies were removed during research before repository packaging; all retained generated data files are included here.
 
-## Coverage and verification limits
+## Retained museum research archive
+
+`museum-research/us/`, `eu-west/`, `eu-south-east/`, and `uk/` preserve each regional museum CSV, evidence records, exclusions, source extracts, batch submissions/status responses, and compressed retrieval exports. `museum-research/scope.json` documents the country boundary, and `museum-research/summary.json` summarizes the combined museum dataset.
+
+All retained generated museum data are committed, including failed/partial retrieval evidence needed to explain exclusions or verification limits. Expiring batch download links are supplemented by local compressed exports. Museum records were checked for the agreed schema, country/name-code consistency, eligible geography, explicit operating status, duplicate identities, source coverage, and the requested Art Institute of Chicago, Whitney, and MoMA entries.
+
+
+## Gallery coverage and verification limits
 
 - New York state accounts for 43.5% of the main directory. ADAA, NADA, and the NYC exhibition guide supplied 60.2% of row origins.
 - Several states have only one assigned gallery. Some important markets have no assigned rows, even though galleries operate there.
@@ -109,7 +153,7 @@ Raw responses have heterogeneous schemas: some are complete source objects, some
 - Known omissions and new candidates remain separate from the 758-row export. Website changes, renamed businesses, shared domains, and multiple locations require further identity review.
 - No national completeness percentage can be inferred from these files.
 
-The main export was checked for the exact four-column schema, tier ordering, populated fields, HTTP(S) website URLs, exact duplicate rows, all-state representation, and evidence coverage for every row. Those are data-integrity checks, not independent confirmation of every gallery's business status.
+The gallery export was checked for the exact four-column schema, tier ordering, populated fields, HTTP(S) website URLs, exact duplicate rows, all-state representation, and evidence coverage for every row. Those are data-integrity checks, not independent confirmation of every gallery's business status. The museum collection is also evidence-supported rather than exhaustive, and country representation does not establish complete coverage within a country.
 
 ## Reading the data
 

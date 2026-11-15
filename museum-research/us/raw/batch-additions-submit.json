@@ -1,0 +1,55 @@
+{
+  "text": "{\"id\":\"batch_f5c22466d8bf40cb821e00263ebb1910\",\"status\":\"pending\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-us-additions\"],\"crawl\":null,\"input\":{\"reserved\":0,\"reserved_is_ceiling\":false,\"submitted\":81,\"duplicates\":0,\"invalid\":0},\"credits\":{\"reserved\":0},\"created_at\":\"2026-11-15T15:58:00.421Z\",\"invalid_urls\":[],\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"ced74115-5917-4a26-a0d9-beba774e29e2\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "submit-batch",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"id\":\"batch_f5c22466d8bf40cb821e00263ebb1910\",\"status\":\"pending\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-us-additions\"],\"crawl\":null,\"input\":{\"reserved\":0,\"reserved_is_ceiling\":false,\"submitted\":81,\"duplicates\":0,\"invalid\":0},\"credits\":{\"reserved\":0},\"created_at\":\"2026-11-15T15:58:00.421Z\",\"invalid_urls\":[],\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"ced74115-5917-4a26-a0d9-beba774e29e2\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "id": "batch_f5c22466d8bf40cb821e00263ebb1910",
+      "status": "pending",
+      "mode": "scrape",
+      "formats": {
+        "html": false,
+        "markdown": true,
+        "screenshot": false,
+        "images": false,
+        "bytes": false,
+        "parse": false,
+        "product": false,
+        "highlights": false,
+        "json": false
+      },
+      "tags": [
+        "now-on-display-us-additions"
+      ],
+      "crawl": null,
+      "input": {
+        "reserved": 0,
+        "reserved_is_ceiling": false,
+        "submitted": 81,
+        "duplicates": 0,
+        "invalid": 0
+      },
+      "credits": {
+        "reserved": 0
+      },
+      "created_at": "2026-11-15T15:58:00.421Z",
+      "invalid_urls": [],
+      "cache_metadata": {
+        "status": "miss",
+        "age_ms": 0
+      },
+      "request_id": "ced74115-5917-4a26-a0d9-beba774e29e2"
+    }
+  }
+}

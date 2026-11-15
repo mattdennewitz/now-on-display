@@ -1,0 +1,20 @@
+{
+  "text": "URL: https://www.mam.paris.fr/en\nContent-Type: text/html\nMethod: failed\nNotes: Failed to fetch URL (HTTP 503)\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://www.mam.paris.fr/en",
+    "finalUrl": "https://www.mam.paris.fr/en",
+    "contentType": "text/html",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL (HTTP 503)"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.mam.paris.fr/en"
+      }
+    }
+  }
+}

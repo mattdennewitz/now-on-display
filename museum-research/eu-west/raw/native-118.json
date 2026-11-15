@@ -1,0 +1,21 @@
+{
+  "text": "URL: https://www.huntmuseum.com/\nContent-Type: text/html\nMethod: failed\nNotes: Failed to fetch URL (HTTP 403); Blocked by bot protection (Cloudflare)\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://www.huntmuseum.com/",
+    "finalUrl": "https://www.huntmuseum.com/",
+    "contentType": "text/html",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL (HTTP 403)",
+      "Blocked by bot protection (Cloudflare)"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.huntmuseum.com/"
+      }
+    }
+  }
+}

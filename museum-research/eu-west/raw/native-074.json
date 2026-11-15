@@ -1,0 +1,20 @@
+{
+  "text": "URL: https://mbarouen.fr/en/rss.xml\nContent-Type: application/feed\nMethod: alternate-feed\nNotes: Used feed alternate: https://mbarouen.fr/en/rss.xml\n\n---\n\n# Musée des Beaux-Arts",
+  "details": {
+    "kind": "url",
+    "url": "https://mbarouen.fr/en",
+    "finalUrl": "https://mbarouen.fr/en/rss.xml",
+    "contentType": "application/feed",
+    "method": "alternate-feed",
+    "truncated": false,
+    "notes": [
+      "Used feed alternate: https://mbarouen.fr/en/rss.xml"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://mbarouen.fr/en/rss.xml"
+      }
+    }
+  }
+}

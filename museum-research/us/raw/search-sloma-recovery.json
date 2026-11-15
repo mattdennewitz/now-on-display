@@ -1,0 +1,37 @@
+{
+  "text": "## San Luis Obispo Museum of Art \u2014 November 2026\n\n### Exhibition on view\n\n- **_Vista: Selections from SLOMA\u2019s Permanent Collection_**  \n  **October 24, 2026\u2013February 7, 2027**  \n  This is SLOMA\u2019s main gallery exhibition during November, featuring works from the museum\u2019s permanent collection. ([sloma.org](https://sloma.org/?utm_source=openai))\n\n- **Bunnie Reiss: _Bird Watching_**  \n  **2026\u20132028** \u2014 outdoor mural project. ([sloma.org](https://sloma.org/exhibits/current/?utm_source=openai))\n\n- **Bruce Johnson: _Sculpture Jam_**  \n  **January 2026\u20132027** \u2014 public-art installation in San Luis Obispo. ([sloma.org](https://sloma.org/exhibits/current/?utm_source=openai))\n\n### Museum hours\n\n- **Thursday\u2013Monday:** 11 a.m.\u20135 p.m.  \n- **Tuesday\u2013Wednesday:** Closed to the public; reserved school and group tours only  \n- **Admission:** Free  \n- **Address:** 1010 Broad Street, San Luis Obispo, CA 93401 ([sloma.org](https://sloma.org/visit/?utm_source=openai))\n\nSLOMA is scheduled to be **closed on Thanksgiving, Thursday, November 26, 2026**. ([sloma.org](https://sloma.org/visit/?utm_source=openai))\n\n### November programs\n\n- **Weekly docent tour:** Every Saturday at 11 a.m.  \n- **First Friday:** November 6, 5\u20138 p.m., with extended hours and music  \n- **Second Saturday:** November 14, 11 a.m.\u20131 p.m.; the 2026 activity was listed as \u201cTBD\u201d on SLOMA\u2019s calendar. ([sloma.org](https://sloma.org/visit/calendar/?utm_source=openai))\n\n## Sources\n4 sources\n[1] Visit - SLOMA\n    https://sloma.org/visit/\n    up tours only  \n- **Admission:** Free  \n- **Address:** 1010 Broad Street, San Luis Obispo, CA 93401 (sloma.org)\n\nSLOMA is scheduled to be **closed on Thanksgiving, Thursday, November 26, 2026**. ([sloma.org](htt\n[2] San Luis Obispo Museum of Art\n    https://sloma.org/\n    \u2019s main gallery exhibition during November, featuring works from the museum\u2019s permanent collection. (sloma.org)\n\n- **Bunnie Reiss: _Bird Watching_**  \n  **2026\u20132028** \u2014 outdoor mural project. ([sloma.org](https:\n[3] https://sloma.org/exhibits/\n    https://sloma.org/exhibits/\n[4] Current - SLOMA\n    https://sloma.org/exhibits/current/\n    utm_source=openai))\n\n- **Bunnie Reiss: _Bird Watching_**  \n  **2026\u20132028** \u2014 outdoor mural project. (sloma.org)\n\n- **Bruce Johnson: _Sculpture Jam_**  \n  **January 2026\u20132027** \u2014 public-art installation in San Lu",
+  "details": {
+    "response": {
+      "provider": "codex",
+      "answer": "## San Luis Obispo Museum of Art \u2014 November 2026\n\n### Exhibition on view\n\n- **_Vista: Selections from SLOMA\u2019s Permanent Collection_**  \n  **October 24, 2026\u2013February 7, 2027**  \n  This is SLOMA\u2019s main gallery exhibition during November, featuring works from the museum\u2019s permanent collection. ([sloma.org](https://sloma.org/?utm_source=openai))\n\n- **Bunnie Reiss: _Bird Watching_**  \n  **2026\u20132028** \u2014 outdoor mural project. ([sloma.org](https://sloma.org/exhibits/current/?utm_source=openai))\n\n- **Bruce Johnson: _Sculpture Jam_**  \n  **January 2026\u20132027** \u2014 public-art installation in San Luis Obispo. ([sloma.org](https://sloma.org/exhibits/current/?utm_source=openai))\n\n### Museum hours\n\n- **Thursday\u2013Monday:** 11 a.m.\u20135 p.m.  \n- **Tuesday\u2013Wednesday:** Closed to the public; reserved school and group tours only  \n- **Admission:** Free  \n- **Address:** 1010 Broad Street, San Luis Obispo, CA 93401 ([sloma.org](https://sloma.org/visit/?utm_source=openai))\n\nSLOMA is scheduled to be **closed on Thanksgiving, Thursday, November 26, 2026**. ([sloma.org](https://sloma.org/visit/?utm_source=openai))\n\n### November programs\n\n- **Weekly docent tour:** Every Saturday at 11 a.m.  \n- **First Friday:** November 6, 5\u20138 p.m., with extended hours and music  \n- **Second Saturday:** November 14, 11 a.m.\u20131 p.m.; the 2026 activity was listed as \u201cTBD\u201d on SLOMA\u2019s calendar. ([sloma.org](https://sloma.org/visit/calendar/?utm_source=openai))",
+      "sources": [
+        {
+          "title": "Visit - SLOMA",
+          "url": "https://sloma.org/visit/",
+          "snippet": "up tours only  \n- **Admission:** Free  \n- **Address:** 1010 Broad Street, San Luis Obispo, CA 93401 (sloma.org)\n\nSLOMA is scheduled to be **closed on Thanksgiving, Thursday, November 26, 2026**. ([sloma.org](htt"
+        },
+        {
+          "title": "San Luis Obispo Museum of Art",
+          "url": "https://sloma.org/",
+          "snippet": "\u2019s main gallery exhibition during November, featuring works from the museum\u2019s permanent collection. (sloma.org)\n\n- **Bunnie Reiss: _Bird Watching_**  \n  **2026\u20132028** \u2014 outdoor mural project. ([sloma.org](https:"
+        },
+        {
+          "title": "https://sloma.org/exhibits/",
+          "url": "https://sloma.org/exhibits/"
+        },
+        {
+          "title": "Current - SLOMA",
+          "url": "https://sloma.org/exhibits/current/",
+          "snippet": "utm_source=openai))\n\n- **Bunnie Reiss: _Bird Watching_**  \n  **2026\u20132028** \u2014 outdoor mural project. (sloma.org)\n\n- **Bruce Johnson: _Sculpture Jam_**  \n  **January 2026\u20132027** \u2014 public-art installation in San Lu"
+        }
+      ],
+      "usage": {
+        "inputTokens": 8980,
+        "outputTokens": 653,
+        "totalTokens": 13601
+      },
+      "model": "gpt-5.6-luna",
+      "requestId": "resp_000b60b6e59eb3b3016af9da0908c887d2b63c6b50e74a973c"
+    }
+  }
+}

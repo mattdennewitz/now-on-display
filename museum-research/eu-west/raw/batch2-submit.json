@@ -1,0 +1,55 @@
+{
+  "text": "{\"id\":\"batch_0d703254bf16453b843c7cab15c94c3a\",\"status\":\"pending\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-eu-west-supplement\"],\"crawl\":null,\"input\":{\"reserved\":0,\"reserved_is_ceiling\":false,\"submitted\":37,\"duplicates\":0,\"invalid\":0},\"credits\":{\"reserved\":0},\"created_at\":\"2026-11-15T16:07:04.977Z\",\"invalid_urls\":[],\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"1ae7c2e1-84b8-4f76-831c-27f47bf0b951\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "submit-batch",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"id\":\"batch_0d703254bf16453b843c7cab15c94c3a\",\"status\":\"pending\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-eu-west-supplement\"],\"crawl\":null,\"input\":{\"reserved\":0,\"reserved_is_ceiling\":false,\"submitted\":37,\"duplicates\":0,\"invalid\":0},\"credits\":{\"reserved\":0},\"created_at\":\"2026-11-15T16:07:04.977Z\",\"invalid_urls\":[],\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"1ae7c2e1-84b8-4f76-831c-27f47bf0b951\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "id": "batch_0d703254bf16453b843c7cab15c94c3a",
+      "status": "pending",
+      "mode": "scrape",
+      "formats": {
+        "html": false,
+        "markdown": true,
+        "screenshot": false,
+        "images": false,
+        "bytes": false,
+        "parse": false,
+        "product": false,
+        "highlights": false,
+        "json": false
+      },
+      "tags": [
+        "now-on-display-eu-west-supplement"
+      ],
+      "crawl": null,
+      "input": {
+        "reserved": 0,
+        "reserved_is_ceiling": false,
+        "submitted": 37,
+        "duplicates": 0,
+        "invalid": 0
+      },
+      "credits": {
+        "reserved": 0
+      },
+      "created_at": "2026-11-15T16:07:04.977Z",
+      "invalid_urls": [],
+      "cache_metadata": {
+        "status": "miss",
+        "age_ms": 0
+      },
+      "request_id": "1ae7c2e1-84b8-4f76-831c-27f47bf0b951"
+    }
+  }
+}

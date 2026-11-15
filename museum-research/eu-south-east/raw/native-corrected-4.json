@@ -1,0 +1,21 @@
+{
+  "text": "URL: https://www.lndm.lt/wp-content/uploads/2019/06/tdm.png\nContent-Type: image/webp\nMethod: image\nNotes: Fetched image binary\n\n---\n\nFetched image content (image/webp).",
+  "details": {
+    "kind": "url",
+    "url": "https://www.lndm.lt/tdm/?lang=en",
+    "finalUrl": "https://www.lndm.lt/wp-content/uploads/2019/06/tdm.png",
+    "contentType": "image/webp",
+    "method": "image",
+    "truncated": false,
+    "notes": [
+      "Fetched image binary"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.lndm.lt/wp-content/uploads/2019/06/tdm.png"
+      }
+    }
+  },
+  "images": "(1 image displayed)"
+}

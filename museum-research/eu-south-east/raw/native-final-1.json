@@ -1,0 +1,21 @@
+{
+  "text": "URL: https://www.mambo-bologna.org/\nContent-Type: unknown\nMethod: failed\nNotes: Failed to fetch URL; Cause: certificate has expired\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://www.mambo-bologna.org/",
+    "finalUrl": "https://www.mambo-bologna.org/",
+    "contentType": "unknown",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL",
+      "Cause: certificate has expired"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://www.mambo-bologna.org/"
+      }
+    }
+  }
+}

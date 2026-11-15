@@ -1,0 +1,108 @@
+{
+  "text": "{\"results\":[{\"url\":\"https://cultura.gov.it/luogo/museo-man-museo-d-arte-provincia-di-nuoro\",\"title\":\"Museo MAN - Museo d'arte Provincia di Nuoro - Ministero della cultura\",\"description\":\"Il MAN apre al pubblico nel 1999 all’interno di un edificio degli anni Venti, già sede dell’Istituzione provinciale, situato tra le arterie del centro storico di Nuoro. Il primo nucleo della collezione nasce dall’accorpamento di alcune raccolte pubbliche (Provincia, Comune, Ente provinciale per il turismo, Camera di commercio).\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Il MAN apre al pubblico nel 1999 all’interno di un edificio degli anni Venti, già sede dell’Istituzione provinciale, situato tra le arterie del centro storico di Nuoro. Il primo nucleo della collezione nasce dall’accorpamento di alcune raccolte pubbliche (Provincia, Comune, Ente provinciale per il turismo, Camera di commercio).\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://museoman.portaleservizipa.it/ente/uffici\",\"title\":\"Uffici e orari | MAN Museo d'Arte Provincia di Nuoro\",\"description\":\"MAN Museo d'Arte Provincia di Nuoro Sito Istituzionale\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"MAN Museo d'Arte Provincia di Nuoro Sito Istituzionale\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://www.museoman.it/\",\"title\":\"Museo MAN - Museo d'arte provincia di Nuoro\",\"description\":\"Museo MAN: presentando, conservando e promuovendo l'arte moderna a Nuoro e in Sardegna dal 1999.\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Museo MAN: presentando, conservando e promuovendo l'arte moderna a Nuoro e in Sardegna dal 1999.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://museonivola.it/en/about-eng/\",\"title\":\"About eng - Museo Nivola\",\"description\":\"Museo Nivola in Orani, in the province of Nuoro, is dedicated to the life and work of Costantino Nivola (Orani 1911 – East Hampton 1988). Managed by the foundation of the same name, it was established in 1995, just a few years after the artist’s death, with the aim of preserving and promoting ...\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"[About eng - Museo Nivola]\\n\\n< HOME\\n\\n[ABOUT]\\n\\nMuseo Nivola in Orani, in the province of Nuoro, is dedicated to the life and work of Costantino Nivola (Orani 1911 – East Hampton 1988). Managed by the foundation of the same name, it was established in 1995, just a few years after the artist’s death, with the aim of preserving and promoting his research and legacy.\\n\\n…\\n\\nThe building that houses the museum, divided into three main structures arranged along the hillside overlooking the town near the spring of Su Càntaru, was designed by Peter Chermayeff, and later developed over time by Gianfranco Crisci and Alessandro Floris. Conceived both as a monographic museum and as a vibrant laboratory where art, architecture, nature, and landscape engage in harmonious dialogue, it plays a crucial role in the study of Nivola’s work while also serving a civic function through the involvement of local communities in programs that, in keeping with the master’s vision, encourage participation and activate public space.\\n\\nThe permanent collection includes hundreds of sculptures, paintings, drawings, and many examples of the celebrated sandcasts, all bearing witness to every stage of Nivola’s artistic reflection and multidisciplinary experimentation. His work marked an important chapter in modern explorations of the relationship between sculpture, environment, and design practice. Through its ongoing activities, the Museo Nivola supports collective cultural growth and keeps alive the history and memory of the surrounding territory.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://www2.regione.sicilia.it/beniculturali/palazzoabatellis/home.htm\",\"title\":\"Museo Regionale Abatellis - Home Page\",\"description\":\"Stai per essere indirizzato sul sito ufficiale della Regione Siciliana. Se il tuo browser non supporta questa funzionalità, utilizza il seguente link: http://pir.regione.sicilia.it\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Stai per essere indirizzato sul sito ufficiale della Regione Siciliana. Se il tuo browser non supporta questa funzionalità, utilizza il seguente link: http://pir.regione.sicilia.it\"],\"code\":\"SUCCESS\"}}],\"query\":\"Palazzo Abatellis Museo Nivola MAN Nuoro official museum website\",\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"b9fdaa8a-5832-44be-bc92-62a2df5bbe74\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "web-search",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"results\":[{\"url\":\"https://cultura.gov.it/luogo/museo-man-museo-d-arte-provincia-di-nuoro\",\"title\":\"Museo MAN - Museo d'arte Provincia di Nuoro - Ministero della cultura\",\"description\":\"Il MAN apre al pubblico nel 1999 all’interno di un edificio degli anni Venti, già sede dell’Istituzione provinciale, situato tra le arterie del centro storico di Nuoro. Il primo nucleo della collezione nasce dall’accorpamento di alcune raccolte pubbliche (Provincia, Comune, Ente provinciale per il turismo, Camera di commercio).\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Il MAN apre al pubblico nel 1999 all’interno di un edificio degli anni Venti, già sede dell’Istituzione provinciale, situato tra le arterie del centro storico di Nuoro. Il primo nucleo della collezione nasce dall’accorpamento di alcune raccolte pubbliche (Provincia, Comune, Ente provinciale per il turismo, Camera di commercio).\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://museoman.portaleservizipa.it/ente/uffici\",\"title\":\"Uffici e orari | MAN Museo d'Arte Provincia di Nuoro\",\"description\":\"MAN Museo d'Arte Provincia di Nuoro Sito Istituzionale\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"MAN Museo d'Arte Provincia di Nuoro Sito Istituzionale\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://www.museoman.it/\",\"title\":\"Museo MAN - Museo d'arte provincia di Nuoro\",\"description\":\"Museo MAN: presentando, conservando e promuovendo l'arte moderna a Nuoro e in Sardegna dal 1999.\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Museo MAN: presentando, conservando e promuovendo l'arte moderna a Nuoro e in Sardegna dal 1999.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://museonivola.it/en/about-eng/\",\"title\":\"About eng - Museo Nivola\",\"description\":\"Museo Nivola in Orani, in the province of Nuoro, is dedicated to the life and work of Costantino Nivola (Orani 1911 – East Hampton 1988). Managed by the foundation of the same name, it was established in 1995, just a few years after the artist’s death, with the aim of preserving and promoting ...\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"[About eng - Museo Nivola]\\n\\n< HOME\\n\\n[ABOUT]\\n\\nMuseo Nivola in Orani, in the province of Nuoro, is dedicated to the life and work of Costantino Nivola (Orani 1911 – East Hampton 1988). Managed by the foundation of the same name, it was established in 1995, just a few years after the artist’s death, with the aim of preserving and promoting his research and legacy.\\n\\n…\\n\\nThe building that houses the museum, divided into three main structures arranged along the hillside overlooking the town near the spring of Su Càntaru, was designed by Peter Chermayeff, and later developed over time by Gianfranco Crisci and Alessandro Floris. Conceived both as a monographic museum and as a vibrant laboratory where art, architecture, nature, and landscape engage in harmonious dialogue, it plays a crucial role in the study of Nivola’s work while also serving a civic function through the involvement of local communities in programs that, in keeping with the master’s vision, encourage participation and activate public space.\\n\\nThe permanent collection includes hundreds of sculptures, paintings, drawings, and many examples of the celebrated sandcasts, all bearing witness to every stage of Nivola’s artistic reflection and multidisciplinary experimentation. His work marked an important chapter in modern explorations of the relationship between sculpture, environment, and design practice. Through its ongoing activities, the Museo Nivola supports collective cultural growth and keeps alive the history and memory of the surrounding territory.\"],\"code\":\"SUCCESS\"}},{\"url\":\"https://www2.regione.sicilia.it/beniculturali/palazzoabatellis/home.htm\",\"title\":\"Museo Regionale Abatellis - Home Page\",\"description\":\"Stai per essere indirizzato sul sito ufficiale della Regione Siciliana. Se il tuo browser non supporta questa funzionalità, utilizza il seguente link: http://pir.regione.sicilia.it\",\"relevance\":\"medium\",\"markdown\":{\"markdown\":null,\"code\":\"NOT_REQUESTED\"},\"highlights\":{\"highlights\":[\"Stai per essere indirizzato sul sito ufficiale della Regione Siciliana. Se il tuo browser non supporta questa funzionalità, utilizza il seguente link: http://pir.regione.sicilia.it\"],\"code\":\"SUCCESS\"}}],\"query\":\"Palazzo Abatellis Museo Nivola MAN Nuoro official museum website\",\"cache_metadata\":{\"status\":\"miss\",\"age_ms\":0},\"request_id\":\"b9fdaa8a-5832-44be-bc92-62a2df5bbe74\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "results": [
+        {
+          "url": "https://cultura.gov.it/luogo/museo-man-museo-d-arte-provincia-di-nuoro",
+          "title": "Museo MAN - Museo d'arte Provincia di Nuoro - Ministero della cultura",
+          "description": "Il MAN apre al pubblico nel 1999 all’interno di un edificio degli anni Venti, già sede dell’Istituzione provinciale, situato tra le arterie del centro storico di Nuoro. Il primo nucleo della collezione nasce dall’accorpamento di alcune raccolte pubbliche (Provincia, Comune, Ente provinciale per il turismo, Camera di commercio).",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "Il MAN apre al pubblico nel 1999 all’interno di un edificio degli anni Venti, già sede dell’Istituzione provinciale, situato tra le arterie del centro storico di Nuoro. Il primo nucleo della collezione nasce dall’accorpamento di alcune raccolte pubbliche (Provincia, Comune, Ente provinciale per il turismo, Camera di commercio)."
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://museoman.portaleservizipa.it/ente/uffici",
+          "title": "Uffici e orari | MAN Museo d'Arte Provincia di Nuoro",
+          "description": "MAN Museo d'Arte Provincia di Nuoro Sito Istituzionale",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "MAN Museo d'Arte Provincia di Nuoro Sito Istituzionale"
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://www.museoman.it/",
+          "title": "Museo MAN - Museo d'arte provincia di Nuoro",
+          "description": "Museo MAN: presentando, conservando e promuovendo l'arte moderna a Nuoro e in Sardegna dal 1999.",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "Museo MAN: presentando, conservando e promuovendo l'arte moderna a Nuoro e in Sardegna dal 1999."
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://museonivola.it/en/about-eng/",
+          "title": "About eng - Museo Nivola",
+          "description": "Museo Nivola in Orani, in the province of Nuoro, is dedicated to the life and work of Costantino Nivola (Orani 1911 – East Hampton 1988). Managed by the foundation of the same name, it was established in 1995, just a few years after the artist’s death, with the aim of preserving and promoting ...",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "[About eng - Museo Nivola]\n\n< HOME\n\n[ABOUT]\n\nMuseo Nivola in Orani, in the province of Nuoro, is dedicated to the life and work of Costantino Nivola (Orani 1911 – East Hampton 1988). Managed by the foundation of the same name, it was established in 1995, just a few years after the artist’s death, with the aim of preserving and promoting his research and legacy.\n\n…\n\nThe building that houses the museum, divided into three main structures arranged along the hillside overlooking the town near the spring of Su Càntaru, was designed by Peter Chermayeff, and later developed over time by Gianfranco Crisci and Alessandro Floris. Conceived both as a monographic museum and as a vibrant laboratory where art, architecture, nature, and landscape engage in harmonious dialogue, it plays a crucial role in the study of Nivola’s work while also serving a civic function through the involvement of local communities in programs that, in keeping with the master’s vision, encourage participation and activate public space.\n\nThe permanent collection includes hundreds of sculptures, paintings, drawings, and many examples of the celebrated sandcasts, all bearing witness to every stage of Nivola’s artistic reflection and multidisciplinary experimentation. His work marked an important chapter in modern explorations of the relationship between sculpture, environment, and design practice. Through its ongoing activities, the Museo Nivola supports collective cultural growth and keeps alive the history and memory of the surrounding territory."
+            ],
+            "code": "SUCCESS"
+          }
+        },
+        {
+          "url": "https://www2.regione.sicilia.it/beniculturali/palazzoabatellis/home.htm",
+          "title": "Museo Regionale Abatellis - Home Page",
+          "description": "Stai per essere indirizzato sul sito ufficiale della Regione Siciliana. Se il tuo browser non supporta questa funzionalità, utilizza il seguente link: http://pir.regione.sicilia.it",
+          "relevance": "medium",
+          "markdown": {
+            "markdown": null,
+            "code": "NOT_REQUESTED"
+          },
+          "highlights": {
+            "highlights": [
+              "Stai per essere indirizzato sul sito ufficiale della Regione Siciliana. Se il tuo browser non supporta questa funzionalità, utilizza il seguente link: http://pir.regione.sicilia.it"
+            ],
+            "code": "SUCCESS"
+          }
+        }
+      ],
+      "query": "Palazzo Abatellis Museo Nivola MAN Nuoro official museum website",
+      "cache_metadata": {
+        "status": "miss",
+        "age_ms": 0
+      },
+      "request_id": "b9fdaa8a-5832-44be-bc92-62a2df5bbe74"
+    }
+  }
+}

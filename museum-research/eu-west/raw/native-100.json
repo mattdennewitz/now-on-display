@@ -1,0 +1,20 @@
+{
+  "text": "URL: https://von-der-heydt-museum.de/en/\nContent-Type: text/html\nMethod: failed\nNotes: Failed to fetch URL (HTTP 404)\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "https://von-der-heydt-museum.de/en/",
+    "finalUrl": "https://von-der-heydt-museum.de/en/",
+    "contentType": "text/html",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL (HTTP 404)"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "https://von-der-heydt-museum.de/en/"
+      }
+    }
+  }
+}

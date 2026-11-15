@@ -1,0 +1,27 @@
+{
+  "url": "https://artuk.org/visit/venues/the-barber-institute-of-fine-arts-4794",
+  "retrieval_method": "native_read",
+  "checked_at": "2026-11-15",
+  "text": "URL: https://artuk.org/visit/venues/the-barber-institute-of-fine-arts-4794\nContent-Type: text/html\nMethod: failed\nNotes: Failed to fetch URL (HTTP 403); Blocked by bot protection (Cloudflare)\n\n---\n\n",
+  "raw_result": {
+    "text": "URL: https://artuk.org/visit/venues/the-barber-institute-of-fine-arts-4794\nContent-Type: text/html\nMethod: failed\nNotes: Failed to fetch URL (HTTP 403); Blocked by bot protection (Cloudflare)\n\n---\n\n",
+    "details": {
+      "kind": "url",
+      "url": "https://artuk.org/visit/venues/the-barber-institute-of-fine-arts-4794",
+      "finalUrl": "https://artuk.org/visit/venues/the-barber-institute-of-fine-arts-4794",
+      "contentType": "text/html",
+      "method": "failed",
+      "truncated": false,
+      "notes": [
+        "Failed to fetch URL (HTTP 403)",
+        "Blocked by bot protection (Cloudflare)"
+      ],
+      "meta": {
+        "source": {
+          "type": "url",
+          "value": "https://artuk.org/visit/venues/the-barber-institute-of-fine-arts-4794"
+        }
+      }
+    }
+  }
+}

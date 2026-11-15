@@ -1,0 +1,37 @@
+{
+  "id": "batch_81678257fbff43838000665759aae4a1",
+  "status": "pending",
+  "mode": "scrape",
+  "formats": {
+    "html": false,
+    "markdown": true,
+    "screenshot": false,
+    "images": false,
+    "bytes": false,
+    "parse": false,
+    "product": false,
+    "highlights": false,
+    "json": false
+  },
+  "tags": [
+    "art-museums-uk-named-venues"
+  ],
+  "crawl": null,
+  "input": {
+    "reserved": 0,
+    "reserved_is_ceiling": false,
+    "submitted": 36,
+    "duplicates": 0,
+    "invalid": 0
+  },
+  "credits": {
+    "reserved": 0
+  },
+  "created_at": "2026-11-15T16:06:11.979Z",
+  "invalid_urls": [],
+  "cache_metadata": {
+    "status": "miss",
+    "age_ms": 0
+  },
+  "request_id": "3cd9d18a-b002-4958-9f5e-e2acf482ec46"
+}

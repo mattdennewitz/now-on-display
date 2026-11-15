@@ -1,0 +1,81 @@
+{
+  "text": "{\"id\":\"batch_0d703254bf16453b843c7cab15c94c3a\",\"status\":\"completed\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-eu-west-supplement\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":37,\"reserved_is_ceiling\":false,\"submitted\":37,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":36,\"failed\":1,\"pending\":0},\"credits\":{\"reserved\":37,\"refunded\":0,\"ocr_charged\":0,\"net\":37},\"timing\":{\"created_at\":\"2026-11-15T16:07:04.977Z\",\"started_at\":\"2026-11-15T16:07:23.393Z\",\"completed_at\":\"2026-11-15T16:08:23.640Z\"},\"page_errors\":[{\"code\":\"NOT_FOUND\",\"count\":1}],\"failure\":null,\"results\":{\"expires_at\":\"2026-11-16T16:08:25.381Z\",\"files\":[{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_0d703254bf16453b843c7cab15c94c3a/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845305&Signature=QzPli9ZxoMbjwnB6cwhq7LA4aynoIxpqkAOP%2BK23a9DOz8NuPs1jk1bOCYy9g5lI11PzlV4wRiQ4b7qlMiDruzVBqbzd3PcK8htnDyO0TXc18ziRG8QFlzFqVnZE20kRtFlkdQVjRWtbdaxeW03F1svUpLVliZWKywaf3yFkQ7S2e1jPbUEOYoGSz%2FQFtsQTamrG7y3aEfheh4B%2BjLqJFC%2F9nautgfQBE%2BhfS0oqRHy66nbNSBQMJ6E7KFglvVsGpuo%2FEqG9F1yhMJaUKWBd0loHQtQ38GAddqFCojTi8XbQKuryvVUXRU8sE9kv1QXcxJJm%2FxTpN83sO%2FZdF5MV6w%3D%3D\",\"items\":37,\"bytes\":132137}]},\"invalid_urls\":[],\"request_id\":\"fb6b40ac-3e3b-47d5-b612-041295474120\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "get-batch",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"id\":\"batch_0d703254bf16453b843c7cab15c94c3a\",\"status\":\"completed\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-eu-west-supplement\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":37,\"reserved_is_ceiling\":false,\"submitted\":37,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":36,\"failed\":1,\"pending\":0},\"credits\":{\"reserved\":37,\"refunded\":0,\"ocr_charged\":0,\"net\":37},\"timing\":{\"created_at\":\"2026-11-15T16:07:04.977Z\",\"started_at\":\"2026-11-15T16:07:23.393Z\",\"completed_at\":\"2026-11-15T16:08:23.640Z\"},\"page_errors\":[{\"code\":\"NOT_FOUND\",\"count\":1}],\"failure\":null,\"results\":{\"expires_at\":\"2026-11-16T16:08:25.381Z\",\"files\":[{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_0d703254bf16453b843c7cab15c94c3a/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845305&Signature=QzPli9ZxoMbjwnB6cwhq7LA4aynoIxpqkAOP%2BK23a9DOz8NuPs1jk1bOCYy9g5lI11PzlV4wRiQ4b7qlMiDruzVBqbzd3PcK8htnDyO0TXc18ziRG8QFlzFqVnZE20kRtFlkdQVjRWtbdaxeW03F1svUpLVliZWKywaf3yFkQ7S2e1jPbUEOYoGSz%2FQFtsQTamrG7y3aEfheh4B%2BjLqJFC%2F9nautgfQBE%2BhfS0oqRHy66nbNSBQMJ6E7KFglvVsGpuo%2FEqG9F1yhMJaUKWBd0loHQtQ38GAddqFCojTi8XbQKuryvVUXRU8sE9kv1QXcxJJm%2FxTpN83sO%2FZdF5MV6w%3D%3D\",\"items\":37,\"bytes\":132137}]},\"invalid_urls\":[],\"request_id\":\"fb6b40ac-3e3b-47d5-b612-041295474120\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "id": "batch_0d703254bf16453b843c7cab15c94c3a",
+      "status": "completed",
+      "mode": "scrape",
+      "formats": {
+        "html": false,
+        "markdown": true,
+        "screenshot": false,
+        "images": false,
+        "bytes": false,
+        "parse": false,
+        "product": false,
+        "highlights": false,
+        "json": false
+      },
+      "tags": [
+        "now-on-display-eu-west-supplement"
+      ],
+      "policies": [],
+      "crawl": null,
+      "input": {
+        "reserved": 37,
+        "reserved_is_ceiling": false,
+        "submitted": 37,
+        "duplicates": 0,
+        "invalid": 0
+      },
+      "progress": {
+        "succeeded": 36,
+        "failed": 1,
+        "pending": 0
+      },
+      "credits": {
+        "reserved": 37,
+        "refunded": 0,
+        "ocr_charged": 0,
+        "net": 37
+      },
+      "timing": {
+        "created_at": "2026-11-15T16:07:04.977Z",
+        "started_at": "2026-11-15T16:07:23.393Z",
+        "completed_at": "2026-11-15T16:08:23.640Z"
+      },
+      "page_errors": [
+        {
+          "code": "NOT_FOUND",
+          "count": 1
+        }
+      ],
+      "failure": null,
+      "results": {
+        "expires_at": "2026-11-16T16:08:25.381Z",
+        "files": [
+          {
+            "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_0d703254bf16453b843c7cab15c94c3a/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845305&Signature=QzPli9ZxoMbjwnB6cwhq7LA4aynoIxpqkAOP%2BK23a9DOz8NuPs1jk1bOCYy9g5lI11PzlV4wRiQ4b7qlMiDruzVBqbzd3PcK8htnDyO0TXc18ziRG8QFlzFqVnZE20kRtFlkdQVjRWtbdaxeW03F1svUpLVliZWKywaf3yFkQ7S2e1jPbUEOYoGSz%2FQFtsQTamrG7y3aEfheh4B%2BjLqJFC%2F9nautgfQBE%2BhfS0oqRHy66nbNSBQMJ6E7KFglvVsGpuo%2FEqG9F1yhMJaUKWBd0loHQtQ38GAddqFCojTi8XbQKuryvVUXRU8sE9kv1QXcxJJm%2FxTpN83sO%2FZdF5MV6w%3D%3D",
+            "items": 37,
+            "bytes": 132137
+          }
+        ]
+      },
+      "invalid_urls": [],
+      "request_id": "fb6b40ac-3e3b-47d5-b612-041295474120"
+    }
+  }
+}

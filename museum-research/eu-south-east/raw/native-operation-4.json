@@ -1,0 +1,20 @@
+{
+  "text": "URL: http://www.casadashistoriaspaularego.com/en/\nContent-Type: text/html\nMethod: failed\nNotes: Failed to fetch URL (HTTP 404)\n\n---\n\n",
+  "details": {
+    "kind": "url",
+    "url": "http://www.casadashistoriaspaularego.com/en/",
+    "finalUrl": "http://www.casadashistoriaspaularego.com/en/",
+    "contentType": "text/html",
+    "method": "failed",
+    "truncated": false,
+    "notes": [
+      "Failed to fetch URL (HTTP 404)"
+    ],
+    "meta": {
+      "source": {
+        "type": "url",
+        "value": "http://www.casadashistoriaspaularego.com/en/"
+      }
+    }
+  }
+}

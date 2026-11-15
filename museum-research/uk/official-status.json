@@ -1,0 +1,72 @@
+{
+  "id": "batch_3cc5df9cdc2e49d99adcf30414ade015",
+  "status": "completed",
+  "mode": "scrape",
+  "formats": {
+    "html": false,
+    "markdown": true,
+    "screenshot": false,
+    "images": false,
+    "bytes": false,
+    "parse": false,
+    "product": false,
+    "highlights": false,
+    "json": false
+  },
+  "tags": [
+    "art-museums-uk-official-programs"
+  ],
+  "policies": [],
+  "crawl": null,
+  "input": {
+    "reserved": 75,
+    "reserved_is_ceiling": false,
+    "submitted": 75,
+    "duplicates": 0,
+    "invalid": 0
+  },
+  "progress": {
+    "succeeded": 73,
+    "failed": 2,
+    "pending": 0
+  },
+  "credits": {
+    "reserved": 75,
+    "refunded": 1,
+    "ocr_charged": 0,
+    "net": 74
+  },
+  "timing": {
+    "created_at": "2026-11-15T16:06:56.458Z",
+    "started_at": "2026-11-15T16:06:58.058Z",
+    "completed_at": "2026-11-15T16:07:21.844Z"
+  },
+  "page_errors": [
+    {
+      "code": "NOT_FOUND",
+      "count": 1
+    },
+    {
+      "code": "WEBSITE_ACCESS_ERROR",
+      "count": 1
+    }
+  ],
+  "failure": null,
+  "results": {
+    "expires_at": "2026-11-16T16:09:14.896Z",
+    "files": [
+      {
+        "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_3cc5df9cdc2e49d99adcf30414ade015/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845354&Signature=APSEVHu7R0MhYcbGdXhfSRHZsXaLaBrorG0B6pdLZqNsOUVAzf6OskuB8ZySoqadO0X2b25vxI3NEA1ESNxMsx4LReAvytJo%2FaehaI7HdHt%2F12nx4UEMuOOkp4uEIeOuraHzQ%2FHMQy%2Fptt5C%2B1rvfK8jD2qao2gepAbFio1WhYxBNoJzSEM0prXIRE72bBVZrKy%2BisJ9O6SHJE66JgqW422cQSdVWljOaCi23eMukmL29%2BHapziIvsV9aRvw5NekR3SXEmJsbb4l7k9PzxiJrgE7B1%2F4Gr5dcCTkMfKiMSqIvvLBwg70zBM1JzNbFnUZfSgdxwftDimsk%2BrKccG%2F8g%3D%3D",
+        "items": 50,
+        "bytes": 168632
+      },
+      {
+        "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_3cc5df9cdc2e49d99adcf30414ade015/output/part-1.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845354&Signature=wRWW55izQcAGAkhw9oCg44sairraQZapu5oRPaKbkBVMIqW9FTKjgaK4AB9YBPPGK8wo5pf3%2FbKBBHZxKkGHfsvScCshwZcAzYuiLzOj1lIXs2Nb%2BU4u2z9aHyaGDx2DsR%2BbGTN1yUEfBdQavcAUw4b1Ks61BSNNmwiC%2B5kD1ZO78mmi1FS9Zp3dlt9DwGoQyeUk4JEqRHLagDX0fSCj4vPVT%2BFQ6gZV8KrofKVi47r%2FN2OzGkdHXeAonIi%2FlmdMvs1IWcin1knDHZP3IR%2FOk1AyGyje8vj13Tyf6qSTIP7HhR9HCvMwI4FfoX913zz5wCaBnfM1nks%2B3bzBvHxiRA%3D%3D",
+        "items": 25,
+        "bytes": 72642
+      }
+    ]
+  },
+  "invalid_urls": [],
+  "request_id": "0c3dfada-690d-4b7c-a714-a427c502b624"
+}

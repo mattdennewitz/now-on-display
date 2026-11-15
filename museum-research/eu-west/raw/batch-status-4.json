@@ -1,0 +1,100 @@
+{
+  "text": "{\"id\":\"batch_1e8d7ce5eb5d48ee9b569962b653c08e\",\"status\":\"completed\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-eu-west\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":182,\"reserved_is_ceiling\":false,\"submitted\":182,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":172,\"failed\":10,\"pending\":0},\"credits\":{\"reserved\":182,\"refunded\":3,\"ocr_charged\":0,\"net\":179},\"timing\":{\"created_at\":\"2026-11-15T15:58:33.429Z\",\"started_at\":\"2026-11-15T16:00:40.272Z\",\"completed_at\":\"2026-11-15T16:01:38.698Z\"},\"page_errors\":[{\"code\":\"NOT_FOUND\",\"count\":7},{\"code\":\"WEBSITE_NOT_FOUND\",\"count\":3}],\"failure\":null,\"results\":{\"expires_at\":\"2026-11-16T16:04:03.944Z\",\"files\":[{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_1e8d7ce5eb5d48ee9b569962b653c08e/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845043&Signature=MEXxIqCBWLyR5ou4s%2BA27DHauZAwevKvfsVbk2k7W23Ys6cnRjqzXiM5Kc4k63WrFOLtdiwl4ycJNmrWjjMNW1VPPqpZbdCnrSHhzs3xp2MIw2JEh3l%2FhLUYDsNcKeyt18XaN900VAb3FqimeV%2BKcbKSVh763MsEKBlpGzOqxm0wHlSPeuWReUApMbYPmaceiOMyUCoZSvnHdlG8TCpwfbIzwluLwej4uJ5WB56FdwC1Wh%2FAgGpjACrzK1zWJlIT%2FTeTGo8xrH8p9k1yAfGMGMYcKqvli9XBU63YfxVxJ4LR54fi9VhUI0ogKgdQaQcgL7elJl9oaJDSh8Cxuyg6eQ%3D%3D\",\"items\":50,\"bytes\":171957},{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_1e8d7ce5eb5d48ee9b569962b653c08e/output/part-1.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845043&Signature=mf0gZNNiF0ZKrIZs9oMJ9Xg3YlCjjFctti7qA3Ev5O1Rlzqe7Byzykm1c3%2BZBGxs3kpnSb9uzEiFWBWPQ405RVjIvpAvnW5FoojfbFuuzoj6ei4E80Ij6QtLXf2mMgH2DvcJhbGSUneeXfsa8BowTI5zDbPimEb4u%2F9rkkRrTavtsscSk17X9l1R%2FfSrHdMbMfIZH9C2hg4FwmJaLN6vBNSjrPxam3OSOB2LKgeurAYBYjlpk1x21CraknjvOSaRmAjdD%2BtjzqVByHkflelhqMipZe2BdQAGFwRlRqlxu0B5RY1I5K8gSN1eOCbfF0afidpo2p%2F5cRjE8kpJ0M7ocg%3D%3D\",\"items\":50,\"bytes\":138993},{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_1e8d7ce5eb5d48ee9b569962b653c08e/output/part-2.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845043&Signature=T4uV7LP0Ck55EumDEjizMlZqojTqDJJb09OxLQXCLWJC1wuVTFgobeoh0%2FWxc1q0Rynjc49ZNPYqJgKwDNnvMLBkHpARLc5CWif3hstPOj6nMTZuqoP7GNqZhcaxMQBuPiJNrF7OWbp1Sm2uzGh8CZm7pXWI5dgrUDlg%2BqF%2BKHqmtbxV9aeEJY8G%2FQrsQ3Vvm7By8DkK19WCGc91yvfpXIR%2BPtyMJ5sq8h2gY5mXYkeIEZn3qd3Ee1Z%2FFfUUIGk8kmvgR%2FtRBFtpwULxpf%2FDtlJ1r5380gctecGOKa7HfguzAHhEpTZh07BcuKBKySw%2FXQnHw8TtlKKp1YV4qrReSg%3D%3D\",\"items\":50,\"bytes\":176198},{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_1e8d7ce5eb5d48ee9b569962b653c08e/output/part-3.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845043&Signature=SNyWkdKdp00DLQXAfyXJymh4yYnttEbDnK%2BI8vqpBBjTkocVzUB3kJuMaYOEA0iAgSjpkvUC3oz4aoZpRkaHaUQV3zwO%2FhJPxbTJJrHrJDq1ypcoF%2F0eMzXeQIg1FH5DE7aswkktAzokyJ%2Bgod0HrT5qpHZXnklSCbiFY41P6Tt2qETYpov1YQEmCLJcDrVjSsC8ICMVovFDbEc7DTj%2BRWc41F8PEEjePDlapyHhgblrQUNpaz3xD2RM7CGTSMZOcRuxefXAv4ObLN2itAeXbPQC1h%2F%2BkKQ%2FH8Uxwrgfg2sCknP6lU9unFeJrU4zUwZ8gO6skU0iblp5W8UDes70cw%3D%3D\",\"items\":32,\"bytes\":100376}]},\"invalid_urls\":[],\"request_id\":\"ebd8a2d7-f16a-4f2f-839a-50b3bc9e69b3\"}",
+  "details": {
+    "serverName": "context",
+    "mcpToolName": "get-batch",
+    "rawContent": [
+      {
+        "type": "text",
+        "text": "{\"id\":\"batch_1e8d7ce5eb5d48ee9b569962b653c08e\",\"status\":\"completed\",\"mode\":\"scrape\",\"formats\":{\"html\":false,\"markdown\":true,\"screenshot\":false,\"images\":false,\"bytes\":false,\"parse\":false,\"product\":false,\"highlights\":false,\"json\":false},\"tags\":[\"now-on-display-eu-west\"],\"policies\":[],\"crawl\":null,\"input\":{\"reserved\":182,\"reserved_is_ceiling\":false,\"submitted\":182,\"duplicates\":0,\"invalid\":0},\"progress\":{\"succeeded\":172,\"failed\":10,\"pending\":0},\"credits\":{\"reserved\":182,\"refunded\":3,\"ocr_charged\":0,\"net\":179},\"timing\":{\"created_at\":\"2026-11-15T15:58:33.429Z\",\"started_at\":\"2026-11-15T16:00:40.272Z\",\"completed_at\":\"2026-11-15T16:01:38.698Z\"},\"page_errors\":[{\"code\":\"NOT_FOUND\",\"count\":7},{\"code\":\"WEBSITE_NOT_FOUND\",\"count\":3}],\"failure\":null,\"results\":{\"expires_at\":\"2026-11-16T16:04:03.944Z\",\"files\":[{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_1e8d7ce5eb5d48ee9b569962b653c08e/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845043&Signature=MEXxIqCBWLyR5ou4s%2BA27DHauZAwevKvfsVbk2k7W23Ys6cnRjqzXiM5Kc4k63WrFOLtdiwl4ycJNmrWjjMNW1VPPqpZbdCnrSHhzs3xp2MIw2JEh3l%2FhLUYDsNcKeyt18XaN900VAb3FqimeV%2BKcbKSVh763MsEKBlpGzOqxm0wHlSPeuWReUApMbYPmaceiOMyUCoZSvnHdlG8TCpwfbIzwluLwej4uJ5WB56FdwC1Wh%2FAgGpjACrzK1zWJlIT%2FTeTGo8xrH8p9k1yAfGMGMYcKqvli9XBU63YfxVxJ4LR54fi9VhUI0ogKgdQaQcgL7elJl9oaJDSh8Cxuyg6eQ%3D%3D\",\"items\":50,\"bytes\":171957},{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_1e8d7ce5eb5d48ee9b569962b653c08e/output/part-1.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845043&Signature=mf0gZNNiF0ZKrIZs9oMJ9Xg3YlCjjFctti7qA3Ev5O1Rlzqe7Byzykm1c3%2BZBGxs3kpnSb9uzEiFWBWPQ405RVjIvpAvnW5FoojfbFuuzoj6ei4E80Ij6QtLXf2mMgH2DvcJhbGSUneeXfsa8BowTI5zDbPimEb4u%2F9rkkRrTavtsscSk17X9l1R%2FfSrHdMbMfIZH9C2hg4FwmJaLN6vBNSjrPxam3OSOB2LKgeurAYBYjlpk1x21CraknjvOSaRmAjdD%2BtjzqVByHkflelhqMipZe2BdQAGFwRlRqlxu0B5RY1I5K8gSN1eOCbfF0afidpo2p%2F5cRjE8kpJ0M7ocg%3D%3D\",\"items\":50,\"bytes\":138993},{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_1e8d7ce5eb5d48ee9b569962b653c08e/output/part-2.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845043&Signature=T4uV7LP0Ck55EumDEjizMlZqojTqDJJb09OxLQXCLWJC1wuVTFgobeoh0%2FWxc1q0Rynjc49ZNPYqJgKwDNnvMLBkHpARLc5CWif3hstPOj6nMTZuqoP7GNqZhcaxMQBuPiJNrF7OWbp1Sm2uzGh8CZm7pXWI5dgrUDlg%2BqF%2BKHqmtbxV9aeEJY8G%2FQrsQ3Vvm7By8DkK19WCGc91yvfpXIR%2BPtyMJ5sq8h2gY5mXYkeIEZn3qd3Ee1Z%2FFfUUIGk8kmvgR%2FtRBFtpwULxpf%2FDtlJ1r5380gctecGOKa7HfguzAHhEpTZh07BcuKBKySw%2FXQnHw8TtlKKp1YV4qrReSg%3D%3D\",\"items\":50,\"bytes\":176198},{\"url\":\"https://storage.googleapis.com/context-dev-batches/batches/batch_1e8d7ce5eb5d48ee9b569962b653c08e/output/part-3.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845043&Signature=SNyWkdKdp00DLQXAfyXJymh4yYnttEbDnK%2BI8vqpBBjTkocVzUB3kJuMaYOEA0iAgSjpkvUC3oz4aoZpRkaHaUQV3zwO%2FhJPxbTJJrHrJDq1ypcoF%2F0eMzXeQIg1FH5DE7aswkktAzokyJ%2Bgod0HrT5qpHZXnklSCbiFY41P6Tt2qETYpov1YQEmCLJcDrVjSsC8ICMVovFDbEc7DTj%2BRWc41F8PEEjePDlapyHhgblrQUNpaz3xD2RM7CGTSMZOcRuxefXAv4ObLN2itAeXbPQC1h%2F%2BkKQ%2FH8Uxwrgfg2sCknP6lU9unFeJrU4zUwZ8gO6skU0iblp5W8UDes70cw%3D%3D\",\"items\":32,\"bytes\":100376}]},\"invalid_urls\":[],\"request_id\":\"ebd8a2d7-f16a-4f2f-839a-50b3bc9e69b3\"}"
+      }
+    ],
+    "mcpMeta": {
+      "mimeType": "application/json"
+    },
+    "provider": "native",
+    "providerName": "OMP",
+    "structuredContent": {
+      "id": "batch_1e8d7ce5eb5d48ee9b569962b653c08e",
+      "status": "completed",
+      "mode": "scrape",
+      "formats": {
+        "html": false,
+        "markdown": true,
+        "screenshot": false,
+        "images": false,
+        "bytes": false,
+        "parse": false,
+        "product": false,
+        "highlights": false,
+        "json": false
+      },
+      "tags": [
+        "now-on-display-eu-west"
+      ],
+      "policies": [],
+      "crawl": null,
+      "input": {
+        "reserved": 182,
+        "reserved_is_ceiling": false,
+        "submitted": 182,
+        "duplicates": 0,
+        "invalid": 0
+      },
+      "progress": {
+        "succeeded": 172,
+        "failed": 10,
+        "pending": 0
+      },
+      "credits": {
+        "reserved": 182,
+        "refunded": 3,
+        "ocr_charged": 0,
+        "net": 179
+      },
+      "timing": {
+        "created_at": "2026-11-15T15:58:33.429Z",
+        "started_at": "2026-11-15T16:00:40.272Z",
+        "completed_at": "2026-11-15T16:01:38.698Z"
+      },
+      "page_errors": [
+        {
+          "code": "NOT_FOUND",
+          "count": 7
+        },
+        {
+          "code": "WEBSITE_NOT_FOUND",
+          "count": 3
+        }
+      ],
+      "failure": null,
+      "results": {
+        "expires_at": "2026-11-16T16:04:03.944Z",
+        "files": [
+          {
+            "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_1e8d7ce5eb5d48ee9b569962b653c08e/output/part-0.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845043&Signature=MEXxIqCBWLyR5ou4s%2BA27DHauZAwevKvfsVbk2k7W23Ys6cnRjqzXiM5Kc4k63WrFOLtdiwl4ycJNmrWjjMNW1VPPqpZbdCnrSHhzs3xp2MIw2JEh3l%2FhLUYDsNcKeyt18XaN900VAb3FqimeV%2BKcbKSVh763MsEKBlpGzOqxm0wHlSPeuWReUApMbYPmaceiOMyUCoZSvnHdlG8TCpwfbIzwluLwej4uJ5WB56FdwC1Wh%2FAgGpjACrzK1zWJlIT%2FTeTGo8xrH8p9k1yAfGMGMYcKqvli9XBU63YfxVxJ4LR54fi9VhUI0ogKgdQaQcgL7elJl9oaJDSh8Cxuyg6eQ%3D%3D",
+            "items": 50,
+            "bytes": 171957
+          },
+          {
+            "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_1e8d7ce5eb5d48ee9b569962b653c08e/output/part-1.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845043&Signature=mf0gZNNiF0ZKrIZs9oMJ9Xg3YlCjjFctti7qA3Ev5O1Rlzqe7Byzykm1c3%2BZBGxs3kpnSb9uzEiFWBWPQ405RVjIvpAvnW5FoojfbFuuzoj6ei4E80Ij6QtLXf2mMgH2DvcJhbGSUneeXfsa8BowTI5zDbPimEb4u%2F9rkkRrTavtsscSk17X9l1R%2FfSrHdMbMfIZH9C2hg4FwmJaLN6vBNSjrPxam3OSOB2LKgeurAYBYjlpk1x21CraknjvOSaRmAjdD%2BtjzqVByHkflelhqMipZe2BdQAGFwRlRqlxu0B5RY1I5K8gSN1eOCbfF0afidpo2p%2F5cRjE8kpJ0M7ocg%3D%3D",
+            "items": 50,
+            "bytes": 138993
+          },
+          {
+            "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_1e8d7ce5eb5d48ee9b569962b653c08e/output/part-2.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845043&Signature=T4uV7LP0Ck55EumDEjizMlZqojTqDJJb09OxLQXCLWJC1wuVTFgobeoh0%2FWxc1q0Rynjc49ZNPYqJgKwDNnvMLBkHpARLc5CWif3hstPOj6nMTZuqoP7GNqZhcaxMQBuPiJNrF7OWbp1Sm2uzGh8CZm7pXWI5dgrUDlg%2BqF%2BKHqmtbxV9aeEJY8G%2FQrsQ3Vvm7By8DkK19WCGc91yvfpXIR%2BPtyMJ5sq8h2gY5mXYkeIEZn3qd3Ee1Z%2FFfUUIGk8kmvgR%2FtRBFtpwULxpf%2FDtlJ1r5380gctecGOKa7HfguzAHhEpTZh07BcuKBKySw%2FXQnHw8TtlKKp1YV4qrReSg%3D%3D",
+            "items": 50,
+            "bytes": 176198
+          },
+          {
+            "url": "https://storage.googleapis.com/context-dev-batches/batches/batch_1e8d7ce5eb5d48ee9b569962b653c08e/output/part-3.ndjson.gz?GoogleAccessId=gcs-brand-dev-accessor%40brand-fd70e.iam.gserviceaccount.com&Expires=1794845043&Signature=SNyWkdKdp00DLQXAfyXJymh4yYnttEbDnK%2BI8vqpBBjTkocVzUB3kJuMaYOEA0iAgSjpkvUC3oz4aoZpRkaHaUQV3zwO%2FhJPxbTJJrHrJDq1ypcoF%2F0eMzXeQIg1FH5DE7aswkktAzokyJ%2Bgod0HrT5qpHZXnklSCbiFY41P6Tt2qETYpov1YQEmCLJcDrVjSsC8ICMVovFDbEc7DTj%2BRWc41F8PEEjePDlapyHhgblrQUNpaz3xD2RM7CGTSMZOcRuxefXAv4ObLN2itAeXbPQC1h%2F%2BkKQ%2FH8Uxwrgfg2sCknP6lU9unFeJrU4zUwZ8gO6skU0iblp5W8UDes70cw%3D%3D",
+            "items": 32,
+            "bytes": 100376
+          }
+        ]
+      },
+      "invalid_urls": [],
+      "request_id": "ebd8a2d7-f16a-4f2f-839a-50b3bc9e69b3"
+    }
+  }
+}
