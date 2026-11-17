@@ -27,6 +27,13 @@ Gallery Name,Size Tier,City & State,Official Website URL
 
 The website column contains official gallery URLs, not directory-profile URLs. The separate candidate CSV intentionally contains directory-profile URLs and explicit unverified status; do not treat it as an active-gallery directory.
 
+## Crawling implementation plans
+
+These are implementation plans, not an implemented crawling engine. Execute them in order:
+
+1. [Budgeted crawl probe engine](CRAWL_PROBE_PLAN.md): bounded site discovery, metadata classification, strategy selection, and cost accounting.
+2. [Production crawling and display-evidence system](CRAWL_PRODUCTION_PLAN.md): production persistence, orchestration, recurring refresh, artwork identity, and authenticated evidence access after step 1 passes acceptance.
+
 ## Gallery footprint tiers
 
 | Size Tier | Organizations | Classification |
